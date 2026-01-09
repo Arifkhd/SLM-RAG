@@ -1,0 +1,12 @@
+{
+    "type": "MRI Abdomen",
+    "location": "Lumbar region",
+    "clinical_history": "Patient has abdominal pain and bloating.",
+    "findings": [
+        "No abnormal signal intensity or lesions observed.",
+        "No evidence of hemorrhage, infarction, or mass effect.",
+        "All anatomical structures appear normal in size, shape, and signal characteristics."
+    ],
+    "impression": "Normal MRI",
+    "recommendations": "Recommend monitoring and follow-up based on clinical scenario."
+}

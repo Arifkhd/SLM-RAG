@@ -1,0 +1,17 @@
+{
+    "type": "Renal Ultrasound",
+    "exam_region": "Right upper quadrant",
+    "clinical_history": "Evaluation for suspected gallbladder disease.",
+    "technique": "Standard abdominal ultrasound protocol followed.",
+    "findings": [
+        "Major vessels show well-defined waveform on Doppler.",
+        "Urinary bladder is hypoechoic, no intraluminal lesions.",
+        "Breast tissue shows smooth-walled lesion measuring 23.55 mm.",
+        "Right ovary shows normal appearance.",
+        "Testes are coarse with normal vascularity.",
+        "No evidence of DVT; veins compressible with normal flow.",
+        "Fetal cardiac activity present with FHR 36.77 bpm."
+    ],
+    "impression": "Suspicious lesion\u2014further evaluation recommended.",
+    "recommendations": "Refer to specialist for further evaluation."
+}

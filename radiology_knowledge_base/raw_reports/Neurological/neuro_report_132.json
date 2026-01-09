@@ -1,0 +1,12 @@
+{
+    "type": "MRI Brain",
+    "location": "brainstem",
+    "clinical_history": "Patient presents with persistent headache and dizziness.",
+    "findings": [
+        "Adjacent parenchyma appears normal.",
+        "No hemorrhagic transformation detected.",
+        "Corresponding ADC reduction noted."
+    ],
+    "impression": "Ischemic stroke",
+    "recommendations": "Immediate intervention may be required depending on findings."
+}

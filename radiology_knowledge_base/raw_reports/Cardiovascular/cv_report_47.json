@@ -1,0 +1,10 @@
+{
+    "type": "Echocardiogram",
+    "location": "Posterior wall",
+    "clinical_history": "Patient reports palpitations and decreased exercise tolerance.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Aortic stenosis",
+    "recommendations": "Repeat study may be considered based on symptoms."
+}

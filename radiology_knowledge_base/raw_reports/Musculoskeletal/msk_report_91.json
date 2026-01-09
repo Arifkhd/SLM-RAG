@@ -1,0 +1,13 @@
+{
+    "type": "Ultrasound",
+    "location": "femur",
+    "clinical_history": "Patient complains of limited joint movement.",
+    "findings": [
+        "Adjacent soft tissues normal.",
+        "No signs of infection.",
+        "Fluid accumulation noted in the femur joint.",
+        "No fractures detected."
+    ],
+    "impression": "Joint effusion",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be needed."
+}

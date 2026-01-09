@@ -1,0 +1,13 @@
+{
+    "type": "MRI",
+    "location": "humerus",
+    "clinical_history": "Patient has swelling and reduced mobility.",
+    "findings": [
+        "Edema noted in the bone marrow of humerus.",
+        "Joint spaces normal.",
+        "No fracture line visible.",
+        "Soft tissues appear normal."
+    ],
+    "impression": "Bone marrow edema",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be needed."
+}

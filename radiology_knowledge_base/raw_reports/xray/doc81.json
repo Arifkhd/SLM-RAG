@@ -1,0 +1,11 @@
+{
+    "type": "Chest X-Ray",
+    "location": "Bilateral lungs",
+    "findings": [
+        "Heart size is within normal limits.",
+        "Diaphragm is normal in contour.",
+        "Bony thoracic cage appears normal.",
+        "Lungs are clear with no consolidation, collapse, or effusion."
+    ],
+    "impression": "Normal chest X-ray"
+}

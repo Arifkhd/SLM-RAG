@@ -1,0 +1,13 @@
+{
+    "type": "PET-CT Thoracic",
+    "location": "pleural space",
+    "clinical_history": "Patient with chest pain and shortness of breath.",
+    "findings": [
+        "Fibrotic changes with honeycombing in pleural space.",
+        "Enlarged lymph nodes in pleural space, suggestive of lymphadenopathy.",
+        "Emphysematous changes with hyperlucency in pleural space.",
+        "Well-defined nodule measuring 37 mm in pleural space."
+    ],
+    "impression": "Pneumonia",
+    "recommendations": "Consider CT or HRCT for detailed evaluation."
+}

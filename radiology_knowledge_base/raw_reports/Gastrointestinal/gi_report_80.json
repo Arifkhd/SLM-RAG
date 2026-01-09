@@ -1,0 +1,13 @@
+{
+    "type": "Endoscopy",
+    "location": "Body",
+    "clinical_history": "History of vomiting and melena.",
+    "findings": [
+        "No ulceration or mass seen.",
+        "Adjacent duodenum unremarkable.",
+        "No bleeding detected.",
+        "Normal pyloric region."
+    ],
+    "impression": "Gastritis",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be considered."
+}

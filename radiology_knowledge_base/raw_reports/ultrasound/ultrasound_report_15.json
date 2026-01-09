@@ -1,0 +1,17 @@
+{
+    "type": "Musculoskeletal Ultrasound",
+    "exam_region": "Upper abdomen",
+    "clinical_history": "Urinary difficulty and suspected prostate enlargement.",
+    "technique": "Standard abdominal ultrasound protocol followed.",
+    "findings": [
+        "Urinary bladder is well-defined, no intraluminal lesions.",
+        "Left kidney shows ill-defined, corticomedullary differentiation preserved.",
+        "Amniotic fluid index measures 28.03.",
+        "Common bile duct measures 36.88 mm, within normal limits.",
+        "Right ovary shows hypoechoic appearance.",
+        "Soft tissue region demonstrates unremarkable without fluid collection.",
+        "Testes are well-defined with normal vascularity."
+    ],
+    "impression": "Findings suggest mild inflammatory changes.",
+    "recommendations": "Correlate clinically."
+}

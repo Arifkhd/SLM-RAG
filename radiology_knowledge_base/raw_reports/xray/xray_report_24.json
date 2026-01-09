@@ -1,0 +1,14 @@
+{
+    "type": "Chest X-Ray",
+    "location": "Right pleural space",
+    "clinical_history": "History of congestive heart failure.",
+    "findings": [
+        "No rib fractures or bony abnormalities.",
+        "Adjacent lung shows mild compression, no collapse noted.",
+        "Cardiac silhouette normal, no cardiomegaly.",
+        "Moderate fluid collection in the specified pleural space causing blunting of the costophrenic angle.",
+        "Mediastinum slightly shifted due to effusion."
+    ],
+    "impression": "Pleural effusion",
+    "recommendations": "Clinical correlation advised. Follow-up imaging may be recommended based on the clinical scenario."
+}

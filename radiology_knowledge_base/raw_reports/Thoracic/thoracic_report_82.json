@@ -1,0 +1,14 @@
+{
+    "type": "HRCT Chest",
+    "location": "apex",
+    "clinical_history": "Patient presents with cough and fever.",
+    "findings": [
+        "Bronchiectatic changes in apex region.",
+        "Pulmonary edema with perihilar haze in apex.",
+        "Patchy ground-glass opacities noted in apex.",
+        "Well-defined nodule measuring 24 mm in apex.",
+        "Collapse of apex lobe with volume loss."
+    ],
+    "impression": "Pulmonary fibrosis",
+    "recommendations": "Monitor progression with serial imaging."
+}

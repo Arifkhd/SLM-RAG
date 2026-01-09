@@ -1,0 +1,18 @@
+{
+    "type": "Doppler Vascular Ultrasound",
+    "exam_region": "Left upper quadrant",
+    "clinical_history": "Breast lump evaluation.",
+    "technique": "Color Doppler and spectral analysis performed where necessary.",
+    "findings": [
+        "Major vessels show coarse waveform on Doppler.",
+        "Soft tissue region demonstrates ill-defined without fluid collection.",
+        "Epididymis demonstrates enlarged features.",
+        "Placenta is homogeneous and normally located.",
+        "Testes are ill-defined with normal vascularity.",
+        "Urinary bladder is isoechoic, no intraluminal lesions.",
+        "No evidence of DVT; veins compressible with normal flow.",
+        "Prostate is mildly thickened; volume approximately 6.49 cc."
+    ],
+    "impression": "Findings compatible with early pregnancy.",
+    "recommendations": "Correlate clinically."
+}

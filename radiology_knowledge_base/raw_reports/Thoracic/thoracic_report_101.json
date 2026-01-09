@@ -1,0 +1,14 @@
+{
+    "type": "Chest X-ray",
+    "location": "diaphragmatic region",
+    "clinical_history": "Patient with unexplained weight loss and fatigue.",
+    "findings": [
+        "Enlarged lymph nodes in diaphragmatic region, suggestive of lymphadenopathy.",
+        "Pulmonary embolism suspected; filling defect in segmental artery of diaphragmatic region.",
+        "Mediastinal widening observed with soft tissue density.",
+        "Collapse of diaphragmatic region lobe with volume loss.",
+        "Well-defined nodule measuring 19 mm in diaphragmatic region."
+    ],
+    "impression": "Pneumonia",
+    "recommendations": "Consider CT or HRCT for detailed evaluation."
+}

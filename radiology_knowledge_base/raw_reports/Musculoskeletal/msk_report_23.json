@@ -1,0 +1,14 @@
+{
+    "type": "Ultrasound",
+    "location": "right knee",
+    "clinical_history": "Patient complains of limited joint movement.",
+    "findings": [
+        "Adjacent soft tissue normal.",
+        "Mild fluid surrounding tendon.",
+        "No rupture observed.",
+        "Thickening and hypoechogenicity of the right knee tendon.",
+        "Joint unremarkable."
+    ],
+    "impression": "Tendonitis",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be needed."
+}

@@ -1,0 +1,18 @@
+{
+    "type": "Doppler Vascular Ultrasound",
+    "exam_region": "Upper abdomen",
+    "clinical_history": "Patient presents with abdominal discomfort and bloating.",
+    "technique": "Longitudinal, transverse, and oblique views obtained.",
+    "findings": [
+        "Right kidney demonstrates well-defined, no hydronephrosis.",
+        "Right ovary shows mildly heterogeneous appearance.",
+        "Prostate is ill-defined; volume approximately 24.15 cc.",
+        "Left kidney shows homogeneous, corticomedullary differentiation preserved.",
+        "Liver appears coarse with no focal lesions.",
+        "Testes are normal with normal vascularity.",
+        "Soft tissue region demonstrates mildly thickened without fluid collection.",
+        "Urinary bladder is coarse, no intraluminal lesions."
+    ],
+    "impression": "Findings compatible with early pregnancy.",
+    "recommendations": "FNAC/biopsy recommended if clinically indicated."
+}

@@ -1,0 +1,12 @@
+{
+    "type": "CT Brain",
+    "location": "occipital lobe",
+    "clinical_history": "History of sudden severe headache.",
+    "findings": [
+        "Diffuse low signal intensity noted in the brain parenchyma.",
+        "No focal mass lesion detected.",
+        "Sulci effaced and ventricles compressed."
+    ],
+    "impression": "Cerebral edema",
+    "recommendations": "Immediate intervention may be required depending on findings."
+}

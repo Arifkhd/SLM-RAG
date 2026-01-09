@@ -1,0 +1,11 @@
+{
+    "type": "Colonoscopy",
+    "location": "Central region",
+    "clinical_history": "Routine screening for colon cancer.",
+    "findings": [
+        "No abscess or perforation seen.",
+        "No obstructive lesions."
+    ],
+    "impression": "Colitis",
+    "recommendations": "Refer to gastroenterologist for further management."
+}

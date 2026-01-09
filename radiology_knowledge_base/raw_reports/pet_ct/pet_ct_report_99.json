@@ -1,0 +1,14 @@
+{
+    "type": "PET-CT for oncology",
+    "location": "myocardium",
+    "clinical_history": "Patient with history of known malignancy referred for staging PET-CT.",
+    "findings": [
+        "Diffuse uptake in thyroid gland, differential includes thyroiditis or nodular disease.",
+        "Multiple hypermetabolic lesions in bones, suggestive of metastases.",
+        "No abnormal FDG uptake in the remaining organs.",
+        "Focal hypermetabolic activity noted in myocardium with SUVmax 7.0.",
+        "Diffuse mild increased uptake in liver, likely benign."
+    ],
+    "impression": "Bone metastasis",
+    "recommendations": "Consider lab tests to assess metabolic activity if indicated."
+}

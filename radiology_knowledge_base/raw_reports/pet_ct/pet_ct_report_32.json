@@ -1,0 +1,14 @@
+{
+    "type": "PET-CT for infection",
+    "location": "femur",
+    "clinical_history": "Patient with suspected cardiac sarcoidosis.",
+    "findings": [
+        "Diffuse mild increased uptake in liver, likely benign.",
+        "Focal hypermetabolic activity noted in femur with SUVmax 3.37.",
+        "Focal increased uptake in femur, recommend further correlation with CT morphology.",
+        "Hypermetabolic lymph nodes noted in femur, suggestive of malignancy.",
+        "Mild inflammatory uptake in femur region."
+    ],
+    "impression": "Focal infection",
+    "recommendations": "Refer to oncology or specialist for further management."
+}

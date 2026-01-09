@@ -1,0 +1,14 @@
+{
+    "type": "Chest X-Ray",
+    "location": "Right lung",
+    "clinical_history": "Patient presents with sudden onset chest pain and shortness of breath.",
+    "findings": [
+        "Cardiac silhouette normal.",
+        "Bony thorax intact with no fractures.",
+        "Partial collapse of the lung observed with visible lung margin.",
+        "No fluid detected.",
+        "Air is present in the pleural space of the affected lung."
+    ],
+    "impression": "Pneumothorax",
+    "recommendations": "Clinical correlation advised. Follow-up imaging may be recommended based on the clinical scenario."
+}

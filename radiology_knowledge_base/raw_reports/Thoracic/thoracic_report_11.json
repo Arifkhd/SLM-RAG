@@ -1,0 +1,15 @@
+{
+    "type": "Chest X-ray",
+    "location": "left lower lobe",
+    "clinical_history": "Patient with trauma to thorax.",
+    "findings": [
+        "Collapse of left lower lobe lobe with volume loss.",
+        "Pleural effusion on the left lower lobe side, moderate in size.",
+        "Enlarged lymph nodes in left lower lobe, suggestive of lymphadenopathy.",
+        "Mediastinal widening observed with soft tissue density.",
+        "Patchy ground-glass opacities noted in left lower lobe.",
+        "Interstitial thickening and reticular pattern in left lower lobe."
+    ],
+    "impression": "Pulmonary fibrosis",
+    "recommendations": "Immediate intervention may be required depending on severity."
+}

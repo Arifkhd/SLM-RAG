@@ -1,0 +1,18 @@
+{
+    "type": "Hepatobiliary Ultrasound",
+    "exam_region": "Kidneys",
+    "clinical_history": "Follow-up ultrasound for known liver lesion.",
+    "technique": "Real-time gray-scale and color Doppler imaging performed.",
+    "findings": [
+        "Epididymis demonstrates coarse features.",
+        "Major vessels show normal waveform on Doppler.",
+        "No evidence of DVT; veins compressible with normal flow.",
+        "Gallbladder shows hyperechoic, no stones or wall thickening.",
+        "Uterus appears hyperechoic; endometrial thickness measures 17.24 mm.",
+        "Right ovary shows hyperechoic appearance.",
+        "Right kidney demonstrates normal, no hydronephrosis.",
+        "Fetal cardiac activity present with FHR 18.26 bpm."
+    ],
+    "impression": "Evidence of cystic lesion\u2014likely benign.",
+    "recommendations": "Refer to specialist for further evaluation."
+}

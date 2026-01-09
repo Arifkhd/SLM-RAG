@@ -1,0 +1,12 @@
+{
+    "type": "MRI Brain",
+    "location": "basal ganglia",
+    "clinical_history": "Patient reports weakness and difficulty speaking.",
+    "findings": [
+        "Acute hemorrhage noted in the basal ganglia lobe.",
+        "Mass effect causing mild midline shift.",
+        "No additional lesions detected."
+    ],
+    "impression": "Hemorrhagic stroke",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be necessary."
+}

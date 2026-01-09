@@ -1,0 +1,15 @@
+{
+    "type": "Brain PET-CT",
+    "location": "thyroid",
+    "clinical_history": "Patient with unexplained weight loss and fever.",
+    "findings": [
+        "No abnormal FDG uptake in the remaining organs.",
+        "Physiologic brown fat uptake in supraclavicular region.",
+        "Mild inflammatory uptake in thyroid region.",
+        "Focal uptake in thyroid consistent with post-surgical changes.",
+        "Physiologic uptake observed in brain, myocardium, and urinary tract.",
+        "Multiple hypermetabolic lesions in bones, suggestive of metastases."
+    ],
+    "impression": "Brain hypometabolism",
+    "recommendations": "Refer to oncology or specialist for further management."
+}

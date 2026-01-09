@@ -1,0 +1,15 @@
+{
+    "type": "PET-CT Thoracic",
+    "location": "left upper lobe",
+    "clinical_history": "History of recurrent respiratory infections.",
+    "findings": [
+        "Bronchiectatic changes in left upper lobe region.",
+        "Small pneumothorax on the left upper lobe side.",
+        "Well-defined nodule measuring 45 mm in left upper lobe.",
+        "Collapse of left upper lobe lobe with volume loss.",
+        "Interstitial thickening and reticular pattern in left upper lobe.",
+        "Thoracic aortic aneurysm measuring 34 mm in diameter."
+    ],
+    "impression": "Bronchiectasis",
+    "recommendations": "Further evaluation with PET-CT recommended if malignancy suspected."
+}

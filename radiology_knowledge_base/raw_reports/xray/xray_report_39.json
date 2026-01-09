@@ -1,0 +1,15 @@
+{
+    "type": "Chest X-Ray",
+    "location": "Bilateral lungs",
+    "clinical_history": "Routine screening chest X-ray with no specific complaints.",
+    "findings": [
+        "Lung fields are clear bilaterally with no consolidation, infiltrates, or masses.",
+        "Bony thorax is intact with normal alignment, no fractures or lytic lesions.",
+        "Pulmonary vasculature appears normal with no evidence of congestion or edema.",
+        "Diaphragm and costophrenic angles are normal.",
+        "Cardiac silhouette is normal in size and contour.",
+        "No pleural effusion or pneumothorax is seen."
+    ],
+    "impression": "Normal chest X-ray",
+    "recommendations": "Clinical correlation advised. Follow-up imaging may be recommended based on the clinical scenario."
+}

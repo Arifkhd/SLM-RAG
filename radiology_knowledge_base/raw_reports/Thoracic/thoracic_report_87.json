@@ -1,0 +1,14 @@
+{
+    "type": "HRCT Chest",
+    "location": "hilum",
+    "clinical_history": "Patient with trauma to thorax.",
+    "findings": [
+        "Fibrotic changes with honeycombing in hilum.",
+        "Emphysematous changes with hyperlucency in hilum.",
+        "Collapse of hilum lobe with volume loss.",
+        "Small pneumothorax on the hilum side.",
+        "Thoracic aortic aneurysm measuring 48 mm in diameter."
+    ],
+    "impression": "Pneumonia",
+    "recommendations": "Monitor progression with serial imaging."
+}

@@ -1,0 +1,12 @@
+{
+    "type": "Ultrasound",
+    "location": "anterior placenta",
+    "clinical_history": "Patient referred for evaluation of suspected malpresentation.",
+    "findings": [
+        "Fetal movement observed.",
+        "No evidence of cord compression.",
+        "Amniotic fluid index measured at 16 cm."
+    ],
+    "impression": "Amniotic fluid abnormalities",
+    "recommendations": "Immediate intervention may be required depending on clinical evolution."
+}

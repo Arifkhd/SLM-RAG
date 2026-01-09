@@ -1,0 +1,18 @@
+{
+    "type": "Pelvic Ultrasound",
+    "exam_region": "Pelvis",
+    "clinical_history": "Pelvic pain with suspected ovarian pathology.",
+    "technique": "Longitudinal, transverse, and oblique views obtained.",
+    "findings": [
+        "Uterus appears unremarkable; endometrial thickness measures 26.9 mm.",
+        "Urinary bladder is smooth-walled, no intraluminal lesions.",
+        "Right kidney demonstrates normal, no hydronephrosis.",
+        "Epididymis demonstrates well-defined features.",
+        "Major vessels show smooth-walled waveform on Doppler.",
+        "Fetal cardiac activity present with FHR 15.59 bpm.",
+        "Soft tissue region demonstrates mildly thickened without fluid collection.",
+        "Amniotic fluid index measures 12.37."
+    ],
+    "impression": "Appearance concerning for possible malignancy\u2014correlate clinically.",
+    "recommendations": "Refer to specialist for further evaluation."
+}

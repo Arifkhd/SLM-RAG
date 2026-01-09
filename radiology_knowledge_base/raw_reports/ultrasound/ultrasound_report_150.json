@@ -1,0 +1,18 @@
+{
+    "type": "Abdominal Ultrasound",
+    "exam_region": "Urinary bladder",
+    "clinical_history": "Evaluation for suspected gallbladder disease.",
+    "technique": "Real-time gray-scale and color Doppler imaging performed.",
+    "findings": [
+        "Right kidney demonstrates enlarged, no hydronephrosis.",
+        "Fetal cardiac activity present with FHR 10.36 bpm.",
+        "Prostate is mildly thickened; volume approximately 24.03 cc.",
+        "Right ovary shows ill-defined appearance.",
+        "Uterus appears isoechoic; endometrial thickness measures 9.08 mm.",
+        "Testes are normal with normal vascularity.",
+        "Urinary bladder is normal, no intraluminal lesions.",
+        "Thyroid gland shows ill-defined echotexture; no suspicious nodules."
+    ],
+    "impression": "Suspicious lesion\u2014further evaluation recommended.",
+    "recommendations": "MRI or CT correlation may be helpful."
+}

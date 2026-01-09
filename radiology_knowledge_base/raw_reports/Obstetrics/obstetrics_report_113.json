@@ -1,0 +1,11 @@
+{
+    "type": "Doppler Ultrasound",
+    "location": "left adnexa",
+    "clinical_history": "Patient has reduced fetal movements.",
+    "findings": [
+        "Middle cerebral artery velocities within normal range.",
+        "Placental circulation adequate."
+    ],
+    "impression": "Normal fetal circulation",
+    "recommendations": "Follow-up ultrasound recommended in 2 weeks."
+}

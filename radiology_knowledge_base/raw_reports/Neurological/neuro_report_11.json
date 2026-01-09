@@ -1,0 +1,13 @@
+{
+    "type": "CT Brain",
+    "location": "parietal lobe",
+    "clinical_history": "Patient with acute head trauma.",
+    "findings": [
+        "No hemorrhagic transformation.",
+        "Ventricular system normal.",
+        "Adjacent parenchyma normal.",
+        "No midline shift observed."
+    ],
+    "impression": "Brain infarct",
+    "recommendations": "Immediate intervention may be required depending on findings."
+}

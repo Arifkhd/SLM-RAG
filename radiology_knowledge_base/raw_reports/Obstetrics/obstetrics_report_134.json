@@ -1,0 +1,13 @@
+{
+    "type": "MRI",
+    "location": "fundal region",
+    "clinical_history": "Patient reports abdominal pain and spotting.",
+    "findings": [
+        "No internal septations.",
+        "Fetal growth appropriate.",
+        "No vascular flow within lesion.",
+        "Uterus and placenta normal."
+    ],
+    "impression": "Adnexal mass in pregnancy",
+    "recommendations": "Follow-up ultrasound recommended in 2 weeks."
+}

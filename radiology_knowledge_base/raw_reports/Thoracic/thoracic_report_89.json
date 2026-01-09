@@ -1,0 +1,14 @@
+{
+    "type": "Chest X-ray",
+    "location": "right lower lobe",
+    "clinical_history": "Follow-up imaging for known pulmonary nodule.",
+    "findings": [
+        "Collapse of right lower lobe lobe with volume loss.",
+        "Pulmonary edema with perihilar haze in right lower lobe.",
+        "Mediastinal widening observed with soft tissue density.",
+        "Emphysematous changes with hyperlucency in right lower lobe.",
+        "Pulmonary embolism suspected; filling defect in segmental artery of right lower lobe."
+    ],
+    "impression": "Emphysema",
+    "recommendations": "Clinical correlation advised; refer to pulmonologist."
+}

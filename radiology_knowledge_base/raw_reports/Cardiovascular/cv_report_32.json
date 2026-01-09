@@ -1,0 +1,10 @@
+{
+    "type": "ECG",
+    "location": "Posterior wall",
+    "clinical_history": "Routine evaluation for cardiac rhythm abnormalities.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Heart block",
+    "recommendations": "Repeat study may be considered based on symptoms."
+}

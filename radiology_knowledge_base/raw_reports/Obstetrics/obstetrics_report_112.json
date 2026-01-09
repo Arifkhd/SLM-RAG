@@ -1,0 +1,12 @@
+{
+    "type": "Doppler Ultrasound",
+    "location": "posterior placenta",
+    "clinical_history": "Patient has reduced fetal movements.",
+    "findings": [
+        "No signs of fetal hypoxia.",
+        "Ductus venosus flow normal.",
+        "Placental circulation adequate."
+    ],
+    "impression": "Normal fetal circulation",
+    "recommendations": "Monitor amniotic fluid and fetal growth closely."
+}

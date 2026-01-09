@@ -1,0 +1,11 @@
+{
+    "type": "Chest X-Ray",
+    "location": "Left upper lobe",
+    "findings": [
+        "Consolidation observed.",
+        "Heart size normal.",
+        "No pleural effusion detected.",
+        "Air bronchograms present."
+    ],
+    "impression": "Pneumonia"
+}

@@ -1,0 +1,12 @@
+{
+    "type": "Ultrasound",
+    "location": "left adnexa",
+    "clinical_history": "Patient reports abdominal pain and spotting.",
+    "findings": [
+        "Cystic hygroma observed in the neck region.",
+        "Ventriculomegaly noted in the fetal brain.",
+        "Other organs appear normal on imaging."
+    ],
+    "impression": "Fetal congenital anomaly",
+    "recommendations": "MRI may be advised for detailed evaluation if necessary."
+}

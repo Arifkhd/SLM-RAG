@@ -1,0 +1,13 @@
+{
+    "type": "PET-CT Thoracic",
+    "location": "perihilar region",
+    "clinical_history": "Patient with chronic dyspnea and smoking history.",
+    "findings": [
+        "Collapse of perihilar region lobe with volume loss.",
+        "Mediastinal widening observed with soft tissue density.",
+        "Interstitial thickening and reticular pattern in perihilar region.",
+        "Emphysematous changes with hyperlucency in perihilar region."
+    ],
+    "impression": "Pulmonary fibrosis",
+    "recommendations": "Further evaluation with PET-CT recommended if malignancy suspected."
+}

@@ -1,0 +1,13 @@
+{
+    "type": "MRI Brain",
+    "location": "brainstem",
+    "clinical_history": "History of sudden neurological deficits.",
+    "findings": [
+        "No hemorrhagic transformation detected.",
+        "Adjacent parenchyma appears normal.",
+        "No mass effect or midline shift.",
+        "Corresponding ADC reduction noted."
+    ],
+    "impression": "Ischemic stroke",
+    "recommendations": "Repeat study may be indicated depending on clinical evolution."
+}

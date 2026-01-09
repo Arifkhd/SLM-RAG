@@ -1,0 +1,18 @@
+{
+    "type": "Obstetric Ultrasound",
+    "exam_region": "Upper abdomen",
+    "clinical_history": "Breast lump evaluation.",
+    "technique": "Longitudinal, transverse, and oblique views obtained.",
+    "findings": [
+        "Liver appears isoechoic with no focal lesions.",
+        "Uterus appears ill-defined; endometrial thickness measures 21.7 mm.",
+        "Right kidney demonstrates well-defined, no hydronephrosis.",
+        "Gallbladder shows unremarkable, no stones or wall thickening.",
+        "Placenta is well-defined and normally located.",
+        "Breast tissue shows enlarged lesion measuring 19.66 mm.",
+        "Testes are enlarged with normal vascularity.",
+        "Right ovary shows unremarkable appearance."
+    ],
+    "impression": "Evidence of cystic lesion\u2014likely benign.",
+    "recommendations": "Consider follow-up ultrasound in 6\u20138 weeks."
+}

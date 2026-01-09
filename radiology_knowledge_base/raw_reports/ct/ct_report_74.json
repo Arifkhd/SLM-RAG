@@ -1,0 +1,12 @@
+{
+    "type": "CT Chest",
+    "location": "Right side",
+    "clinical_history": "Patient reports cough, fever, and shortness of breath for several days.",
+    "findings": [
+        "Solitary mass observed in the Right side lobe.",
+        "No lymphadenopathy or pleural effusion.",
+        "Vascular structures unaffected."
+    ],
+    "impression": "Lung mass",
+    "recommendations": "Findings should be correlated with patient symptoms and lab results."
+}

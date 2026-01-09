@@ -1,0 +1,15 @@
+{
+    "type": "Doppler Vascular Ultrasound",
+    "exam_region": "Kidneys",
+    "clinical_history": "Pelvic pain with suspected ovarian pathology.",
+    "technique": "High-resolution linear and curvilinear probes used for detailed evaluation.",
+    "findings": [
+        "Gallbladder shows isoechoic, no stones or wall thickening.",
+        "Left kidney shows enlarged, corticomedullary differentiation preserved.",
+        "Breast tissue shows coarse lesion measuring 17.25 mm.",
+        "Common bile duct measures 35.35 mm, within normal limits.",
+        "Soft tissue region demonstrates isoechoic without fluid collection."
+    ],
+    "impression": "Suspicious lesion\u2014further evaluation recommended.",
+    "recommendations": "MRI or CT correlation may be helpful."
+}

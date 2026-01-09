@@ -1,0 +1,18 @@
+{
+    "type": "Pelvic Ultrasound",
+    "exam_region": "Upper abdomen",
+    "clinical_history": "Pelvic pain with suspected ovarian pathology.",
+    "technique": "Color Doppler and spectral analysis performed where necessary.",
+    "findings": [
+        "Placenta is isoechoic and normally located.",
+        "Urinary bladder is hyperechoic, no intraluminal lesions.",
+        "Right kidney demonstrates well-defined, no hydronephrosis.",
+        "Gallbladder shows smooth-walled, no stones or wall thickening.",
+        "Soft tissue region demonstrates isoechoic without fluid collection.",
+        "Testes are normal with normal vascularity.",
+        "Amniotic fluid index measures 10.82.",
+        "Left ovary demonstrates isoechoic morphology."
+    ],
+    "impression": "Evidence of cystic lesion\u2014likely benign.",
+    "recommendations": "Refer to specialist for further evaluation."
+}

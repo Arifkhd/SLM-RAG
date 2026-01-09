@@ -1,0 +1,11 @@
+{
+    "type": "Doppler Ultrasound",
+    "location": "uterine body",
+    "clinical_history": "Patient reports abdominal pain and spotting.",
+    "findings": [
+        "Umbilical artery shows absent/reversed end-diastolic flow.",
+        "Ductus venosus flow mildly altered."
+    ],
+    "impression": "Umbilical artery flow abnormality",
+    "recommendations": "Follow-up ultrasound recommended in 2 weeks."
+}

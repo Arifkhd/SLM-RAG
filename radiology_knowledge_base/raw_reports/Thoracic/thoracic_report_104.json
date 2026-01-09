@@ -1,0 +1,13 @@
+{
+    "type": "PET-CT Thoracic",
+    "location": "diaphragmatic region",
+    "clinical_history": "Patient with chronic dyspnea and smoking history.",
+    "findings": [
+        "Focal consolidation in diaphragmatic region with air bronchogram.",
+        "Emphysematous changes with hyperlucency in diaphragmatic region.",
+        "Thoracic aortic aneurysm measuring 9 mm in diameter.",
+        "Pulmonary embolism suspected; filling defect in segmental artery of diaphragmatic region."
+    ],
+    "impression": "Pulmonary edema",
+    "recommendations": "Follow-up imaging recommended in 4\u20136 weeks."
+}

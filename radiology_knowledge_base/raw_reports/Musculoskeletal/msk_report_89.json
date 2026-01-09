@@ -1,0 +1,12 @@
+{
+    "type": "Ultrasound",
+    "location": "tibia",
+    "clinical_history": "History of tendon or muscle injury.",
+    "findings": [
+        "No calcifications observed.",
+        "Soft tissues normal.",
+        "Fluid accumulation in the tibia bursa."
+    ],
+    "impression": "Bursitis",
+    "recommendations": "Further evaluation or biopsy may be considered if indicated."
+}

@@ -1,0 +1,14 @@
+{
+    "type": "Whole-body PET-CT",
+    "location": "soft tissue of thigh",
+    "clinical_history": "Patient with thyroid nodule under assessment.",
+    "findings": [
+        "Focal uptake in soft tissue of thigh consistent with post-surgical changes.",
+        "No evidence of new metastatic lesions compared to prior scan.",
+        "Diffuse mild increased uptake in liver, likely benign.",
+        "Multiple hypermetabolic lesions in bones, suggestive of metastases.",
+        "Physiologic brown fat uptake in supraclavicular region."
+    ],
+    "impression": "Inflammatory/infectious uptake",
+    "recommendations": "Repeat PET-CT in 3\u20136 months to monitor treatment response."
+}

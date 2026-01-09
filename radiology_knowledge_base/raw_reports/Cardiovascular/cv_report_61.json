@@ -1,0 +1,10 @@
+{
+    "type": "Echocardiogram",
+    "location": "Right ventricle",
+    "clinical_history": "Patient reports palpitations and decreased exercise tolerance.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Pericardial effusion",
+    "recommendations": "Findings should be integrated with clinical assessment and lab results."
+}

@@ -1,0 +1,12 @@
+{
+    "type": "Ultrasound",
+    "location": "left adnexa",
+    "clinical_history": "Patient has reduced fetal movements.",
+    "findings": [
+        "Fetal movement observed.",
+        "Placental function appears normal.",
+        "No evidence of cord compression."
+    ],
+    "impression": "Amniotic fluid abnormalities",
+    "recommendations": "MRI may be advised for detailed evaluation if necessary."
+}

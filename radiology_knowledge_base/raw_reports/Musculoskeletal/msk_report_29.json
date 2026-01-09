@@ -1,0 +1,13 @@
+{
+    "type": "Ultrasound",
+    "location": "right shoulder",
+    "clinical_history": "Patient presents with localized pain and swelling.",
+    "findings": [
+        "Synovial lining appears mildly thickened.",
+        "Fluid accumulation noted in the right shoulder joint.",
+        "No fractures detected.",
+        "No signs of infection."
+    ],
+    "impression": "Joint effusion",
+    "recommendations": "Refer to orthopedic specialist for management."
+}

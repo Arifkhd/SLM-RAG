@@ -1,0 +1,10 @@
+{
+    "type": "MRI Brain",
+    "location": "Central",
+    "clinical_history": "History of dizziness, visual disturbances, and weakness on one side.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Multiple sclerosis",
+    "recommendations": "Clinical correlation advised; follow-up MRI may be considered."
+}

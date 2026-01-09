@@ -1,0 +1,16 @@
+{
+    "type": "Hepatobiliary Ultrasound",
+    "exam_region": "Pelvis",
+    "clinical_history": "Urinary difficulty and suspected prostate enlargement.",
+    "technique": "Standard abdominal ultrasound protocol followed.",
+    "findings": [
+        "Soft tissue region demonstrates smooth-walled without fluid collection.",
+        "Uterus appears homogeneous; endometrial thickness measures 21.97 mm.",
+        "Fetal cardiac activity present with FHR 27.58 bpm.",
+        "Breast tissue shows ill-defined lesion measuring 4.92 mm.",
+        "Urinary bladder is well-defined, no intraluminal lesions.",
+        "Liver appears coarse with no focal lesions."
+    ],
+    "impression": "Findings suggest mild inflammatory changes.",
+    "recommendations": "Consider follow-up ultrasound in 6\u20138 weeks."
+}

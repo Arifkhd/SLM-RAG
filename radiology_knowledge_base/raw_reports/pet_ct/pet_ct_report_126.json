@@ -1,0 +1,13 @@
+{
+    "type": "Cardiac PET-CT",
+    "location": "left lung lower lobe",
+    "clinical_history": "Patient with suspected cardiac sarcoidosis.",
+    "findings": [
+        "Mild inflammatory uptake in left lung lower lobe region.",
+        "Diffuse mild increased uptake in liver, likely benign.",
+        "Focal hypermetabolic activity noted in left lung lower lobe with SUVmax 3.73.",
+        "Focal increased uptake in left lung lower lobe, recommend further correlation with CT morphology."
+    ],
+    "impression": "Lymphoma activity",
+    "recommendations": "Consider lab tests to assess metabolic activity if indicated."
+}

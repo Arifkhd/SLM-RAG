@@ -1,0 +1,12 @@
+{
+    "type": "MRI Brain",
+    "location": "frontal lobe",
+    "clinical_history": "History of sudden neurological deficits.",
+    "findings": [
+        "Corpus callosum appears involved.",
+        "Multiple hyperintense lesions noted in periventricular and subcortical white matter.",
+        "No mass effect or midline shift."
+    ],
+    "impression": "Multiple sclerosis",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be necessary."
+}

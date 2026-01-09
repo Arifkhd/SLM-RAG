@@ -1,0 +1,15 @@
+{
+    "type": "Prostate Ultrasound",
+    "exam_region": "Upper limb arteries",
+    "clinical_history": "Routine obstetric ultrasound for fetal growth.",
+    "technique": "Real-time gray-scale and color Doppler imaging performed.",
+    "findings": [
+        "Amniotic fluid index measures 27.12.",
+        "Breast tissue shows hyperechoic lesion measuring 5.23 mm.",
+        "Uterus appears well-defined; endometrial thickness measures 38.73 mm.",
+        "Epididymis demonstrates isoechoic features.",
+        "Fetal cardiac activity present with FHR 14.92 bpm."
+    ],
+    "impression": "Appearance consistent with benign etiology.",
+    "recommendations": "Consider follow-up ultrasound in 6\u20138 weeks."
+}

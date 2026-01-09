@@ -1,0 +1,13 @@
+{
+    "type": "X-ray",
+    "location": "femur",
+    "clinical_history": "History of trauma to the femur.",
+    "findings": [
+        "femur joint dislocated from its normal position.",
+        "Surrounding soft tissues appear normal.",
+        "No abnormal calcifications detected.",
+        "Adjacent joints normal."
+    ],
+    "impression": "Dislocation",
+    "recommendations": "Further evaluation or biopsy may be considered if indicated."
+}

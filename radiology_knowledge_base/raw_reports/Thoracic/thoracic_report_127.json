@@ -1,0 +1,15 @@
+{
+    "type": "Chest X-ray",
+    "location": "right middle lobe",
+    "clinical_history": "History of recurrent respiratory infections.",
+    "findings": [
+        "Focal consolidation in right middle lobe with air bronchogram.",
+        "Collapse of right middle lobe lobe with volume loss.",
+        "Enlarged lymph nodes in right middle lobe, suggestive of lymphadenopathy.",
+        "Patchy ground-glass opacities noted in right middle lobe.",
+        "Pleural effusion on the right middle lobe side, moderate in size.",
+        "Interstitial thickening and reticular pattern in right middle lobe."
+    ],
+    "impression": "Pulmonary edema",
+    "recommendations": "Clinical correlation advised; refer to pulmonologist."
+}

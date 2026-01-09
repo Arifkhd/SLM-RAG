@@ -1,0 +1,12 @@
+{
+    "type": "Colonoscopy",
+    "location": "Left lobe",
+    "clinical_history": "History of constipation and abdominal pain.",
+    "findings": [
+        "Mass lesion noted in the Left lobe region.",
+        "Irregular borders and heterogeneous enhancement.",
+        "Further biopsy recommended."
+    ],
+    "impression": "Malignancy",
+    "recommendations": "Further evaluation with lab tests or biopsy may be advised."
+}

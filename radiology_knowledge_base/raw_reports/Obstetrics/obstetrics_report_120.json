@@ -1,0 +1,13 @@
+{
+    "type": "MRI",
+    "location": "right adnexa",
+    "clinical_history": "Patient with high-risk pregnancy, under monitoring.",
+    "findings": [
+        "Amniotic fluid within normal range.",
+        "Umbilical cord insertion normal.",
+        "No retroplacental hematoma.",
+        "Increased echogenicity noted."
+    ],
+    "impression": "Placental abnormality",
+    "recommendations": "Refer to obstetrician for clinical correlation and management."
+}

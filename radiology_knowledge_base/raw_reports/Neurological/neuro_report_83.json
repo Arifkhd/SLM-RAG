@@ -1,0 +1,13 @@
+{
+    "type": "CT Brain",
+    "location": "basal ganglia",
+    "clinical_history": "Patient with acute head trauma.",
+    "findings": [
+        "Linear fracture noted in the basal ganglia region of the skull.",
+        "Adjacent brain parenchyma normal.",
+        "No signs of intracranial mass effect.",
+        "No displacement of bone fragments."
+    ],
+    "impression": "Skull fracture",
+    "recommendations": "Immediate intervention may be required depending on findings."
+}

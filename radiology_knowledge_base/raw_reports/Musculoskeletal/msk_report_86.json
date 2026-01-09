@@ -1,0 +1,12 @@
+{
+    "type": "X-ray",
+    "location": "left knee",
+    "clinical_history": "Patient presents with joint pain and limited range of motion.",
+    "findings": [
+        "Soft tissues appear normal.",
+        "Bones appear normal in density and alignment.",
+        "No fractures or dislocations observed."
+    ],
+    "impression": "Normal X-ray",
+    "recommendations": "Further evaluation or biopsy may be considered if indicated."
+}

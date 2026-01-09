@@ -1,0 +1,12 @@
+{
+    "type": "Abdominal MRI",
+    "location": "Central region",
+    "clinical_history": "History of chronic liver disease.",
+    "findings": [
+        "Surrounding structures unremarkable.",
+        "Pancreatic duct normal.",
+        "No solid component or septations noted."
+    ],
+    "impression": "Pancreatic cyst",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be considered."
+}

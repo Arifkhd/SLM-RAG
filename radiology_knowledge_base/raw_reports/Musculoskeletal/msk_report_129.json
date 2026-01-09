@@ -1,0 +1,11 @@
+{
+    "type": "X-ray",
+    "location": "left shoulder",
+    "clinical_history": "Patient reports swelling and tenderness.",
+    "findings": [
+        "Subchondral sclerosis observed.",
+        "Soft tissue swelling minimal."
+    ],
+    "impression": "Osteoarthritis",
+    "recommendations": "Further evaluation or biopsy may be considered if indicated."
+}

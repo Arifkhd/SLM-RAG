@@ -1,0 +1,14 @@
+{
+    "type": "Abdominal CT",
+    "location": "Body",
+    "clinical_history": "Patient presents with abdominal pain and vomiting.",
+    "findings": [
+        "High-density calculus noted in the renal pelvis or ureter.",
+        "No signs of obstruction beyond the stone.",
+        "Other abdominal organs appear normal.",
+        "No perinephric collection observed.",
+        "Mild hydronephrosis proximal to the stone."
+    ],
+    "impression": "Kidney stone",
+    "recommendations": "Refer to gastroenterologist for further management."
+}

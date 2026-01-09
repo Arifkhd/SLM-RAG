@@ -1,0 +1,12 @@
+{
+    "type": "MRI Brain",
+    "location": "temporal lobe",
+    "clinical_history": "History of sudden neurological deficits.",
+    "findings": [
+        "Multiple hyperintense lesions noted in periventricular and subcortical white matter.",
+        "No acute hemorrhage detected.",
+        "Lesions vary in size and location."
+    ],
+    "impression": "Multiple sclerosis",
+    "recommendations": "Immediate intervention may be required depending on findings."
+}

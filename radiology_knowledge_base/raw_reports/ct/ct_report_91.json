@@ -1,0 +1,13 @@
+{
+    "type": "CT Chest",
+    "location": "Right side",
+    "clinical_history": "Complaints of persistent cough and mild dyspnea.",
+    "findings": [
+        "Mediastinal structures slightly displaced due to fluid.",
+        "Adjacent lung parenchyma partially compressed.",
+        "Heart silhouette normal; bony thorax intact.",
+        "Fluid collection noted in the Right side pleural space."
+    ],
+    "impression": "Pleural effusion",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be considered."
+}

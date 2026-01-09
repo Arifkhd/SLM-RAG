@@ -1,0 +1,10 @@
+{
+    "type": "CT",
+    "location": "wrist joint",
+    "clinical_history": "Patient reports swelling and deformity.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Calcification",
+    "recommendations": "Refer to orthopedic specialist for management."
+}

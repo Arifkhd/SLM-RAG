@@ -1,0 +1,14 @@
+{
+    "type": "PET-CT Thoracic",
+    "location": "perihilar region",
+    "clinical_history": "Patient with unexplained weight loss and fatigue.",
+    "findings": [
+        "Well-defined nodule measuring 37 mm in perihilar region.",
+        "Patchy ground-glass opacities noted in perihilar region.",
+        "Bronchiectatic changes in perihilar region region.",
+        "Fibrotic changes with honeycombing in perihilar region.",
+        "Interstitial thickening and reticular pattern in perihilar region."
+    ],
+    "impression": "Atelectasis",
+    "recommendations": "Clinical correlation advised; refer to pulmonologist."
+}

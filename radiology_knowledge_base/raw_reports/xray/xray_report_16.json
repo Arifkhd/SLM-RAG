@@ -1,0 +1,14 @@
+{
+    "type": "Chest X-Ray",
+    "location": "Right pleural space",
+    "clinical_history": "Patient reports dyspnea and pleuritic chest pain.",
+    "findings": [
+        "Moderate fluid collection in the specified pleural space causing blunting of the costophrenic angle.",
+        "Cardiac silhouette normal, no cardiomegaly.",
+        "Mediastinum slightly shifted due to effusion.",
+        "Adjacent lung shows mild compression, no collapse noted.",
+        "No rib fractures or bony abnormalities."
+    ],
+    "impression": "Pleural effusion",
+    "recommendations": "Clinical correlation advised. Follow-up imaging may be recommended based on the clinical scenario."
+}

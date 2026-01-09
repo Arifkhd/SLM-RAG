@@ -1,0 +1,14 @@
+{
+    "type": "CT Chest",
+    "location": "right lower lobe",
+    "clinical_history": "Patient with unexplained weight loss and fatigue.",
+    "findings": [
+        "Focal consolidation in right lower lobe with air bronchogram.",
+        "Well-defined nodule measuring 19 mm in right lower lobe.",
+        "Mediastinal widening observed with soft tissue density.",
+        "Collapse of right lower lobe lobe with volume loss.",
+        "Thoracic aortic aneurysm measuring 49 mm in diameter."
+    ],
+    "impression": "Emphysema",
+    "recommendations": "Immediate intervention may be required depending on severity."
+}

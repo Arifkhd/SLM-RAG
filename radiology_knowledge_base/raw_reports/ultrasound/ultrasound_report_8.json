@@ -1,0 +1,17 @@
+{
+    "type": "Abdominal Ultrasound",
+    "exam_region": "Prostate",
+    "clinical_history": "Follow-up ultrasound for known liver lesion.",
+    "technique": "Longitudinal, transverse, and oblique views obtained.",
+    "findings": [
+        "Urinary bladder is smooth-walled, no intraluminal lesions.",
+        "Breast tissue shows coarse lesion measuring 10.4 mm.",
+        "No evidence of DVT; veins compressible with normal flow.",
+        "Gallbladder shows mildly thickened, no stones or wall thickening.",
+        "Placenta is ill-defined and normally located.",
+        "Epididymis demonstrates ill-defined features.",
+        "Prostate is homogeneous; volume approximately 33.65 cc."
+    ],
+    "impression": "Suspicious lesion\u2014further evaluation recommended.",
+    "recommendations": "Consider follow-up ultrasound in 6\u20138 weeks."
+}

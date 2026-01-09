@@ -1,0 +1,14 @@
+{
+    "type": "PET-CT for oncology",
+    "location": "pelvis",
+    "clinical_history": "Follow-up PET-CT after chemotherapy to assess treatment response.",
+    "findings": [
+        "No abnormal FDG uptake in the remaining organs.",
+        "Diffuse mild increased uptake in liver, likely benign.",
+        "Focal uptake in pelvis consistent with post-surgical changes.",
+        "No abnormal activity in lungs or mediastinum.",
+        "Mild inflammatory uptake in pelvis region."
+    ],
+    "impression": "Focal infection",
+    "recommendations": "Clinical correlation recommended with prior imaging."
+}

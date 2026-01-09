@@ -1,0 +1,12 @@
+{
+    "type": "MRI",
+    "location": "tibia",
+    "clinical_history": "Patient complains of persistent joint pain.",
+    "findings": [
+        "Tear observed in the tibia meniscus.",
+        "No ligamentous injury detected.",
+        "Joint effusion present."
+    ],
+    "impression": "Meniscus tear",
+    "recommendations": "Physical therapy may be advised depending on clinical findings."
+}

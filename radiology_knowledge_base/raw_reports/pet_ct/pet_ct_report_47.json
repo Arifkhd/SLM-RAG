@@ -1,0 +1,14 @@
+{
+    "type": "Cardiac PET-CT",
+    "location": "soft tissue of thigh",
+    "clinical_history": "Follow-up PET-CT after chemotherapy to assess treatment response.",
+    "findings": [
+        "Focal hypermetabolic activity noted in soft tissue of thigh with SUVmax 10.64.",
+        "Diffuse mild increased uptake in liver, likely benign.",
+        "Mild inflammatory uptake in soft tissue of thigh region.",
+        "Diffuse uptake in thyroid gland, differential includes thyroiditis or nodular disease.",
+        "No abnormal FDG uptake in the remaining organs."
+    ],
+    "impression": "Metastatic lesions identified",
+    "recommendations": "Consider lab tests to assess metabolic activity if indicated."
+}

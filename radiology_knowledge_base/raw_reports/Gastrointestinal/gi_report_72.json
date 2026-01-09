@@ -1,0 +1,13 @@
+{
+    "type": "Colonoscopy",
+    "location": "Central region",
+    "clinical_history": "Patient has chronic diarrhea and rectal bleeding.",
+    "findings": [
+        "No signs of malignancy.",
+        "Other colon segments unremarkable.",
+        "Surrounding mucosa normal.",
+        "Polypoid lesion noted in the Central region colon segment."
+    ],
+    "impression": "Colonic polyps",
+    "recommendations": "Further evaluation with lab tests or biopsy may be advised."
+}

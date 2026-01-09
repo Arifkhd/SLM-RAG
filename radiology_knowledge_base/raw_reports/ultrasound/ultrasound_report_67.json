@@ -1,0 +1,15 @@
+{
+    "type": "Prostate Ultrasound",
+    "exam_region": "Right upper quadrant",
+    "clinical_history": "Soft tissue swelling after trauma.",
+    "technique": "High-resolution linear and curvilinear probes used for detailed evaluation.",
+    "findings": [
+        "Right kidney demonstrates normal, no hydronephrosis.",
+        "Epididymis demonstrates ill-defined features.",
+        "Placenta is mildly thickened and normally located.",
+        "No evidence of DVT; veins compressible with normal flow.",
+        "Uterus appears smooth-walled; endometrial thickness measures 11.98 mm."
+    ],
+    "impression": "Suspicious lesion\u2014further evaluation recommended.",
+    "recommendations": "Correlate clinically."
+}

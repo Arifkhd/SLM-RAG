@@ -1,0 +1,15 @@
+{
+    "type": "PET-CT Thoracic",
+    "location": "left lower lobe",
+    "clinical_history": "Patient with trauma to thorax.",
+    "findings": [
+        "Bronchiectatic changes in left lower lobe region.",
+        "Well-defined nodule measuring 42 mm in left lower lobe.",
+        "Focal consolidation in left lower lobe with air bronchogram.",
+        "Mediastinal widening observed with soft tissue density.",
+        "Thoracic aortic aneurysm measuring 9 mm in diameter.",
+        "Enlarged lymph nodes in left lower lobe, suggestive of lymphadenopathy."
+    ],
+    "impression": "Lymphadenopathy",
+    "recommendations": "Immediate intervention may be required depending on severity."
+}

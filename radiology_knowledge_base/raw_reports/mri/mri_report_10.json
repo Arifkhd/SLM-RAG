@@ -1,0 +1,10 @@
+{
+    "type": "MRI Knee",
+    "location": "Right side",
+    "clinical_history": "History of trauma during sports activity.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Meniscal tear",
+    "recommendations": "Additional imaging or lab tests may be indicated based on patient symptoms."
+}

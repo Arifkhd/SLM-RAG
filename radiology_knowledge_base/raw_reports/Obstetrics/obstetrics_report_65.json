@@ -1,0 +1,12 @@
+{
+    "type": "Doppler Ultrasound",
+    "location": "cervical region",
+    "clinical_history": "Patient presents for routine prenatal check-up.",
+    "findings": [
+        "Placenta appears normal.",
+        "No signs of structural anomalies.",
+        "Fetal heart rate normal."
+    ],
+    "impression": "Polyhydramnios",
+    "recommendations": "MRI may be advised for detailed evaluation if necessary."
+}

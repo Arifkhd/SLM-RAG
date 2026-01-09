@@ -1,0 +1,15 @@
+{
+    "type": "PET-CT for oncology",
+    "location": "soft tissue of thigh",
+    "clinical_history": "Follow-up PET-CT after chemotherapy to assess treatment response.",
+    "findings": [
+        "Focal hypermetabolic activity noted in soft tissue of thigh with SUVmax 11.85.",
+        "No evidence of new metastatic lesions compared to prior scan.",
+        "Focal increased uptake in soft tissue of thigh, recommend further correlation with CT morphology.",
+        "Mild inflammatory uptake in soft tissue of thigh region.",
+        "Hypermetabolic lymph nodes noted in soft tissue of thigh, suggestive of malignancy.",
+        "No abnormal FDG uptake in the remaining organs."
+    ],
+    "impression": "Hypermetabolic lymph nodes",
+    "recommendations": "Repeat PET-CT in 3\u20136 months to monitor treatment response."
+}

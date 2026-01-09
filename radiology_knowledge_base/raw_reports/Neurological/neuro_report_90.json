@@ -1,0 +1,13 @@
+{
+    "type": "MR Angiography",
+    "location": "basal ganglia",
+    "clinical_history": "History of suspected aneurysm or vascular malformation.",
+    "findings": [
+        "Early venous drainage observed.",
+        "Adjacent parenchyma normal.",
+        "No hemorrhage detected.",
+        "Tangle of abnormal vessels noted in the basal ganglia region."
+    ],
+    "impression": "Arteriovenous malformation",
+    "recommendations": "Immediate intervention may be required depending on findings."
+}

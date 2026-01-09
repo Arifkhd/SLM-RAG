@@ -1,0 +1,10 @@
+{
+    "type": "MRI Brain",
+    "location": "Right side",
+    "clinical_history": "History of dizziness, visual disturbances, and weakness on one side.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Cerebral edema",
+    "recommendations": "Findings should be discussed with the referring physician for further management."
+}

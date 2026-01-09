@@ -1,0 +1,10 @@
+{
+    "type": "CT Brain",
+    "location": "cerebellum",
+    "clinical_history": "History of sudden severe headache.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Normal CT",
+    "recommendations": "Refer to neurologist or neurosurgeon for further management."
+}

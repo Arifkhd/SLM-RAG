@@ -1,0 +1,12 @@
+{
+    "type": "Endoscopy",
+    "location": "Left lobe",
+    "clinical_history": "History of vomiting and melena.",
+    "findings": [
+        "No active bleeding detected.",
+        "Portal vein patent.",
+        "No ascites observed."
+    ],
+    "impression": "Esophageal varices",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be considered."
+}

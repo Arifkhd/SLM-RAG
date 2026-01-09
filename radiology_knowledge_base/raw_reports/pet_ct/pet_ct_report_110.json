@@ -1,0 +1,14 @@
+{
+    "type": "PET-CT for oncology",
+    "location": "soft tissue of thigh",
+    "clinical_history": "Patient with bone pain and prior cancer history.",
+    "findings": [
+        "Mild inflammatory uptake in soft tissue of thigh region.",
+        "Hypermetabolic lymph nodes noted in soft tissue of thigh, suggestive of malignancy.",
+        "Diffuse mild increased uptake in liver, likely benign.",
+        "No abnormal FDG uptake in the remaining organs.",
+        "No evidence of new metastatic lesions compared to prior scan."
+    ],
+    "impression": "Inflammatory/infectious uptake",
+    "recommendations": "Repeat PET-CT in 3\u20136 months to monitor treatment response."
+}

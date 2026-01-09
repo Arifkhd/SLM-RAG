@@ -1,0 +1,18 @@
+{
+    "type": "Musculoskeletal Ultrasound",
+    "exam_region": "Knee joint",
+    "clinical_history": "Thyroid swelling and suspected nodular disease.",
+    "technique": "Longitudinal, transverse, and oblique views obtained.",
+    "findings": [
+        "Uterus appears unremarkable; endometrial thickness measures 21.46 mm.",
+        "Prostate is hypoechoic; volume approximately 30.86 cc.",
+        "Soft tissue region demonstrates well-defined without fluid collection.",
+        "Testes are coarse with normal vascularity.",
+        "Left ovary demonstrates enlarged morphology.",
+        "Fetal cardiac activity present with FHR 21.0 bpm.",
+        "Epididymis demonstrates isoechoic features.",
+        "Placenta is hypoechoic and normally located."
+    ],
+    "impression": "Likely physiological appearance.",
+    "recommendations": "FNAC/biopsy recommended if clinically indicated."
+}

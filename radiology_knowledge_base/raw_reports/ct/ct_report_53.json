@@ -1,0 +1,12 @@
+{
+    "type": "CT Brain",
+    "location": "Right side",
+    "clinical_history": "Patient reports visual disturbances and nausea.",
+    "findings": [
+        "All organs demonstrate normal size, shape, and density.",
+        "No abnormal lesions or masses noted. Structures appear normal.",
+        "No mass, consolidation, or abnormal fluid accumulation observed."
+    ],
+    "impression": "Normal CT",
+    "recommendations": "Findings should be correlated with patient symptoms and lab results."
+}

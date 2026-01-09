@@ -1,0 +1,13 @@
+{
+    "type": "Cardiac CT",
+    "location": "Left atrium",
+    "clinical_history": "History of previous myocardial infarction and risk factors.",
+    "findings": [
+        "Cardiac chambers normal in size.",
+        "Pericardium and great vessels unremarkable.",
+        "Calcified and non-calcified plaques noted in the coronary arteries.",
+        "No thrombus or occlusion detected."
+    ],
+    "impression": "Coronary artery disease",
+    "recommendations": "Refer to cardiologist for further management."
+}

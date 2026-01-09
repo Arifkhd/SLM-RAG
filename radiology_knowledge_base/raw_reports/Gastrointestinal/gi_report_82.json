@@ -1,0 +1,11 @@
+{
+    "type": "Abdominal MRI",
+    "location": "Peripheral region",
+    "clinical_history": "Patient reports abdominal discomfort and weight loss.",
+    "findings": [
+        "No focal liver lesions detected.",
+        "Splenomegaly noted."
+    ],
+    "impression": "Hepatic cirrhosis",
+    "recommendations": "Repeat study may be indicated depending on clinical course."
+}

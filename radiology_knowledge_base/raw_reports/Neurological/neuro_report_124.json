@@ -1,0 +1,14 @@
+{
+    "type": "EEG",
+    "location": "parietal lobe",
+    "clinical_history": "Patient reports sudden episodes of loss of consciousness.",
+    "findings": [
+        "Continuous spike-and-wave activity observed.",
+        "Immediate clinical correlation required.",
+        "Background activity suppressed.",
+        "No interictal periods detected.",
+        "Bilateral involvement noted."
+    ],
+    "impression": "Status epilepticus",
+    "recommendations": "Immediate intervention may be required depending on findings."
+}

@@ -1,0 +1,14 @@
+{
+    "type": "Abdominal CT",
+    "location": "Central region",
+    "clinical_history": "History of right lower quadrant tenderness and fever.",
+    "findings": [
+        "No pseudocyst or fluid collection present.",
+        "Adjacent organs unremarkable.",
+        "Pancreas appears enlarged with heterogeneous signal/intensity.",
+        "Biliary ducts normal.",
+        "Peripancreatic fat stranding noted."
+    ],
+    "impression": "Pancreatitis",
+    "recommendations": "Further evaluation with lab tests or biopsy may be advised."
+}

@@ -1,0 +1,15 @@
+{
+    "type": "Pelvic Ultrasound",
+    "exam_region": "Urinary bladder",
+    "clinical_history": "Limb swelling, rule out deep venous thrombosis.",
+    "technique": "Color Doppler and spectral analysis performed where necessary.",
+    "findings": [
+        "Uterus appears normal; endometrial thickness measures 23.94 mm.",
+        "Common bile duct measures 21.09 mm, within normal limits.",
+        "Soft tissue region demonstrates homogeneous without fluid collection.",
+        "Fetal cardiac activity present with FHR 32.08 bpm.",
+        "Left ovary demonstrates hyperechoic morphology."
+    ],
+    "impression": "Appearance concerning for possible malignancy\u2014correlate clinically.",
+    "recommendations": "FNAC/biopsy recommended if clinically indicated."
+}

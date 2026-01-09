@@ -1,0 +1,16 @@
+{
+    "type": "Renal Ultrasound",
+    "exam_region": "Liver and gallbladder",
+    "clinical_history": "Routine obstetric ultrasound for fetal growth.",
+    "technique": "Color Doppler and spectral analysis performed where necessary.",
+    "findings": [
+        "Soft tissue region demonstrates unremarkable without fluid collection.",
+        "Left kidney shows ill-defined, corticomedullary differentiation preserved.",
+        "Uterus appears homogeneous; endometrial thickness measures 3.48 mm.",
+        "Prostate is hyperechoic; volume approximately 15.68 cc.",
+        "Amniotic fluid index measures 14.08.",
+        "Breast tissue shows normal lesion measuring 34.91 mm."
+    ],
+    "impression": "Evidence of obstructive changes.",
+    "recommendations": "Correlate clinically."
+}

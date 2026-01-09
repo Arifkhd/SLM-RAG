@@ -1,0 +1,11 @@
+{
+    "type": "Chest X-Ray",
+    "location": "Left lower lobe",
+    "findings": [
+        "Tracheal deviation towards affected side.",
+        "Volume loss of lung observed.",
+        "No pleural effusion detected.",
+        "Collapse of the affected lobe."
+    ],
+    "impression": "Atelectasis"
+}

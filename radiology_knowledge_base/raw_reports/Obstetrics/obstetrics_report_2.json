@@ -1,0 +1,12 @@
+{
+    "type": "Doppler Ultrasound",
+    "location": "anterior placenta",
+    "clinical_history": "History of previous cesarean section, presenting for scan.",
+    "findings": [
+        "Fetal heart rate normal.",
+        "No placental abruption.",
+        "Placental thickness reduced."
+    ],
+    "impression": "Placental insufficiency",
+    "recommendations": "Monitor amniotic fluid and fetal growth closely."
+}

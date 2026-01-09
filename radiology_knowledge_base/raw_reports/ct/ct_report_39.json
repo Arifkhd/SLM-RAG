@@ -1,0 +1,10 @@
+{
+    "type": "CT Neck",
+    "location": "Central",
+    "clinical_history": "Complaints of localized tenderness and restricted movement.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Neck abscess",
+    "recommendations": "Follow-up imaging or additional diagnostic tests may be indicated."
+}

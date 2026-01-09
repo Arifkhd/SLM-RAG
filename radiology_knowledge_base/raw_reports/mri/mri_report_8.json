@@ -1,0 +1,10 @@
+{
+    "type": "MRI Spine",
+    "location": "Lumbar region",
+    "clinical_history": "Patient reports back pain radiating to the lower limbs.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Spinal stenosis",
+    "recommendations": "Clinical correlation advised; follow-up MRI may be considered."
+}

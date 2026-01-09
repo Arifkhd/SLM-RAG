@@ -1,0 +1,11 @@
+{
+    "type": "Chest X-Ray",
+    "location": "Bilateral lungs",
+    "findings": [
+        "Bilateral perihilar infiltrates.",
+        "Heart is enlarged.",
+        "Kerley B lines visible.",
+        "Pleural effusions present."
+    ],
+    "impression": "Pulmonary edema"
+}

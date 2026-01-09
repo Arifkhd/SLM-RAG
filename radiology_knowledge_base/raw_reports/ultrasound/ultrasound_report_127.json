@@ -1,0 +1,16 @@
+{
+    "type": "Abdominal Ultrasound",
+    "exam_region": "Knee joint",
+    "clinical_history": "Urinary difficulty and suspected prostate enlargement.",
+    "technique": "Real-time gray-scale and color Doppler imaging performed.",
+    "findings": [
+        "Major vessels show isoechoic waveform on Doppler.",
+        "Uterus appears hypoechoic; endometrial thickness measures 28.35 mm.",
+        "Left kidney shows unremarkable, corticomedullary differentiation preserved.",
+        "Urinary bladder is hyperechoic, no intraluminal lesions.",
+        "No evidence of DVT; veins compressible with normal flow.",
+        "Left ovary demonstrates well-defined morphology."
+    ],
+    "impression": "Evidence of obstructive changes.",
+    "recommendations": "Refer to specialist for further evaluation."
+}

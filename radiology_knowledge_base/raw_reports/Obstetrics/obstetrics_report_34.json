@@ -1,0 +1,12 @@
+{
+    "type": "MRI",
+    "location": "fundal region",
+    "clinical_history": "Patient referred for evaluation of suspected malpresentation.",
+    "findings": [
+        "Myelomeningocele suspected.",
+        "Placenta appears normal.",
+        "No associated limb abnormalities."
+    ],
+    "impression": "Fetal spine anomaly",
+    "recommendations": "Follow-up ultrasound recommended in 2 weeks."
+}

@@ -1,0 +1,17 @@
+{
+    "type": "Renal Ultrasound",
+    "exam_region": "Breast tissue",
+    "clinical_history": "Follow-up ultrasound for known liver lesion.",
+    "technique": "Longitudinal, transverse, and oblique views obtained.",
+    "findings": [
+        "Amniotic fluid index measures 8.62.",
+        "Testes are coarse with normal vascularity.",
+        "Gallbladder shows homogeneous, no stones or wall thickening.",
+        "Urinary bladder is mildly heterogeneous, no intraluminal lesions.",
+        "Uterus appears normal; endometrial thickness measures 6.0 mm.",
+        "Common bile duct measures 18.43 mm, within normal limits.",
+        "Epididymis demonstrates enlarged features."
+    ],
+    "impression": "Findings suggest mild inflammatory changes.",
+    "recommendations": "Consider follow-up ultrasound in 6\u20138 weeks."
+}

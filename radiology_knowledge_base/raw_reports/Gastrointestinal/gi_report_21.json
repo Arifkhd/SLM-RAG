@@ -1,0 +1,13 @@
+{
+    "type": "Ultrasound Abdomen",
+    "location": "Right lobe",
+    "clinical_history": "History of jaundice and altered liver function tests.",
+    "findings": [
+        "Gallbladder wall normal, no pericholecystic fluid.",
+        "No evidence of mass or inflammation.",
+        "Bile ducts appear normal.",
+        "Liver and pancreas unremarkable."
+    ],
+    "impression": "Gallstones",
+    "recommendations": "Repeat study may be indicated depending on clinical course."
+}

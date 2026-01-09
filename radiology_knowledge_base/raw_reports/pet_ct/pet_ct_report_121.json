@@ -1,0 +1,15 @@
+{
+    "type": "PET-CT for infection",
+    "location": "adrenal gland",
+    "clinical_history": "Patient with history of known malignancy referred for staging PET-CT.",
+    "findings": [
+        "No abnormal FDG uptake in the remaining organs.",
+        "Focal hypermetabolic activity noted in adrenal gland with SUVmax 7.47.",
+        "Focal uptake in adrenal gland consistent with post-surgical changes.",
+        "Diffuse uptake in thyroid gland, differential includes thyroiditis or nodular disease.",
+        "No evidence of new metastatic lesions compared to prior scan.",
+        "Physiologic brown fat uptake in supraclavicular region."
+    ],
+    "impression": "Liver lesion uptake",
+    "recommendations": "Biopsy or follow-up imaging may be considered to confirm malignancy."
+}

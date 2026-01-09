@@ -1,0 +1,13 @@
+{
+    "type": "Colonoscopy",
+    "location": "Body",
+    "clinical_history": "History of constipation and abdominal pain.",
+    "findings": [
+        "No signs of inflammation.",
+        "No masses detected.",
+        "Surrounding rectal mucosa normal.",
+        "No active bleeding observed."
+    ],
+    "impression": "Hemorrhoids",
+    "recommendations": "Refer to gastroenterologist for further management."
+}

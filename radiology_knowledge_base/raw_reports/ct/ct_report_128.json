@@ -1,0 +1,10 @@
+{
+    "type": "CT Abdomen",
+    "location": "Right side",
+    "clinical_history": "History of intermittent vomiting and localized tenderness.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Abdominal mass",
+    "recommendations": "Findings should be correlated with patient symptoms and lab results."
+}

@@ -1,0 +1,12 @@
+{
+    "type": "CT Brain",
+    "location": "ventricular system",
+    "clinical_history": "History of sudden severe headache.",
+    "findings": [
+        "Underlying brain parenchyma normal.",
+        "Mild mass effect causing sulcal effacement.",
+        "No skull fracture detected."
+    ],
+    "impression": "Subdural hematoma",
+    "recommendations": "Refer to neurologist or neurosurgeon for further management."
+}

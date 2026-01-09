@@ -1,0 +1,11 @@
+{
+    "type": "Chest X-Ray",
+    "location": "Left lung",
+    "findings": [
+        "Collapsed lung margin visible.",
+        "No fluid collection.",
+        "Heart size normal.",
+        "Air in pleural space."
+    ],
+    "impression": "Pneumothorax"
+}

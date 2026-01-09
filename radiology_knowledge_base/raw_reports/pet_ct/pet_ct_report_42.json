@@ -1,0 +1,13 @@
+{
+    "type": "PET-CT for oncology",
+    "location": "mediastinal lymph nodes",
+    "clinical_history": "Follow-up PET-CT after chemotherapy to assess treatment response.",
+    "findings": [
+        "Focal hypermetabolic activity noted in mediastinal lymph nodes with SUVmax 9.39.",
+        "Hypermetabolic lymph nodes noted in mediastinal lymph nodes, suggestive of malignancy.",
+        "Multiple hypermetabolic lesions in bones, suggestive of metastases.",
+        "Focal uptake in mediastinal lymph nodes consistent with post-surgical changes."
+    ],
+    "impression": "Focal infection",
+    "recommendations": "Biopsy or follow-up imaging may be considered to confirm malignancy."
+}

@@ -1,0 +1,12 @@
+{
+    "type": "Ultrasound",
+    "location": "wrist joint",
+    "clinical_history": "Patient complains of limited joint movement.",
+    "findings": [
+        "Fluid accumulation in the wrist joint bursa.",
+        "Soft tissues normal.",
+        "No adjacent tendon rupture."
+    ],
+    "impression": "Bursitis",
+    "recommendations": "Further evaluation or biopsy may be considered if indicated."
+}

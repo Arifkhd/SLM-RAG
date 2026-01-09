@@ -1,0 +1,12 @@
+{
+    "type": "MRI Brain",
+    "location": "cerebellum",
+    "clinical_history": "Patient reports weakness and difficulty speaking.",
+    "findings": [
+        "Cortical sulci appear compressed.",
+        "No hemorrhage observed.",
+        "Cerebellum normal in size."
+    ],
+    "impression": "Hydrocephalus",
+    "recommendations": "Repeat study may be indicated depending on clinical evolution."
+}

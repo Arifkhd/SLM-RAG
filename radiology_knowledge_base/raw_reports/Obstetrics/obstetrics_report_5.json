@@ -1,0 +1,13 @@
+{
+    "type": "Doppler Ultrasound",
+    "location": "cervical region",
+    "clinical_history": "Patient with high-risk pregnancy, under monitoring.",
+    "findings": [
+        "Fetal weight below expected percentile.",
+        "Placenta thin but echotexture normal.",
+        "Amniotic fluid slightly decreased.",
+        "Abdominal circumference and femur length reduced."
+    ],
+    "impression": "Fetal growth restriction",
+    "recommendations": "Refer to obstetrician for clinical correlation and management."
+}

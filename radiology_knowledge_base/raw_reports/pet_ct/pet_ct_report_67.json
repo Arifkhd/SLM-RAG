@@ -1,0 +1,15 @@
+{
+    "type": "PET-CT for oncology",
+    "location": "pancreas",
+    "clinical_history": "Patient with unexplained weight loss and fever.",
+    "findings": [
+        "No abnormal activity in lungs or mediastinum.",
+        "Mild inflammatory uptake in pancreas region.",
+        "Focal increased uptake in pancreas, recommend further correlation with CT morphology.",
+        "Focal hypermetabolic activity noted in pancreas with SUVmax 7.84.",
+        "No abnormal FDG uptake in the remaining organs.",
+        "No evidence of new metastatic lesions compared to prior scan."
+    ],
+    "impression": "Normal PET-CT",
+    "recommendations": "Repeat PET-CT in 3\u20136 months to monitor treatment response."
+}

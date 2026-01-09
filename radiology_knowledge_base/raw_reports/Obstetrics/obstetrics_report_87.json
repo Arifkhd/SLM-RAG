@@ -1,0 +1,13 @@
+{
+    "type": "Doppler Ultrasound",
+    "location": "uterine body",
+    "clinical_history": "History of previous cesarean section, presenting for scan.",
+    "findings": [
+        "Umbilical artery and vein show normal flow patterns.",
+        "Ductus venosus flow normal.",
+        "No signs of fetal hypoxia.",
+        "Middle cerebral artery velocities within normal range."
+    ],
+    "impression": "Normal fetal circulation",
+    "recommendations": "Follow-up ultrasound recommended in 2 weeks."
+}

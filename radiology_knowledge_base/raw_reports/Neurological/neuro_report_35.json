@@ -1,0 +1,13 @@
+{
+    "type": "CT Brain",
+    "location": "temporal lobe",
+    "clinical_history": "Patient with acute head trauma.",
+    "findings": [
+        "No additional hemorrhages detected.",
+        "Surrounding edema present.",
+        "Hyperdense area observed in the temporal lobe lobe on CT.",
+        "Adjacent bone structures intact."
+    ],
+    "impression": "Intracranial hemorrhage",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be necessary."
+}

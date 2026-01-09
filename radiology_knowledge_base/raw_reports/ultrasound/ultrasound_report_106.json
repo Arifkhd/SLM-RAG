@@ -1,0 +1,17 @@
+{
+    "type": "Doppler Vascular Ultrasound",
+    "exam_region": "Shoulder joint",
+    "clinical_history": "Thyroid swelling and suspected nodular disease.",
+    "technique": "High-resolution linear and curvilinear probes used for detailed evaluation.",
+    "findings": [
+        "Left ovary demonstrates smooth-walled morphology.",
+        "Epididymis demonstrates coarse features.",
+        "Urinary bladder is isoechoic, no intraluminal lesions.",
+        "Gallbladder shows coarse, no stones or wall thickening.",
+        "Testes are enlarged with normal vascularity.",
+        "Breast tissue shows hypoechoic lesion measuring 21.98 mm.",
+        "Common bile duct measures 26.3 mm, within normal limits."
+    ],
+    "impression": "Features may represent infection/inflammation.",
+    "recommendations": "Routine follow-up advised."
+}

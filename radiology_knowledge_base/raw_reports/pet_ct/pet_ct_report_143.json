@@ -1,0 +1,14 @@
+{
+    "type": "Brain PET-CT",
+    "location": "brain frontal lobe",
+    "clinical_history": "Patient with unexplained weight loss and fever.",
+    "findings": [
+        "Multiple hypermetabolic lesions in bones, suggestive of metastases.",
+        "Diffuse uptake in thyroid gland, differential includes thyroiditis or nodular disease.",
+        "Physiologic brown fat uptake in supraclavicular region.",
+        "No abnormal FDG uptake in the remaining organs.",
+        "Hypermetabolic lymph nodes noted in brain frontal lobe, suggestive of malignancy."
+    ],
+    "impression": "Liver lesion uptake",
+    "recommendations": "Refer to oncology or specialist for further management."
+}

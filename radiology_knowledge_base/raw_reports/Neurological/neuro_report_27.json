@@ -1,0 +1,14 @@
+{
+    "type": "CT Brain",
+    "location": "ventricular system",
+    "clinical_history": "Patient with acute head trauma.",
+    "findings": [
+        "Ventricular system normal.",
+        "Hypodense area in the ventricular system region consistent with infarction.",
+        "No midline shift observed.",
+        "No hemorrhagic transformation.",
+        "Adjacent parenchyma normal."
+    ],
+    "impression": "Brain infarct",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be necessary."
+}

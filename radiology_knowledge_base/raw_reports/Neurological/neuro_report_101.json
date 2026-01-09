@@ -1,0 +1,11 @@
+{
+    "type": "MR Angiography",
+    "location": "frontal lobe",
+    "clinical_history": "Patient reports transient ischemic attacks.",
+    "findings": [
+        "Complete occlusion of the frontal lobe artery observed.",
+        "No flow distal to the occlusion."
+    ],
+    "impression": "Vessel occlusion",
+    "recommendations": "Repeat study may be indicated depending on clinical evolution."
+}

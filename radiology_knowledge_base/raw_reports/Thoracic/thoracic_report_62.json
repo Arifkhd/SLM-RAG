@@ -1,0 +1,14 @@
+{
+    "type": "Chest X-ray",
+    "location": "left lower lobe",
+    "clinical_history": "Patient with chest pain and shortness of breath.",
+    "findings": [
+        "Emphysematous changes with hyperlucency in left lower lobe.",
+        "Small pneumothorax on the left lower lobe side.",
+        "Enlarged lymph nodes in left lower lobe, suggestive of lymphadenopathy.",
+        "Focal consolidation in left lower lobe with air bronchogram.",
+        "Patchy ground-glass opacities noted in left lower lobe."
+    ],
+    "impression": "Atelectasis",
+    "recommendations": "Further evaluation with PET-CT recommended if malignancy suspected."
+}

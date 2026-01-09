@@ -1,0 +1,15 @@
+{
+    "type": "Brain PET-CT",
+    "location": "right lung upper lobe",
+    "clinical_history": "Patient with persistent infection and fever of unknown origin.",
+    "findings": [
+        "Physiologic brown fat uptake in supraclavicular region.",
+        "Focal hypermetabolic activity noted in right lung upper lobe with SUVmax 10.21.",
+        "Diffuse mild increased uptake in liver, likely benign.",
+        "Focal increased uptake in right lung upper lobe, recommend further correlation with CT morphology.",
+        "Physiologic uptake observed in brain, myocardium, and urinary tract.",
+        "No abnormal activity in lungs or mediastinum."
+    ],
+    "impression": "Primary malignancy detected",
+    "recommendations": "Repeat PET-CT in 3\u20136 months to monitor treatment response."
+}

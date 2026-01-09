@@ -1,0 +1,11 @@
+{
+    "type": "Ultrasound",
+    "location": "humerus",
+    "clinical_history": "Patient complains of limited joint movement.",
+    "findings": [
+        "Soft tissues normal.",
+        "Fluid accumulation in the humerus bursa."
+    ],
+    "impression": "Bursitis",
+    "recommendations": "Refer to orthopedic specialist for management."
+}

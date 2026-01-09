@@ -1,0 +1,13 @@
+{
+    "type": "CT Pelvis",
+    "location": "Right side",
+    "clinical_history": "History of trauma to the pelvic region.",
+    "findings": [
+        "Vascular and bony structures are unremarkable.",
+        "No evidence of hemorrhage, edema, or fluid collections.",
+        "No abnormal lesions or masses noted. Structures appear normal.",
+        "No mass, consolidation, or abnormal fluid accumulation observed."
+    ],
+    "impression": "Normal CT",
+    "recommendations": "Recommend consultation with the referring physician for further management."
+}

@@ -1,0 +1,10 @@
+{
+    "type": "CT",
+    "location": "humerus",
+    "clinical_history": "Patient reports swelling and deformity.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Normal CT",
+    "recommendations": "Further evaluation or biopsy may be considered if indicated."
+}

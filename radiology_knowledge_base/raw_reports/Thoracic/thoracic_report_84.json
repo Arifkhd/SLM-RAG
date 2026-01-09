@@ -1,0 +1,14 @@
+{
+    "type": "HRCT Chest",
+    "location": "diaphragmatic region",
+    "clinical_history": "Patient with unexplained weight loss and fatigue.",
+    "findings": [
+        "Pulmonary embolism suspected; filling defect in segmental artery of diaphragmatic region.",
+        "Thoracic aortic aneurysm measuring 39 mm in diameter.",
+        "Collapse of diaphragmatic region lobe with volume loss.",
+        "Patchy ground-glass opacities noted in diaphragmatic region.",
+        "Small pneumothorax on the diaphragmatic region side."
+    ],
+    "impression": "Pulmonary nodule",
+    "recommendations": "Consider CT or HRCT for detailed evaluation."
+}

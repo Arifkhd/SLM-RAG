@@ -1,0 +1,13 @@
+{
+    "type": "PET-CT for infection",
+    "location": "adrenal gland",
+    "clinical_history": "Patient with unexplained weight loss and fever.",
+    "findings": [
+        "No abnormal activity in lungs or mediastinum.",
+        "Physiologic uptake observed in brain, myocardium, and urinary tract.",
+        "Diffuse mild increased uptake in liver, likely benign.",
+        "Multiple hypermetabolic lesions in bones, suggestive of metastases."
+    ],
+    "impression": "Metastatic lesions identified",
+    "recommendations": "Biopsy or follow-up imaging may be considered to confirm malignancy."
+}

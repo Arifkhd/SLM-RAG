@@ -1,0 +1,13 @@
+{
+    "type": "PET-CT for oncology",
+    "location": "adrenal gland",
+    "clinical_history": "Patient with persistent infection and fever of unknown origin.",
+    "findings": [
+        "Hypermetabolic lymph nodes noted in adrenal gland, suggestive of malignancy.",
+        "Physiologic uptake observed in brain, myocardium, and urinary tract.",
+        "No abnormal activity in lungs or mediastinum.",
+        "No abnormal FDG uptake in the remaining organs."
+    ],
+    "impression": "Liver lesion uptake",
+    "recommendations": "Biopsy or follow-up imaging may be considered to confirm malignancy."
+}

@@ -1,0 +1,13 @@
+{
+    "type": "CT Chest",
+    "location": "Right side",
+    "clinical_history": "Patient reports cough, fever, and shortness of breath for several days.",
+    "findings": [
+        "No abnormal lesions or masses noted. Structures appear normal.",
+        "No mass, consolidation, or abnormal fluid accumulation observed.",
+        "Vascular and bony structures are unremarkable.",
+        "No evidence of hemorrhage, edema, or fluid collections."
+    ],
+    "impression": "Normal CT",
+    "recommendations": "Findings should be correlated with patient symptoms and lab results."
+}

@@ -1,0 +1,13 @@
+{
+    "type": "PET-CT for infection",
+    "location": "myocardium",
+    "clinical_history": "Patient with thyroid nodule under assessment.",
+    "findings": [
+        "No evidence of new metastatic lesions compared to prior scan.",
+        "Physiologic brown fat uptake in supraclavicular region.",
+        "Mild inflammatory uptake in myocardium region.",
+        "No abnormal FDG uptake in the remaining organs."
+    ],
+    "impression": "Post-surgical changes",
+    "recommendations": "Refer to oncology or specialist for further management."
+}

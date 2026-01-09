@@ -1,0 +1,13 @@
+{
+    "type": "MRI Brain",
+    "location": "Right side",
+    "clinical_history": "History of dizziness, visual disturbances, and weakness on one side.",
+    "findings": [
+        "No midline shift observed.",
+        "No additional lesions detected.",
+        "Ventricular system appears normal.",
+        "Mild surrounding edema noted."
+    ],
+    "impression": "Hemorrhagic stroke",
+    "recommendations": "Recommend monitoring and follow-up based on clinical scenario."
+}

@@ -1,0 +1,10 @@
+{
+    "type": "MRI Spine",
+    "location": "Upper lobe",
+    "clinical_history": "Patient reports back pain radiating to the lower limbs.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Spinal cord edema",
+    "recommendations": "Recommend monitoring and follow-up based on clinical scenario."
+}

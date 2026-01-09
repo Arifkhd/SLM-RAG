@@ -1,0 +1,15 @@
+{
+    "type": "PET-CT Thoracic",
+    "location": "right middle lobe",
+    "clinical_history": "Patient with unexplained weight loss and fatigue.",
+    "findings": [
+        "Bronchiectatic changes in right middle lobe region.",
+        "Well-defined nodule measuring 5 mm in right middle lobe.",
+        "Collapse of right middle lobe lobe with volume loss.",
+        "Pulmonary edema with perihilar haze in right middle lobe.",
+        "Enlarged lymph nodes in right middle lobe, suggestive of lymphadenopathy.",
+        "Interstitial thickening and reticular pattern in right middle lobe."
+    ],
+    "impression": "Pulmonary edema",
+    "recommendations": "Consider CT or HRCT for detailed evaluation."
+}

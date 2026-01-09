@@ -1,0 +1,12 @@
+{
+    "type": "Ultrasound",
+    "location": "ankle joint",
+    "clinical_history": "Patient presents with localized pain and swelling.",
+    "findings": [
+        "Mild surrounding edema.",
+        "Soft tissue structures otherwise normal.",
+        "Partial tear or sprain of ankle joint ligament."
+    ],
+    "impression": "Ligament sprain",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be needed."
+}

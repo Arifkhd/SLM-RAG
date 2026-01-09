@@ -1,0 +1,12 @@
+{
+    "type": "MRI Brain",
+    "location": "basal ganglia",
+    "clinical_history": "Patient presents with persistent headache and dizziness.",
+    "findings": [
+        "No skull fracture visualized.",
+        "Perilesional edema noted.",
+        "Contusions observed in the basal ganglia region."
+    ],
+    "impression": "Traumatic brain injury",
+    "recommendations": "Refer to neurologist or neurosurgeon for further management."
+}

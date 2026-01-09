@@ -1,0 +1,15 @@
+{
+    "type": "PET-CT for oncology",
+    "location": "thyroid",
+    "clinical_history": "Patient with history of known malignancy referred for staging PET-CT.",
+    "findings": [
+        "Multiple hypermetabolic lesions in bones, suggestive of metastases.",
+        "Mild inflammatory uptake in thyroid region.",
+        "No abnormal activity in lungs or mediastinum.",
+        "Focal increased uptake in thyroid, recommend further correlation with CT morphology.",
+        "Focal uptake in thyroid consistent with post-surgical changes.",
+        "Physiologic uptake observed in brain, myocardium, and urinary tract."
+    ],
+    "impression": "Physiologic uptake",
+    "recommendations": "Refer to oncology or specialist for further management."
+}

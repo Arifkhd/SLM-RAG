@@ -1,0 +1,14 @@
+{
+    "type": "Abdominal MRI",
+    "location": "Body",
+    "clinical_history": "Patient reports abdominal discomfort and weight loss.",
+    "findings": [
+        "No signs of pancreatitis.",
+        "No solid component or septations noted.",
+        "Pancreatic duct normal.",
+        "Cystic lesion in the Body of pancreas.",
+        "Surrounding structures unremarkable."
+    ],
+    "impression": "Pancreatic cyst",
+    "recommendations": "Further evaluation with lab tests or biopsy may be advised."
+}

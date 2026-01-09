@@ -1,0 +1,11 @@
+{
+    "type": "Chest X-Ray",
+    "location": "Bilateral pleural space",
+    "findings": [
+        "Lung fields partially obscured.",
+        "Mediastinum may be shifted.",
+        "Heart size normal.",
+        "Fluid collection noted."
+    ],
+    "impression": "Pleural effusion"
+}

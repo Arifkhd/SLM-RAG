@@ -1,0 +1,16 @@
+{
+    "type": "Abdominal Ultrasound",
+    "exam_region": "Left upper quadrant",
+    "clinical_history": "Limb swelling, rule out deep venous thrombosis.",
+    "technique": "Real-time gray-scale and color Doppler imaging performed.",
+    "findings": [
+        "Breast tissue shows hypoechoic lesion measuring 5.05 mm.",
+        "Uterus appears homogeneous; endometrial thickness measures 7.73 mm.",
+        "Common bile duct measures 7.16 mm, within normal limits.",
+        "Placenta is hyperechoic and normally located.",
+        "Thyroid gland shows well-defined echotexture; no suspicious nodules.",
+        "Testes are homogeneous with normal vascularity."
+    ],
+    "impression": "Findings compatible with early pregnancy.",
+    "recommendations": "Correlate clinically."
+}

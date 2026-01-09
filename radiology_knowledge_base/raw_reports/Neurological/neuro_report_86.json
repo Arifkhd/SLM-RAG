@@ -1,0 +1,10 @@
+{
+    "type": "CT Brain",
+    "location": "brainstem",
+    "clinical_history": "Patient presents with confusion and vomiting.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Normal CT",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be necessary."
+}

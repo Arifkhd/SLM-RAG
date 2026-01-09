@@ -1,0 +1,13 @@
+{
+    "type": "CT",
+    "location": "elbow joint",
+    "clinical_history": "Patient reports swelling and deformity.",
+    "findings": [
+        "No evidence of joint involvement.",
+        "Linear fracture noted in the elbow joint.",
+        "Adjacent soft tissues normal.",
+        "No displacement or angulation observed."
+    ],
+    "impression": "Fracture",
+    "recommendations": "Refer to orthopedic specialist for management."
+}

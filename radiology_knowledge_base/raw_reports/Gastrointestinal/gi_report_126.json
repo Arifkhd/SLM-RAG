@@ -1,0 +1,13 @@
+{
+    "type": "Endoscopy",
+    "location": "Body",
+    "clinical_history": "History of vomiting and melena.",
+    "findings": [
+        "No strictures observed.",
+        "Diffuse esophageal mucosal thickening noted.",
+        "No ulceration or bleeding present.",
+        "Adjacent structures unremarkable."
+    ],
+    "impression": "Esophagitis",
+    "recommendations": "Further evaluation with lab tests or biopsy may be advised."
+}

@@ -1,0 +1,11 @@
+{
+    "type": "Cardiac MRI",
+    "location": "Right atrium",
+    "clinical_history": "Patient with suspected cardiomyopathy.",
+    "findings": [
+        "No thrombus detected.",
+        "Mild regional wall motion abnormality present."
+    ],
+    "impression": "Myocardial infarction",
+    "recommendations": "Repeat study may be considered based on symptoms."
+}

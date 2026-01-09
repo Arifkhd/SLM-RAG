@@ -1,0 +1,18 @@
+{
+    "type": "Obstetric Ultrasound",
+    "exam_region": "Breast tissue",
+    "clinical_history": "Soft tissue swelling after trauma.",
+    "technique": "Standard abdominal ultrasound protocol followed.",
+    "findings": [
+        "Prostate is smooth-walled; volume approximately 36.35 cc.",
+        "Uterus appears hyperechoic; endometrial thickness measures 29.97 mm.",
+        "No evidence of DVT; veins compressible with normal flow.",
+        "Epididymis demonstrates enlarged features.",
+        "Common bile duct measures 12.74 mm, within normal limits.",
+        "Left kidney shows smooth-walled, corticomedullary differentiation preserved.",
+        "Placenta is hypoechoic and normally located.",
+        "Soft tissue region demonstrates homogeneous without fluid collection."
+    ],
+    "impression": "Findings compatible with early pregnancy.",
+    "recommendations": "MRI or CT correlation may be helpful."
+}

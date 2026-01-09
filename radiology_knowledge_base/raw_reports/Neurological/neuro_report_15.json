@@ -1,0 +1,13 @@
+{
+    "type": "Ultrasound Brain",
+    "location": "ventricular system",
+    "clinical_history": "History of prenatal complications.",
+    "findings": [
+        "No midline shift observed.",
+        "Adjacent parenchyma normal.",
+        "No parenchymal extension.",
+        "Blood noted within the lateral ventricles."
+    ],
+    "impression": "Intraventricular hemorrhage",
+    "recommendations": "Immediate intervention may be required depending on findings."
+}

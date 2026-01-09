@@ -1,0 +1,18 @@
+{
+    "type": "Breast Ultrasound",
+    "exam_region": "Neck soft tissues",
+    "clinical_history": "Routine obstetric ultrasound for fetal growth.",
+    "technique": "Standard abdominal ultrasound protocol followed.",
+    "findings": [
+        "Liver appears hyperechoic with no focal lesions.",
+        "Fetal cardiac activity present with FHR 1.11 bpm.",
+        "Testes are hypoechoic with normal vascularity.",
+        "Uterus appears mildly thickened; endometrial thickness measures 11.13 mm.",
+        "Urinary bladder is well-defined, no intraluminal lesions.",
+        "Prostate is well-defined; volume approximately 26.51 cc.",
+        "Gallbladder shows mildly heterogeneous, no stones or wall thickening.",
+        "Major vessels show enlarged waveform on Doppler."
+    ],
+    "impression": "Findings compatible with early pregnancy.",
+    "recommendations": "Routine follow-up advised."
+}

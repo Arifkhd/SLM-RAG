@@ -1,0 +1,10 @@
+{
+    "type": "Ultrasound",
+    "location": "hip joint",
+    "clinical_history": "Patient presents with localized pain and swelling.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Normal ultrasound",
+    "recommendations": "Physical therapy may be advised depending on clinical findings."
+}

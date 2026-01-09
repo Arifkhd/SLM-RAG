@@ -1,0 +1,12 @@
+{
+    "type": "Doppler Ultrasound",
+    "location": "right adnexa",
+    "clinical_history": "History of previous cesarean section, presenting for scan.",
+    "findings": [
+        "Fetal weight below expected percentile.",
+        "Doppler studies show abnormal flow.",
+        "Placenta thin but echotexture normal."
+    ],
+    "impression": "Fetal growth restriction",
+    "recommendations": "Immediate intervention may be required depending on clinical evolution."
+}

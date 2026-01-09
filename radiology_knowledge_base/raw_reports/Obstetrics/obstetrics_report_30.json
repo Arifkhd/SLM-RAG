@@ -1,0 +1,12 @@
+{
+    "type": "Doppler Ultrasound",
+    "location": "uterine body",
+    "clinical_history": "Patient presents for routine prenatal check-up.",
+    "findings": [
+        "No signs of fetal hypoxia.",
+        "Ductus venosus flow normal.",
+        "Umbilical artery and vein show normal flow patterns."
+    ],
+    "impression": "Normal fetal circulation",
+    "recommendations": "Immediate intervention may be required depending on clinical evolution."
+}

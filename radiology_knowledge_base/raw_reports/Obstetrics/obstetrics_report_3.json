@@ -1,0 +1,12 @@
+{
+    "type": "Ultrasound",
+    "location": "right adnexa",
+    "clinical_history": "Patient with high-risk pregnancy, under monitoring.",
+    "findings": [
+        "Yolk sac visible; fetal pole not yet identified.",
+        "No subchorionic hemorrhage.",
+        "Small gestational sac noted in the uterus."
+    ],
+    "impression": "Early pregnancy",
+    "recommendations": "Follow-up ultrasound recommended in 2 weeks."
+}

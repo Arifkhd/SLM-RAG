@@ -1,0 +1,10 @@
+{
+    "type": "Cardiac CT",
+    "location": "Posterior wall",
+    "clinical_history": "History of previous myocardial infarction and risk factors.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Aortic aneurysm",
+    "recommendations": "Clinical correlation advised; follow-up imaging may be warranted."
+}

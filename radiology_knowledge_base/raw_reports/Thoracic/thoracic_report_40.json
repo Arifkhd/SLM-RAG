@@ -1,0 +1,14 @@
+{
+    "type": "Chest X-ray",
+    "location": "pleural space",
+    "clinical_history": "Patient with chest pain and shortness of breath.",
+    "findings": [
+        "Collapse of pleural space lobe with volume loss.",
+        "Fibrotic changes with honeycombing in pleural space.",
+        "Pulmonary embolism suspected; filling defect in segmental artery of pleural space.",
+        "Pleural effusion on the pleural space side, moderate in size.",
+        "Small pneumothorax on the pleural space side."
+    ],
+    "impression": "Thoracic aortic aneurysm",
+    "recommendations": "Monitor progression with serial imaging."
+}

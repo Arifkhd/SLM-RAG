@@ -1,0 +1,17 @@
+{
+    "type": "Breast Ultrasound",
+    "exam_region": "Urinary bladder",
+    "clinical_history": "Assessment for renal calculus or hydronephrosis.",
+    "technique": "Real-time gray-scale and color Doppler imaging performed.",
+    "findings": [
+        "Left ovary demonstrates mildly heterogeneous morphology.",
+        "Placenta is hyperechoic and normally located.",
+        "Soft tissue region demonstrates mildly heterogeneous without fluid collection.",
+        "Thyroid gland shows homogeneous echotexture; no suspicious nodules.",
+        "Common bile duct measures 26.82 mm, within normal limits.",
+        "Testes are hypoechoic with normal vascularity.",
+        "Uterus appears mildly heterogeneous; endometrial thickness measures 34.29 mm."
+    ],
+    "impression": "Evidence of cystic lesion\u2014likely benign.",
+    "recommendations": "Routine follow-up advised."
+}

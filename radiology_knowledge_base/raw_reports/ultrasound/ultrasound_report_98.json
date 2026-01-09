@@ -1,0 +1,17 @@
+{
+    "type": "Thyroid Ultrasound",
+    "exam_region": "Knee joint",
+    "clinical_history": "Breast lump evaluation.",
+    "technique": "High-resolution linear and curvilinear probes used for detailed evaluation.",
+    "findings": [
+        "Placenta is mildly thickened and normally located.",
+        "Epididymis demonstrates mildly thickened features.",
+        "Thyroid gland shows unremarkable echotexture; no suspicious nodules.",
+        "Major vessels show isoechoic waveform on Doppler.",
+        "Urinary bladder is coarse, no intraluminal lesions.",
+        "Right ovary shows enlarged appearance.",
+        "Prostate is mildly heterogeneous; volume approximately 26.4 cc."
+    ],
+    "impression": "Evidence of cystic lesion\u2014likely benign.",
+    "recommendations": "Consider follow-up ultrasound in 6\u20138 weeks."
+}

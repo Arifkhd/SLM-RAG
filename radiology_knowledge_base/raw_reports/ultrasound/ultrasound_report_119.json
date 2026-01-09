@@ -1,0 +1,16 @@
+{
+    "type": "Musculoskeletal Ultrasound",
+    "exam_region": "Right upper quadrant",
+    "clinical_history": "Assessment for renal calculus or hydronephrosis.",
+    "technique": "Longitudinal, transverse, and oblique views obtained.",
+    "findings": [
+        "Epididymis demonstrates coarse features.",
+        "Fetal cardiac activity present with FHR 21.75 bpm.",
+        "Right kidney demonstrates mildly heterogeneous, no hydronephrosis.",
+        "Breast tissue shows ill-defined lesion measuring 24.05 mm.",
+        "Prostate is unremarkable; volume approximately 30.52 cc.",
+        "Testes are hyperechoic with normal vascularity."
+    ],
+    "impression": "Evidence of obstructive changes.",
+    "recommendations": "FNAC/biopsy recommended if clinically indicated."
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Ultrasound Brain",
+    "location": "temporal lobe",
+    "clinical_history": "History of prenatal complications.",
+    "findings": [
+        "No midline shift observed.",
+        "Adjacent parenchyma normal.",
+        "Blood noted within the lateral ventricles.",
+        "Mild ventricular dilation present."
+    ],
+    "impression": "Intraventricular hemorrhage",
+    "recommendations": "Refer to neurologist or neurosurgeon for further management."
+}

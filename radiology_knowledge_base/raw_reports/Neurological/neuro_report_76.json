@@ -1,0 +1,12 @@
+{
+    "type": "MR Angiography",
+    "location": "occipital lobe",
+    "clinical_history": "Patient with sudden severe headache.",
+    "findings": [
+        "No evidence of rupture.",
+        "Saccular dilatation noted in the occipital lobe artery.",
+        "No thrombus observed."
+    ],
+    "impression": "Aneurysm",
+    "recommendations": "Refer to neurologist or neurosurgeon for further management."
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Colonoscopy",
+    "location": "Central region",
+    "clinical_history": "Routine screening for colon cancer.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Normal findings",
+    "recommendations": "Further evaluation with lab tests or biopsy may be advised."
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Cardiac MRI",
+    "location": "Anterior wall",
+    "clinical_history": "Patient with suspected cardiomyopathy.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Valvular disease",
+    "recommendations": "Refer to cardiologist for further management."
+}

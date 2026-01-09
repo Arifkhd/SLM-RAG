@@ -1,0 +1,13 @@
+{
+    "type": "CT Chest",
+    "location": "Central",
+    "clinical_history": "Patient reports cough, fever, and shortness of breath for several days.",
+    "findings": [
+        "Mediastinal structures slightly displaced due to fluid.",
+        "Fluid collection noted in the Central pleural space.",
+        "No pneumothorax observed.",
+        "Heart silhouette normal; bony thorax intact."
+    ],
+    "impression": "Pleural effusion",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be considered."
+}

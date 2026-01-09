@@ -1,0 +1,12 @@
+{
+    "type": "MRI",
+    "location": "hip joint",
+    "clinical_history": "History of ligament or meniscus injury.",
+    "findings": [
+        "No bone abnormality noted.",
+        "Tendons normal.",
+        "Adjacent joints unremarkable."
+    ],
+    "impression": "Muscle strain",
+    "recommendations": "Physical therapy may be advised depending on clinical findings."
+}

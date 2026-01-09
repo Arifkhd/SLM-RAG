@@ -1,0 +1,14 @@
+{
+    "type": "PET-CT Thoracic",
+    "location": "right upper lobe",
+    "clinical_history": "History of recurrent respiratory infections.",
+    "findings": [
+        "Pulmonary embolism suspected; filling defect in segmental artery of right upper lobe.",
+        "Interstitial thickening and reticular pattern in right upper lobe.",
+        "Bronchiectatic changes in right upper lobe region.",
+        "Patchy ground-glass opacities noted in right upper lobe.",
+        "Collapse of right upper lobe lobe with volume loss."
+    ],
+    "impression": "Lymphadenopathy",
+    "recommendations": "Monitor progression with serial imaging."
+}

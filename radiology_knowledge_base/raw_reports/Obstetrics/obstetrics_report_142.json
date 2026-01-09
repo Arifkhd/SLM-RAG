@@ -1,0 +1,10 @@
+{
+    "type": "MRI",
+    "location": "right adnexa",
+    "clinical_history": "History of previous cesarean section, presenting for scan.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Amniotic fluid abnormality",
+    "recommendations": "Immediate intervention may be required depending on clinical evolution."
+}

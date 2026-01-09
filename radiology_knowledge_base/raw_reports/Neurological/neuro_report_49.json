@@ -1,0 +1,14 @@
+{
+    "type": "MR Angiography",
+    "location": "occipital lobe",
+    "clinical_history": "History of suspected aneurysm or vascular malformation.",
+    "findings": [
+        "All intracranial vessels appear patent.",
+        "No aneurysm or stenosis detected.",
+        "No evidence of thrombus or malformation.",
+        "No abnormal flow patterns.",
+        "Vessel caliber normal throughout."
+    ],
+    "impression": "Normal vessels",
+    "recommendations": "Repeat study may be indicated depending on clinical evolution."
+}

@@ -1,0 +1,10 @@
+{
+    "type": "MRI Shoulder",
+    "location": "Cervical region",
+    "clinical_history": "History of trauma to the shoulder joint.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Bursitis",
+    "recommendations": "Findings should be discussed with the referring physician for further management."
+}

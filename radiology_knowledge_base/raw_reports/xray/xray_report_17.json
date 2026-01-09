@@ -1,0 +1,14 @@
+{
+    "type": "Chest X-Ray",
+    "location": "Left upper lobe",
+    "clinical_history": "Patient presents with chronic cough and unexplained weight loss.",
+    "findings": [
+        "Cardiac silhouette normal.",
+        "Remaining lung fields clear.",
+        "Bony thorax intact.",
+        "No associated pleural effusion or collapse.",
+        "Solitary well-defined nodule/mass observed in the specified lobe."
+    ],
+    "impression": "Lung mass",
+    "recommendations": "Clinical correlation advised. Follow-up imaging may be recommended based on the clinical scenario."
+}

@@ -1,0 +1,18 @@
+{
+    "type": "Obstetric Ultrasound",
+    "exam_region": "Breast tissue",
+    "clinical_history": "Routine obstetric ultrasound for fetal growth.",
+    "technique": "Color Doppler and spectral analysis performed where necessary.",
+    "findings": [
+        "Testes are ill-defined with normal vascularity.",
+        "Uterus appears hyperechoic; endometrial thickness measures 12.35 mm.",
+        "Amniotic fluid index measures 34.6.",
+        "Left ovary demonstrates isoechoic morphology.",
+        "Urinary bladder is homogeneous, no intraluminal lesions.",
+        "Thyroid gland shows isoechoic echotexture; no suspicious nodules.",
+        "Gallbladder shows normal, no stones or wall thickening.",
+        "Fetal cardiac activity present with FHR 3.71 bpm."
+    ],
+    "impression": "Findings suggest mild inflammatory changes.",
+    "recommendations": "Routine follow-up advised."
+}

@@ -1,0 +1,13 @@
+{
+    "type": "MRI Brain",
+    "location": "temporal lobe",
+    "clinical_history": "Patient presents with persistent headache and dizziness.",
+    "findings": [
+        "Cerebellum normal in size.",
+        "No focal parenchymal lesions.",
+        "Ventricular dilation noted involving the lateral and third ventricles.",
+        "Cortical sulci appear compressed."
+    ],
+    "impression": "Hydrocephalus",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be necessary."
+}

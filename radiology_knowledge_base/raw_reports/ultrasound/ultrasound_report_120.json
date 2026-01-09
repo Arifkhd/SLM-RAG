@@ -1,0 +1,16 @@
+{
+    "type": "Prostate Ultrasound",
+    "exam_region": "Breast tissue",
+    "clinical_history": "Patient presents with abdominal discomfort and bloating.",
+    "technique": "High-resolution linear and curvilinear probes used for detailed evaluation.",
+    "findings": [
+        "Epididymis demonstrates well-defined features.",
+        "Uterus appears well-defined; endometrial thickness measures 7.12 mm.",
+        "No evidence of DVT; veins compressible with normal flow.",
+        "Prostate is unremarkable; volume approximately 22.71 cc.",
+        "Fetal cardiac activity present with FHR 21.05 bpm.",
+        "Major vessels show mildly heterogeneous waveform on Doppler."
+    ],
+    "impression": "Appearance consistent with benign etiology.",
+    "recommendations": "Routine follow-up advised."
+}

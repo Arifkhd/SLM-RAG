@@ -1,0 +1,15 @@
+{
+    "type": "Chest X-ray",
+    "location": "right lower lobe",
+    "clinical_history": "Routine preoperative chest evaluation.",
+    "findings": [
+        "Emphysematous changes with hyperlucency in right lower lobe.",
+        "Interstitial thickening and reticular pattern in right lower lobe.",
+        "Pulmonary edema with perihilar haze in right lower lobe.",
+        "Fibrotic changes with honeycombing in right lower lobe.",
+        "Enlarged lymph nodes in right lower lobe, suggestive of lymphadenopathy.",
+        "Pleural effusion on the right lower lobe side, moderate in size."
+    ],
+    "impression": "Atelectasis",
+    "recommendations": "Follow-up imaging recommended in 4\u20136 weeks."
+}

@@ -1,0 +1,13 @@
+{
+    "type": "PET-CT Thoracic",
+    "location": "right lower lobe",
+    "clinical_history": "Routine preoperative chest evaluation.",
+    "findings": [
+        "Thoracic aortic aneurysm measuring 12 mm in diameter.",
+        "Bronchiectatic changes in right lower lobe region.",
+        "Interstitial thickening and reticular pattern in right lower lobe.",
+        "Fibrotic changes with honeycombing in right lower lobe."
+    ],
+    "impression": "Atelectasis",
+    "recommendations": "Follow-up imaging recommended in 4\u20136 weeks."
+}

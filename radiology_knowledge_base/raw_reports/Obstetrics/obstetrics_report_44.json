@@ -1,0 +1,11 @@
+{
+    "type": "Ultrasound",
+    "location": "uterine body",
+    "clinical_history": "History of previous cesarean section, presenting for scan.",
+    "findings": [
+        "Oligohydramnios/Polyhydramnios noted.",
+        "Fetal movement observed."
+    ],
+    "impression": "Amniotic fluid abnormalities",
+    "recommendations": "Refer to obstetrician for clinical correlation and management."
+}

@@ -1,0 +1,12 @@
+{
+    "type": "Ultrasound",
+    "location": "fundal region",
+    "clinical_history": "Patient referred for evaluation of suspected malpresentation.",
+    "findings": [
+        "Abdominal wall defect detected.",
+        "Ventriculomegaly noted in the fetal brain.",
+        "No cardiac abnormality observed."
+    ],
+    "impression": "Fetal congenital anomaly",
+    "recommendations": "Follow-up ultrasound recommended in 2 weeks."
+}

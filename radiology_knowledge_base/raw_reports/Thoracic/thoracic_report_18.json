@@ -1,0 +1,13 @@
+{
+    "type": "HRCT Chest",
+    "location": "hilum",
+    "clinical_history": "Patient with trauma to thorax.",
+    "findings": [
+        "Pleural effusion on the hilum side, moderate in size.",
+        "Focal consolidation in hilum with air bronchogram.",
+        "Small pneumothorax on the hilum side.",
+        "Well-defined nodule measuring 32 mm in hilum."
+    ],
+    "impression": "Bronchiectasis",
+    "recommendations": "Further evaluation with PET-CT recommended if malignancy suspected."
+}

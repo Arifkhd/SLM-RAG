@@ -1,0 +1,14 @@
+{
+    "type": "Brain PET-CT",
+    "location": "spleen",
+    "clinical_history": "Patient under evaluation for metastatic disease.",
+    "findings": [
+        "No abnormal activity in lungs or mediastinum.",
+        "No evidence of new metastatic lesions compared to prior scan.",
+        "Diffuse uptake in thyroid gland, differential includes thyroiditis or nodular disease.",
+        "Focal hypermetabolic activity noted in spleen with SUVmax 14.62.",
+        "No abnormal FDG uptake in the remaining organs."
+    ],
+    "impression": "Hypermetabolic lesion in lung",
+    "recommendations": "Refer to oncology or specialist for further management."
+}

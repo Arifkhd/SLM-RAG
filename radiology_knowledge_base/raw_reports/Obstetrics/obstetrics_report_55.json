@@ -1,0 +1,14 @@
+{
+    "type": "Doppler Ultrasound",
+    "location": "left adnexa",
+    "clinical_history": "Patient with high-risk pregnancy, under monitoring.",
+    "findings": [
+        "Amniotic fluid index measured at 10 cm, below normal range.",
+        "Amniotic fluid index measured at 12 cm, below normal range.",
+        "Amniotic fluid index measured at 17 cm, below normal range.",
+        "Amniotic fluid index measured at 25 cm, below normal range.",
+        "Placental echotexture normal."
+    ],
+    "impression": "Oligohydramnios",
+    "recommendations": "Refer to obstetrician for clinical correlation and management."
+}

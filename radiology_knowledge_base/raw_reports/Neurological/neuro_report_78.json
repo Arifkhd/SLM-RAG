@@ -1,0 +1,10 @@
+{
+    "type": "Ultrasound Brain",
+    "location": "parietal lobe",
+    "clinical_history": "Infant with macrocephaly.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Brain edema",
+    "recommendations": "Immediate intervention may be required depending on findings."
+}

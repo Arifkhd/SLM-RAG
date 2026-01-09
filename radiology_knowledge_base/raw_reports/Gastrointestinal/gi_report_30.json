@@ -1,0 +1,12 @@
+{
+    "type": "Abdominal CT",
+    "location": "Central region",
+    "clinical_history": "Patient presents with abdominal pain and vomiting.",
+    "findings": [
+        "No evidence of free fluid or abnormal masses.",
+        "No signs of inflammation or obstruction.",
+        "No abnormal lesions observed in the abdominal organs."
+    ],
+    "impression": "Normal CT",
+    "recommendations": "Refer to gastroenterologist for further management."
+}

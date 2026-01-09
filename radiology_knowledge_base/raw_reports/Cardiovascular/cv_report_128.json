@@ -1,0 +1,10 @@
+{
+    "type": "ECG",
+    "location": "Septal region",
+    "clinical_history": "History of chest pain and arrhythmia.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Heart block",
+    "recommendations": "Clinical correlation advised; follow-up imaging may be warranted."
+}

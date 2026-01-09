@@ -1,0 +1,15 @@
+{
+    "type": "Chest X-ray",
+    "location": "right upper lobe",
+    "clinical_history": "History of recurrent respiratory infections.",
+    "findings": [
+        "Mediastinal widening observed with soft tissue density.",
+        "Collapse of right upper lobe lobe with volume loss.",
+        "Pulmonary edema with perihilar haze in right upper lobe.",
+        "Pleural effusion on the right upper lobe side, moderate in size.",
+        "Interstitial thickening and reticular pattern in right upper lobe.",
+        "Bronchiectatic changes in right upper lobe region."
+    ],
+    "impression": "Pleural effusion",
+    "recommendations": "Clinical correlation advised; refer to pulmonologist."
+}

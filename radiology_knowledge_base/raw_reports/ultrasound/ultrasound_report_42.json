@@ -1,0 +1,16 @@
+{
+    "type": "Hepatobiliary Ultrasound",
+    "exam_region": "Kidneys",
+    "clinical_history": "Evaluation for suspected gallbladder disease.",
+    "technique": "High-resolution linear and curvilinear probes used for detailed evaluation.",
+    "findings": [
+        "Fetal cardiac activity present with FHR 11.82 bpm.",
+        "Epididymis demonstrates normal features.",
+        "Breast tissue shows smooth-walled lesion measuring 2.51 mm.",
+        "Soft tissue region demonstrates smooth-walled without fluid collection.",
+        "Urinary bladder is well-defined, no intraluminal lesions.",
+        "Liver appears unremarkable with no focal lesions."
+    ],
+    "impression": "Features may represent infection/inflammation.",
+    "recommendations": "MRI or CT correlation may be helpful."
+}

@@ -1,0 +1,11 @@
+{
+    "type": "X-ray",
+    "location": "right shoulder",
+    "clinical_history": "History of trauma to the right shoulder.",
+    "findings": [
+        "Bones appear normal in density and alignment.",
+        "Joint spaces are preserved."
+    ],
+    "impression": "Normal X-ray",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be needed."
+}

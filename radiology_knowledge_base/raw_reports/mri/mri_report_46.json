@@ -1,0 +1,10 @@
+{
+    "type": "MRI Spine",
+    "location": "Upper lobe",
+    "clinical_history": "History of trauma and numbness in extremities.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Spinal stenosis",
+    "recommendations": "Clinical correlation advised; follow-up MRI may be considered."
+}

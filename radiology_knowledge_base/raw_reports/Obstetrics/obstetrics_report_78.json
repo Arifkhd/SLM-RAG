@@ -1,0 +1,13 @@
+{
+    "type": "Doppler Ultrasound",
+    "location": "right adnexa",
+    "clinical_history": "Patient has reduced fetal movements.",
+    "findings": [
+        "Fetal heart rate normal.",
+        "Umbilical artery shows absent/reversed end-diastolic flow.",
+        "Increased resistance noted.",
+        "Ductus venosus flow mildly altered."
+    ],
+    "impression": "Umbilical artery flow abnormality",
+    "recommendations": "MRI may be advised for detailed evaluation if necessary."
+}

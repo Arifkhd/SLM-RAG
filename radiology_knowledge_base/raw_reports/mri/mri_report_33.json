@@ -1,0 +1,12 @@
+{
+    "type": "MRI Brain",
+    "location": "Left side",
+    "clinical_history": "Patient presents with sudden onset headache and neurological deficits.",
+    "findings": [
+        "No midline shift observed.",
+        "Ventricular system appears normal.",
+        "Hyperintense area on T1/T2 images indicating acute hemorrhage in the Left side."
+    ],
+    "impression": "Hemorrhagic stroke",
+    "recommendations": "Additional imaging or lab tests may be indicated based on patient symptoms."
+}

@@ -1,0 +1,11 @@
+{
+    "type": "MRI Brain",
+    "location": "occipital lobe",
+    "clinical_history": "Patient presents with persistent headache and dizziness.",
+    "findings": [
+        "Sulci effaced and ventricles compressed.",
+        "No focal mass lesion detected."
+    ],
+    "impression": "Cerebral edema",
+    "recommendations": "Refer to neurologist or neurosurgeon for further management."
+}

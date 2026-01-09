@@ -1,0 +1,13 @@
+{
+    "type": "Echocardiogram",
+    "location": "Anterior wall",
+    "clinical_history": "History of hypertension and chest discomfort.",
+    "findings": [
+        "Mild left atrial enlargement may be present.",
+        "Pericardium normal, no effusion.",
+        "Systolic function preserved.",
+        "No significant valvular abnormality."
+    ],
+    "impression": "Left ventricular hypertrophy",
+    "recommendations": "Refer to cardiologist for further management."
+}

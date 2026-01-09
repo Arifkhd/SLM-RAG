@@ -1,0 +1,14 @@
+{
+    "type": "CT Brain",
+    "location": "cerebellum",
+    "clinical_history": "History of sudden severe headache.",
+    "findings": [
+        "Surrounding edema present.",
+        "Adjacent bone structures intact.",
+        "Mild midline shift observed.",
+        "Hyperdense area observed in the cerebellum lobe on CT.",
+        "No additional hemorrhages detected."
+    ],
+    "impression": "Intracranial hemorrhage",
+    "recommendations": "Refer to neurologist or neurosurgeon for further management."
+}

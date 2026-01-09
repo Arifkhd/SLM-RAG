@@ -1,0 +1,13 @@
+{
+    "type": "Brain PET-CT",
+    "location": "mediastinal lymph nodes",
+    "clinical_history": "Patient with history of known malignancy referred for staging PET-CT.",
+    "findings": [
+        "Focal hypermetabolic activity noted in mediastinal lymph nodes with SUVmax 10.59.",
+        "No abnormal FDG uptake in the remaining organs.",
+        "Hypermetabolic lymph nodes noted in mediastinal lymph nodes, suggestive of malignancy.",
+        "Multiple hypermetabolic lesions in bones, suggestive of metastases."
+    ],
+    "impression": "Focal infection",
+    "recommendations": "Repeat PET-CT in 3\u20136 months to monitor treatment response."
+}

@@ -1,0 +1,13 @@
+{
+    "type": "PET-CT for oncology",
+    "location": "soft tissue of thigh",
+    "clinical_history": "Patient with bone pain and prior cancer history.",
+    "findings": [
+        "Focal uptake in soft tissue of thigh consistent with post-surgical changes.",
+        "Hypermetabolic lymph nodes noted in soft tissue of thigh, suggestive of malignancy.",
+        "Physiologic uptake observed in brain, myocardium, and urinary tract.",
+        "Mild inflammatory uptake in soft tissue of thigh region."
+    ],
+    "impression": "Inflammatory/infectious uptake",
+    "recommendations": "Clinical correlation recommended with prior imaging."
+}

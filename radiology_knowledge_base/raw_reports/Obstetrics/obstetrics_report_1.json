@@ -1,0 +1,11 @@
+{
+    "type": "MRI",
+    "location": "posterior placenta",
+    "clinical_history": "Patient presents for routine prenatal check-up.",
+    "findings": [
+        "Placenta appears normal.",
+        "Myelomeningocele suspected."
+    ],
+    "impression": "Fetal spine anomaly",
+    "recommendations": "Refer to obstetrician for clinical correlation and management."
+}

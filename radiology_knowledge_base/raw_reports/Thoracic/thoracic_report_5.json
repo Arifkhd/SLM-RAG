@@ -1,0 +1,14 @@
+{
+    "type": "Chest X-ray",
+    "location": "right lower lobe",
+    "clinical_history": "Patient with trauma to thorax.",
+    "findings": [
+        "Emphysematous changes with hyperlucency in right lower lobe.",
+        "Fibrotic changes with honeycombing in right lower lobe.",
+        "Mediastinal widening observed with soft tissue density.",
+        "Focal consolidation in right lower lobe with air bronchogram.",
+        "Well-defined nodule measuring 21 mm in right lower lobe."
+    ],
+    "impression": "Normal thoracic imaging",
+    "recommendations": "Immediate intervention may be required depending on severity."
+}

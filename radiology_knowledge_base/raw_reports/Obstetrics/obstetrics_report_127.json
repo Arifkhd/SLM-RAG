@@ -1,0 +1,13 @@
+{
+    "type": "Doppler Ultrasound",
+    "location": "left adnexa",
+    "clinical_history": "History of previous cesarean section, presenting for scan.",
+    "findings": [
+        "Fetal movements present.",
+        "Placental echotexture normal.",
+        "Fetal growth within limits.",
+        "Amniotic fluid index measured at 12 cm, below normal range."
+    ],
+    "impression": "Oligohydramnios",
+    "recommendations": "Refer to obstetrician for clinical correlation and management."
+}

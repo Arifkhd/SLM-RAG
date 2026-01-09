@@ -1,0 +1,13 @@
+{
+    "type": "Abdominal CT",
+    "location": "Right lobe",
+    "clinical_history": "History of right lower quadrant tenderness and fever.",
+    "findings": [
+        "Peri-appendiceal fat stranding present.",
+        "Adjacent bowel loops appear normal.",
+        "No lymphadenopathy observed.",
+        "Appendix appears dilated and thickened with wall enhancement."
+    ],
+    "impression": "Appendicitis",
+    "recommendations": "Refer to gastroenterologist for further management."
+}

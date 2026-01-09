@@ -1,0 +1,18 @@
+{
+    "type": "Abdominal Ultrasound",
+    "exam_region": "Testes and epididymis",
+    "clinical_history": "Soft tissue swelling after trauma.",
+    "technique": "Color Doppler and spectral analysis performed where necessary.",
+    "findings": [
+        "Epididymis demonstrates hypoechoic features.",
+        "Thyroid gland shows isoechoic echotexture; no suspicious nodules.",
+        "Liver appears isoechoic with no focal lesions.",
+        "Amniotic fluid index measures 4.35.",
+        "Fetal cardiac activity present with FHR 20.57 bpm.",
+        "Gallbladder shows unremarkable, no stones or wall thickening.",
+        "Right ovary shows unremarkable appearance.",
+        "No evidence of DVT; veins compressible with normal flow."
+    ],
+    "impression": "Likely physiological appearance.",
+    "recommendations": "Refer to specialist for further evaluation."
+}

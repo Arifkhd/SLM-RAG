@@ -1,0 +1,12 @@
+{
+    "type": "Ultrasound",
+    "location": "fundal region",
+    "clinical_history": "History of previous cesarean section, presenting for scan.",
+    "findings": [
+        "Fetal cardiac activity detected in both.",
+        "No gross structural abnormalities detected.",
+        "Amniotic fluid volume normal for both fetuses."
+    ],
+    "impression": "Multiple gestation",
+    "recommendations": "MRI may be advised for detailed evaluation if necessary."
+}

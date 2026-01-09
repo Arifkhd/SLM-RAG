@@ -1,0 +1,18 @@
+{
+    "type": "Doppler Vascular Ultrasound",
+    "exam_region": "Upper abdomen",
+    "clinical_history": "Limb swelling, rule out deep venous thrombosis.",
+    "technique": "Longitudinal, transverse, and oblique views obtained.",
+    "findings": [
+        "Gallbladder shows unremarkable, no stones or wall thickening.",
+        "Right ovary shows mildly heterogeneous appearance.",
+        "Prostate is well-defined; volume approximately 1.55 cc.",
+        "Liver appears ill-defined with no focal lesions.",
+        "Major vessels show normal waveform on Doppler.",
+        "Right kidney demonstrates unremarkable, no hydronephrosis.",
+        "Testes are normal with normal vascularity.",
+        "Placenta is unremarkable and normally located."
+    ],
+    "impression": "Evidence of cystic lesion\u2014likely benign.",
+    "recommendations": "FNAC/biopsy recommended if clinically indicated."
+}

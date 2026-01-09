@@ -1,0 +1,10 @@
+{
+    "type": "Abdominal MRI",
+    "location": "Right lobe",
+    "clinical_history": "Patient under evaluation for abdominal mass.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Normal MRI",
+    "recommendations": "Further evaluation with lab tests or biopsy may be advised."
+}

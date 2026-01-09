@@ -1,0 +1,10 @@
+{
+    "type": "CT",
+    "location": "elbow joint",
+    "clinical_history": "Patient presents with severe bone pain after trauma.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Osteomyelitis",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be needed."
+}

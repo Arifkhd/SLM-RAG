@@ -1,0 +1,15 @@
+{
+    "type": "Chest X-ray",
+    "location": "left lower lobe",
+    "clinical_history": "Patient with chronic dyspnea and smoking history.",
+    "findings": [
+        "Bronchiectatic changes in left lower lobe region.",
+        "Interstitial thickening and reticular pattern in left lower lobe.",
+        "Pleural effusion on the left lower lobe side, moderate in size.",
+        "Small pneumothorax on the left lower lobe side.",
+        "Well-defined nodule measuring 46 mm in left lower lobe.",
+        "Emphysematous changes with hyperlucency in left lower lobe."
+    ],
+    "impression": "Normal thoracic imaging",
+    "recommendations": "Follow-up imaging recommended in 4\u20136 weeks."
+}

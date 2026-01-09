@@ -1,0 +1,16 @@
+{
+    "type": "Musculoskeletal Ultrasound",
+    "exam_region": "Hip region",
+    "clinical_history": "Urinary difficulty and suspected prostate enlargement.",
+    "technique": "Color Doppler and spectral analysis performed where necessary.",
+    "findings": [
+        "Soft tissue region demonstrates mildly thickened without fluid collection.",
+        "Right ovary shows hyperechoic appearance.",
+        "Fetal cardiac activity present with FHR 35.63 bpm.",
+        "Breast tissue shows homogeneous lesion measuring 8.18 mm.",
+        "Thyroid gland shows hyperechoic echotexture; no suspicious nodules.",
+        "Common bile duct measures 32.58 mm, within normal limits."
+    ],
+    "impression": "Evidence of obstructive changes.",
+    "recommendations": "Consider follow-up ultrasound in 6\u20138 weeks."
+}

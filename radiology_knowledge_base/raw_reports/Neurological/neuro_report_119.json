@@ -1,0 +1,13 @@
+{
+    "type": "MR Angiography",
+    "location": "parietal lobe",
+    "clinical_history": "Patient reports transient ischemic attacks.",
+    "findings": [
+        "No flow distal to the occlusion.",
+        "Collateral circulation minimal.",
+        "Adjacent vessels unremarkable.",
+        "Complete occlusion of the parietal lobe artery observed."
+    ],
+    "impression": "Vessel occlusion",
+    "recommendations": "Refer to neurologist or neurosurgeon for further management."
+}

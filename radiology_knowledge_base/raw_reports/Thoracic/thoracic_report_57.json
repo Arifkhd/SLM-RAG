@@ -1,0 +1,14 @@
+{
+    "type": "Chest X-ray",
+    "location": "right lower lobe",
+    "clinical_history": "Patient with chest pain and shortness of breath.",
+    "findings": [
+        "Enlarged lymph nodes in right lower lobe, suggestive of lymphadenopathy.",
+        "Pleural effusion on the right lower lobe side, moderate in size.",
+        "Bronchiectatic changes in right lower lobe region.",
+        "Patchy ground-glass opacities noted in right lower lobe.",
+        "Thoracic aortic aneurysm measuring 15 mm in diameter."
+    ],
+    "impression": "Normal thoracic imaging",
+    "recommendations": "Further evaluation with PET-CT recommended if malignancy suspected."
+}

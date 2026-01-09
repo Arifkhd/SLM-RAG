@@ -1,0 +1,14 @@
+{
+    "type": "Cardiac PET-CT",
+    "location": "right lung upper lobe",
+    "clinical_history": "Patient with history of known malignancy referred for staging PET-CT.",
+    "findings": [
+        "Focal hypermetabolic activity noted in right lung upper lobe with SUVmax 4.4.",
+        "Multiple hypermetabolic lesions in bones, suggestive of metastases.",
+        "Focal increased uptake in right lung upper lobe, recommend further correlation with CT morphology.",
+        "Physiologic uptake observed in brain, myocardium, and urinary tract.",
+        "No evidence of new metastatic lesions compared to prior scan."
+    ],
+    "impression": "Alzheimer's pattern",
+    "recommendations": "Clinical correlation recommended with prior imaging."
+}

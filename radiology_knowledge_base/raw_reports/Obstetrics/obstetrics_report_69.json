@@ -1,0 +1,12 @@
+{
+    "type": "MRI",
+    "location": "fundal region",
+    "clinical_history": "Patient reports abdominal pain and spotting.",
+    "findings": [
+        "No abnormal signal in parenchyma.",
+        "No ventriculomegaly detected.",
+        "Fetal body organs normal in appearance."
+    ],
+    "impression": "Normal fetal MRI",
+    "recommendations": "MRI may be advised for detailed evaluation if necessary."
+}

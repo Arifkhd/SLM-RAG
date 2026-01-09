@@ -1,0 +1,14 @@
+{
+    "type": "PET-CT Thoracic",
+    "location": "diaphragmatic region",
+    "clinical_history": "Patient with unexplained weight loss and fatigue.",
+    "findings": [
+        "Mediastinal widening observed with soft tissue density.",
+        "Pulmonary embolism suspected; filling defect in segmental artery of diaphragmatic region.",
+        "Bronchiectatic changes in diaphragmatic region region.",
+        "Interstitial thickening and reticular pattern in diaphragmatic region.",
+        "Pulmonary edema with perihilar haze in diaphragmatic region."
+    ],
+    "impression": "Normal thoracic imaging",
+    "recommendations": "Consider CT or HRCT for detailed evaluation."
+}

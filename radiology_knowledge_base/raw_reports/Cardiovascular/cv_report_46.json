@@ -1,0 +1,13 @@
+{
+    "type": "ECG",
+    "location": "Right atrium",
+    "clinical_history": "Patient presents with palpitations and dizziness.",
+    "findings": [
+        "Heart rate within normal limits.",
+        "PR, QRS, and QT intervals normal.",
+        "No arrhythmias detected during monitoring.",
+        "No ST-segment or T-wave abnormalities."
+    ],
+    "impression": "Normal sinus rhythm",
+    "recommendations": "Refer to cardiologist for further management."
+}

@@ -1,0 +1,11 @@
+{
+    "type": "CT Chest",
+    "location": "Central",
+    "clinical_history": "History of chest pain and recent upper respiratory infection.",
+    "findings": [
+        "No cavitation or abscess formation observed.",
+        "No pleural effusion identified."
+    ],
+    "impression": "Pneumonia",
+    "recommendations": "Follow-up imaging or additional diagnostic tests may be indicated."
+}

@@ -1,0 +1,11 @@
+{
+    "type": "MR Angiography",
+    "location": "occipital lobe",
+    "clinical_history": "History of suspected aneurysm or vascular malformation.",
+    "findings": [
+        "Tangle of abnormal vessels noted in the occipital lobe region.",
+        "Adjacent parenchyma normal."
+    ],
+    "impression": "Arteriovenous malformation",
+    "recommendations": "Refer to neurologist or neurosurgeon for further management."
+}

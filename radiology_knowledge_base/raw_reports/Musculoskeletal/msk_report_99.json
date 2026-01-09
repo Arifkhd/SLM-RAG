@@ -1,0 +1,12 @@
+{
+    "type": "Ultrasound",
+    "location": "elbow joint",
+    "clinical_history": "History of tendon or muscle injury.",
+    "findings": [
+        "No fractures detected.",
+        "No signs of infection.",
+        "Synovial lining appears mildly thickened."
+    ],
+    "impression": "Joint effusion",
+    "recommendations": "Refer to orthopedic specialist for management."
+}

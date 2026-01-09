@@ -1,0 +1,15 @@
+{
+    "type": "PET-CT for infection",
+    "location": "adrenal gland",
+    "clinical_history": "Patient with persistent infection and fever of unknown origin.",
+    "findings": [
+        "No evidence of new metastatic lesions compared to prior scan.",
+        "Focal uptake in adrenal gland consistent with post-surgical changes.",
+        "No abnormal activity in lungs or mediastinum.",
+        "Diffuse uptake in thyroid gland, differential includes thyroiditis or nodular disease.",
+        "No abnormal FDG uptake in the remaining organs.",
+        "Focal increased uptake in adrenal gland, recommend further correlation with CT morphology."
+    ],
+    "impression": "Physiologic uptake",
+    "recommendations": "Clinical correlation recommended with prior imaging."
+}

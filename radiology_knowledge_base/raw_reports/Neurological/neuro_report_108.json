@@ -1,0 +1,12 @@
+{
+    "type": "Ultrasound Brain",
+    "location": "basal ganglia",
+    "clinical_history": "Patient presents with delayed neurological milestones.",
+    "findings": [
+        "Ventricular configuration abnormal.",
+        "Abnormal cortical development observed in basal ganglia.",
+        "Recommend further evaluation."
+    ],
+    "impression": "Congenital malformation",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be necessary."
+}

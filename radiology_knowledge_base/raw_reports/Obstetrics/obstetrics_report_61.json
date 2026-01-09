@@ -1,0 +1,11 @@
+{
+    "type": "MRI",
+    "location": "uterine body",
+    "clinical_history": "Patient reports abdominal pain and spotting.",
+    "findings": [
+        "Fetal brain and spine appear normal.",
+        "No abnormal signal in parenchyma."
+    ],
+    "impression": "Normal fetal MRI",
+    "recommendations": "Monitor amniotic fluid and fetal growth closely."
+}

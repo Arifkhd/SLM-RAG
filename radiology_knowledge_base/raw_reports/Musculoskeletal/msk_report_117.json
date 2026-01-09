@@ -1,0 +1,10 @@
+{
+    "type": "CT",
+    "location": "right knee",
+    "clinical_history": "History of suspected fracture or tumor.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Joint dislocation",
+    "recommendations": "Further evaluation or biopsy may be considered if indicated."
+}

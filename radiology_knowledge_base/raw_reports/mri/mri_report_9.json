@@ -1,0 +1,10 @@
+{
+    "type": "MRI Abdomen",
+    "location": "Upper lobe",
+    "clinical_history": "Patient reports abdominal mass and weight loss.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Liver lesion",
+    "recommendations": "Clinical correlation advised; follow-up MRI may be considered."
+}

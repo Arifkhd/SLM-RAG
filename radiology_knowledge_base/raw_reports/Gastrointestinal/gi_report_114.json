@@ -1,0 +1,10 @@
+{
+    "type": "Endoscopy",
+    "location": "Head",
+    "clinical_history": "Patient complains of upper abdominal pain and heartburn.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Normal findings",
+    "recommendations": "Repeat study may be indicated depending on clinical course."
+}

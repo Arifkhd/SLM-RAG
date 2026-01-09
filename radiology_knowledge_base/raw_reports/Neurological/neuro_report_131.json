@@ -1,0 +1,13 @@
+{
+    "type": "MRI Brain",
+    "location": "frontal lobe",
+    "clinical_history": "History of sudden neurological deficits.",
+    "findings": [
+        "Lesions vary in size and location.",
+        "No acute hemorrhage detected.",
+        "No mass effect or midline shift.",
+        "Multiple hyperintense lesions noted in periventricular and subcortical white matter."
+    ],
+    "impression": "Multiple sclerosis",
+    "recommendations": "Refer to neurologist or neurosurgeon for further management."
+}

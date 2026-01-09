@@ -1,0 +1,14 @@
+{
+    "type": "X-ray",
+    "location": "right shoulder",
+    "clinical_history": "Patient reports swelling and tenderness.",
+    "findings": [
+        "Borders irregular with mild periosteal reaction.",
+        "Soft tissue extension not observed.",
+        "Heterogeneous lesion in the right shoulder.",
+        "Recommend further evaluation.",
+        "No pathological fractures."
+    ],
+    "impression": "Bone tumor",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be needed."
+}

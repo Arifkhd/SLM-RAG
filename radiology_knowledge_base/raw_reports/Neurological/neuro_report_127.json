@@ -1,0 +1,13 @@
+{
+    "type": "MR Angiography",
+    "location": "basal ganglia",
+    "clinical_history": "Patient with sudden severe headache.",
+    "findings": [
+        "No collateral circulation detected.",
+        "Adjacent vessels patent.",
+        "Filling defect noted in the basal ganglia vessel.",
+        "Recommend clinical correlation."
+    ],
+    "impression": "Thrombosis",
+    "recommendations": "Immediate intervention may be required depending on findings."
+}

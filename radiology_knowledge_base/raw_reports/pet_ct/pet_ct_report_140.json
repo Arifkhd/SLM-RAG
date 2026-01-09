@@ -1,0 +1,14 @@
+{
+    "type": "PET-CT for infection",
+    "location": "adrenal gland",
+    "clinical_history": "Patient with suspected cardiac sarcoidosis.",
+    "findings": [
+        "Multiple hypermetabolic lesions in bones, suggestive of metastases.",
+        "No abnormal FDG uptake in the remaining organs.",
+        "No abnormal activity in lungs or mediastinum.",
+        "Focal hypermetabolic activity noted in adrenal gland with SUVmax 11.2.",
+        "Mild inflammatory uptake in adrenal gland region."
+    ],
+    "impression": "Brain hypometabolism",
+    "recommendations": "Biopsy or follow-up imaging may be considered to confirm malignancy."
+}

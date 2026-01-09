@@ -1,0 +1,13 @@
+{
+    "type": "Doppler Ultrasound",
+    "location": "left adnexa",
+    "clinical_history": "Patient with high-risk pregnancy, under monitoring.",
+    "findings": [
+        "Increased resistance in umbilical artery.",
+        "Amniotic fluid mildly decreased.",
+        "Fetal heart rate normal.",
+        "Placental thickness reduced."
+    ],
+    "impression": "Placental insufficiency",
+    "recommendations": "Monitor amniotic fluid and fetal growth closely."
+}

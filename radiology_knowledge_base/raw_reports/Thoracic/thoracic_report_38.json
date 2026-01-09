@@ -1,0 +1,14 @@
+{
+    "type": "HRCT Chest",
+    "location": "perihilar region",
+    "clinical_history": "Patient with chest pain and shortness of breath.",
+    "findings": [
+        "Small pneumothorax on the perihilar region side.",
+        "Emphysematous changes with hyperlucency in perihilar region.",
+        "Pleural effusion on the perihilar region side, moderate in size.",
+        "Enlarged lymph nodes in perihilar region, suggestive of lymphadenopathy.",
+        "Pulmonary edema with perihilar haze in perihilar region."
+    ],
+    "impression": "Lymphadenopathy",
+    "recommendations": "Clinical correlation advised; refer to pulmonologist."
+}

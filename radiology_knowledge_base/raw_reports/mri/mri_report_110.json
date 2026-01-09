@@ -1,0 +1,13 @@
+{
+    "type": "MRI Shoulder",
+    "location": "Cervical region",
+    "clinical_history": "Complaints of clicking sound during movement.",
+    "findings": [
+        "Adjacent soft tissues and bony structures are unremarkable.",
+        "All anatomical structures appear normal in size, shape, and signal characteristics.",
+        "No evidence of hemorrhage, infarction, or mass effect.",
+        "No abnormal signal intensity or lesions observed."
+    ],
+    "impression": "Normal MRI",
+    "recommendations": "Clinical correlation advised; follow-up MRI may be considered."
+}

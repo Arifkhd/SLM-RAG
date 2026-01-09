@@ -1,0 +1,11 @@
+{
+    "type": "CT Chest",
+    "location": "Central",
+    "clinical_history": "Complaints of persistent cough and mild dyspnea.",
+    "findings": [
+        "No pleural effusion identified.",
+        "No cavitation or abscess formation observed."
+    ],
+    "impression": "Pneumonia",
+    "recommendations": "Findings should be correlated with patient symptoms and lab results."
+}

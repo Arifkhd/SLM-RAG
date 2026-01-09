@@ -1,0 +1,13 @@
+{
+    "type": "Colonoscopy",
+    "location": "Head",
+    "clinical_history": "Routine screening for colon cancer.",
+    "findings": [
+        "Surrounding mucosa normal.",
+        "No signs of malignancy.",
+        "No colonic obstruction.",
+        "Other colon segments unremarkable."
+    ],
+    "impression": "Colonic polyps",
+    "recommendations": "Refer to gastroenterologist for further management."
+}

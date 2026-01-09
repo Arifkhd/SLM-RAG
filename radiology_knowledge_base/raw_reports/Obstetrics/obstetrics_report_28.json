@@ -1,0 +1,14 @@
+{
+    "type": "Doppler Ultrasound",
+    "location": "left adnexa",
+    "clinical_history": "Patient reports abdominal pain and spotting.",
+    "findings": [
+        "Amniotic fluid index measured at 15 cm, below normal range.",
+        "Amniotic fluid index measured at 14 cm, below normal range.",
+        "Fetal movements present.",
+        "Fetal growth within limits.",
+        "Placental echotexture normal."
+    ],
+    "impression": "Oligohydramnios",
+    "recommendations": "MRI may be advised for detailed evaluation if necessary."
+}

@@ -1,0 +1,10 @@
+{
+    "type": "CT Chest",
+    "location": "Central",
+    "clinical_history": "History of chest pain and recent upper respiratory infection.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Interstitial lung disease",
+    "recommendations": "Follow-up imaging or additional diagnostic tests may be indicated."
+}

@@ -1,0 +1,12 @@
+{
+    "type": "CT Chest",
+    "location": "Bilateral",
+    "clinical_history": "History of chest pain and recent upper respiratory infection.",
+    "findings": [
+        "No lymphadenopathy or pleural effusion.",
+        "Vascular structures unaffected.",
+        "Margins are well-defined; no surrounding consolidation."
+    ],
+    "impression": "Lung mass",
+    "recommendations": "Recommend consultation with the referring physician for further management."
+}

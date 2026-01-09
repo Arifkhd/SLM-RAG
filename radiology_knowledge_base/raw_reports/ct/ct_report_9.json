@@ -1,0 +1,10 @@
+{
+    "type": "CT Brain",
+    "location": "Left side",
+    "clinical_history": "Patient has sudden onset headache and confusion.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Hemorrhagic stroke",
+    "recommendations": "Findings should be correlated with patient symptoms and lab results."
+}

@@ -1,0 +1,13 @@
+{
+    "type": "PET-CT Thoracic",
+    "location": "pleural space",
+    "clinical_history": "History of recurrent respiratory infections.",
+    "findings": [
+        "Interstitial thickening and reticular pattern in pleural space.",
+        "Pulmonary embolism suspected; filling defect in segmental artery of pleural space.",
+        "Thoracic aortic aneurysm measuring 5 mm in diameter.",
+        "Mediastinal widening observed with soft tissue density."
+    ],
+    "impression": "Mediastinal mass",
+    "recommendations": "Immediate intervention may be required depending on severity."
+}

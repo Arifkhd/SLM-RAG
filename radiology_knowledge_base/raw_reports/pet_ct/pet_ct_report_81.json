@@ -1,0 +1,13 @@
+{
+    "type": "PET-CT for oncology",
+    "location": "cervical lymph nodes",
+    "clinical_history": "Follow-up PET-CT after chemotherapy to assess treatment response.",
+    "findings": [
+        "Hypermetabolic lymph nodes noted in cervical lymph nodes, suggestive of malignancy.",
+        "Physiologic uptake observed in brain, myocardium, and urinary tract.",
+        "Multiple hypermetabolic lesions in bones, suggestive of metastases.",
+        "Mild inflammatory uptake in cervical lymph nodes region."
+    ],
+    "impression": "Inflammatory/infectious uptake",
+    "recommendations": "Consider lab tests to assess metabolic activity if indicated."
+}

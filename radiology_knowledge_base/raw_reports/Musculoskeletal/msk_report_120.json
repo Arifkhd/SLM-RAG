@@ -1,0 +1,10 @@
+{
+    "type": "MRI",
+    "location": "femur",
+    "clinical_history": "History of ligament or meniscus injury.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Normal MRI",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be needed."
+}

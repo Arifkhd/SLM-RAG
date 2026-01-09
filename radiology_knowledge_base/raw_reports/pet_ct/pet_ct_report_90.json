@@ -1,0 +1,14 @@
+{
+    "type": "Whole-body PET-CT",
+    "location": "soft tissue of thigh",
+    "clinical_history": "Patient with history of known malignancy referred for staging PET-CT.",
+    "findings": [
+        "Physiologic brown fat uptake in supraclavicular region.",
+        "No evidence of new metastatic lesions compared to prior scan.",
+        "Diffuse uptake in thyroid gland, differential includes thyroiditis or nodular disease.",
+        "No abnormal activity in lungs or mediastinum.",
+        "Diffuse mild increased uptake in liver, likely benign."
+    ],
+    "impression": "Hypermetabolic lymph nodes",
+    "recommendations": "Clinical correlation recommended with prior imaging."
+}

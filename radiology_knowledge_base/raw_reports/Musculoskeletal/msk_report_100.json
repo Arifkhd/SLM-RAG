@@ -1,0 +1,10 @@
+{
+    "type": "CT",
+    "location": "left knee",
+    "clinical_history": "Patient reports swelling and deformity.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Osteomyelitis",
+    "recommendations": "Refer to orthopedic specialist for management."
+}

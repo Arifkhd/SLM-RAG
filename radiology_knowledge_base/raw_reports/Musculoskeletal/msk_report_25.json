@@ -1,0 +1,12 @@
+{
+    "type": "MRI",
+    "location": "femur",
+    "clinical_history": "Patient complains of persistent joint pain.",
+    "findings": [
+        "Tear observed in the femur meniscus.",
+        "No ligamentous injury detected.",
+        "No bone marrow edema noted."
+    ],
+    "impression": "Meniscus tear",
+    "recommendations": "Physical therapy may be advised depending on clinical findings."
+}

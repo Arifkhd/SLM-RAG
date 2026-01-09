@@ -1,0 +1,15 @@
+{
+    "type": "Chest X-Ray",
+    "location": "Right lower lobe",
+    "clinical_history": "Complaints of mild dyspnea and cough.",
+    "findings": [
+        "Collapse of the affected lobe with volume loss noted.",
+        "Heart and other mediastinal structures appear normal.",
+        "Trachea and mediastinum shifted towards the affected side.",
+        "No pleural effusion.",
+        "Adjacent lung shows compensatory hyperinflation.",
+        "Bony thorax normal."
+    ],
+    "impression": "Atelectasis",
+    "recommendations": "Clinical correlation advised. Follow-up imaging may be recommended based on the clinical scenario."
+}

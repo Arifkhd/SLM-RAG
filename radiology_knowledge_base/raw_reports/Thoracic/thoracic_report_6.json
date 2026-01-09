@@ -1,0 +1,15 @@
+{
+    "type": "Chest X-ray",
+    "location": "right upper lobe",
+    "clinical_history": "Patient with suspected pulmonary embolism.",
+    "findings": [
+        "Pulmonary edema with perihilar haze in right upper lobe.",
+        "Interstitial thickening and reticular pattern in right upper lobe.",
+        "Patchy ground-glass opacities noted in right upper lobe.",
+        "Thoracic aortic aneurysm measuring 37 mm in diameter.",
+        "Collapse of right upper lobe lobe with volume loss.",
+        "Enlarged lymph nodes in right upper lobe, suggestive of lymphadenopathy."
+    ],
+    "impression": "Pulmonary edema",
+    "recommendations": "Follow-up imaging recommended in 4\u20136 weeks."
+}

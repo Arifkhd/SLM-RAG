@@ -1,0 +1,12 @@
+{
+    "type": "Ultrasound Abdomen",
+    "location": "Peripheral region",
+    "clinical_history": "Patient reports right upper quadrant pain.",
+    "findings": [
+        "Mass lesion observed in the Peripheral region region.",
+        "Vascularity within mass noted.",
+        "No invasion into surrounding organs detected."
+    ],
+    "impression": "Abdominal mass",
+    "recommendations": "Further evaluation with lab tests or biopsy may be advised."
+}

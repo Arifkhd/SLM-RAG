@@ -1,0 +1,10 @@
+{
+    "type": "MRI",
+    "location": "uterine body",
+    "clinical_history": "Patient referred for evaluation of suspected malpresentation.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Amniotic fluid abnormality",
+    "recommendations": "Follow-up ultrasound recommended in 2 weeks."
+}

@@ -1,0 +1,14 @@
+{
+    "type": "MRI",
+    "location": "fundal region",
+    "clinical_history": "Patient with high-risk pregnancy, under monitoring.",
+    "findings": [
+        "No abnormal signal in parenchyma.",
+        "Fetal body organs normal in appearance.",
+        "Cerebellum and corpus callosum normal.",
+        "Fetal brain and spine appear normal.",
+        "No ventriculomegaly detected."
+    ],
+    "impression": "Normal fetal MRI",
+    "recommendations": "MRI may be advised for detailed evaluation if necessary."
+}

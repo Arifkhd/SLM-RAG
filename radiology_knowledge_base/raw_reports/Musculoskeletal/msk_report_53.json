@@ -1,0 +1,12 @@
+{
+    "type": "MRI",
+    "location": "hip joint",
+    "clinical_history": "History of ligament or meniscus injury.",
+    "findings": [
+        "No hematoma detected.",
+        "No bone abnormality noted.",
+        "Adjacent joints unremarkable."
+    ],
+    "impression": "Muscle strain",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be needed."
+}

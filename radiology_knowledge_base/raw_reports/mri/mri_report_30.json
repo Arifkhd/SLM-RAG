@@ -1,0 +1,12 @@
+{
+    "type": "MRI Spine",
+    "location": "Bilateral",
+    "clinical_history": "Patient reports back pain radiating to the lower limbs.",
+    "findings": [
+        "All anatomical structures appear normal in size, shape, and signal characteristics.",
+        "No evidence of hemorrhage, infarction, or mass effect.",
+        "No abnormal signal intensity or lesions observed."
+    ],
+    "impression": "Normal MRI",
+    "recommendations": "Additional imaging or lab tests may be indicated based on patient symptoms."
+}

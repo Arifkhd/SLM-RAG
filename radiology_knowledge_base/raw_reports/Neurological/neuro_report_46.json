@@ -1,0 +1,14 @@
+{
+    "type": "EEG",
+    "location": "basal ganglia",
+    "clinical_history": "Patient reports sudden episodes of loss of consciousness.",
+    "findings": [
+        "No slowing or seizure activity detected.",
+        "Symmetry between hemispheres maintained.",
+        "No abnormal spikes or waves.",
+        "Regular background rhythm observed.",
+        "Artifacts absent."
+    ],
+    "impression": "Normal EEG",
+    "recommendations": "Repeat study may be indicated depending on clinical evolution."
+}

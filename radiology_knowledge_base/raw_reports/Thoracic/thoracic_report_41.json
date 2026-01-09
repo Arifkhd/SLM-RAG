@@ -1,0 +1,14 @@
+{
+    "type": "HRCT Chest",
+    "location": "left lower lobe",
+    "clinical_history": "Patient with chronic dyspnea and smoking history.",
+    "findings": [
+        "Focal consolidation in left lower lobe with air bronchogram.",
+        "Bronchiectatic changes in left lower lobe region.",
+        "Fibrotic changes with honeycombing in left lower lobe.",
+        "Small pneumothorax on the left lower lobe side.",
+        "Emphysematous changes with hyperlucency in left lower lobe."
+    ],
+    "impression": "Lymphadenopathy",
+    "recommendations": "Clinical correlation advised; refer to pulmonologist."
+}

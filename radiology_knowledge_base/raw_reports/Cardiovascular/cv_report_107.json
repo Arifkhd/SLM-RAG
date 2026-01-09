@@ -1,0 +1,10 @@
+{
+    "type": "Echocardiogram",
+    "location": "Anterior wall",
+    "clinical_history": "Patient presents with shortness of breath and fatigue.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Pericardial effusion",
+    "recommendations": "Clinical correlation advised; follow-up imaging may be warranted."
+}

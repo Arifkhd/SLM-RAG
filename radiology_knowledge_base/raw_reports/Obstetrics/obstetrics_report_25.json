@@ -1,0 +1,11 @@
+{
+    "type": "Ultrasound",
+    "location": "fundal region",
+    "clinical_history": "Patient presents for routine prenatal check-up.",
+    "findings": [
+        "No intrauterine pregnancy detected.",
+        "Gestational sac noted outside the uterine cavity, likely in fundal region."
+    ],
+    "impression": "Ectopic pregnancy",
+    "recommendations": "Follow-up ultrasound recommended in 2 weeks."
+}

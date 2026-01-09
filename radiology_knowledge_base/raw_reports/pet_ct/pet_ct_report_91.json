@@ -1,0 +1,15 @@
+{
+    "type": "Whole-body PET-CT",
+    "location": "cervical lymph nodes",
+    "clinical_history": "Patient with persistent infection and fever of unknown origin.",
+    "findings": [
+        "Focal uptake in cervical lymph nodes consistent with post-surgical changes.",
+        "Diffuse uptake in thyroid gland, differential includes thyroiditis or nodular disease.",
+        "Physiologic brown fat uptake in supraclavicular region.",
+        "No abnormal activity in lungs or mediastinum.",
+        "Diffuse mild increased uptake in liver, likely benign.",
+        "Physiologic uptake observed in brain, myocardium, and urinary tract."
+    ],
+    "impression": "Thyroid nodule uptake",
+    "recommendations": "Refer to oncology or specialist for further management."
+}

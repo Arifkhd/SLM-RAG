@@ -1,0 +1,13 @@
+{
+    "type": "HRCT Chest",
+    "location": "left lower lobe",
+    "clinical_history": "Patient with chest pain and shortness of breath.",
+    "findings": [
+        "Pulmonary embolism suspected; filling defect in segmental artery of left lower lobe.",
+        "Enlarged lymph nodes in left lower lobe, suggestive of lymphadenopathy.",
+        "Interstitial thickening and reticular pattern in left lower lobe.",
+        "Bronchiectatic changes in left lower lobe region."
+    ],
+    "impression": "Lymphadenopathy",
+    "recommendations": "Consider CT or HRCT for detailed evaluation."
+}

@@ -1,0 +1,11 @@
+{
+    "type": "MRI Spine",
+    "location": "Lumbar region",
+    "clinical_history": "Patient complains of weakness in legs and difficulty walking.",
+    "findings": [
+        "No evidence of hemorrhage, infarction, or mass effect.",
+        "No abnormal signal intensity or lesions observed."
+    ],
+    "impression": "Normal MRI",
+    "recommendations": "Clinical correlation advised; follow-up MRI may be considered."
+}

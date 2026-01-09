@@ -1,0 +1,13 @@
+{
+    "type": "Cardiac PET-CT",
+    "location": "right lung upper lobe",
+    "clinical_history": "Patient with unexplained weight loss and fever.",
+    "findings": [
+        "Physiologic uptake observed in brain, myocardium, and urinary tract.",
+        "No evidence of new metastatic lesions compared to prior scan.",
+        "Diffuse uptake in thyroid gland, differential includes thyroiditis or nodular disease.",
+        "No abnormal FDG uptake in the remaining organs."
+    ],
+    "impression": "Soft tissue metastasis",
+    "recommendations": "Biopsy or follow-up imaging may be considered to confirm malignancy."
+}

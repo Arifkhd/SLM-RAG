@@ -1,0 +1,17 @@
+{
+    "type": "Scrotal Ultrasound",
+    "exam_region": "Upper limb arteries",
+    "clinical_history": "Soft tissue swelling after trauma.",
+    "technique": "Color Doppler and spectral analysis performed where necessary.",
+    "findings": [
+        "Major vessels show unremarkable waveform on Doppler.",
+        "Thyroid gland shows ill-defined echotexture; no suspicious nodules.",
+        "Liver appears isoechoic with no focal lesions.",
+        "Left kidney shows coarse, corticomedullary differentiation preserved.",
+        "Uterus appears unremarkable; endometrial thickness measures 19.56 mm.",
+        "Urinary bladder is unremarkable, no intraluminal lesions.",
+        "Placenta is mildly heterogeneous and normally located."
+    ],
+    "impression": "Features may represent infection/inflammation.",
+    "recommendations": "FNAC/biopsy recommended if clinically indicated."
+}

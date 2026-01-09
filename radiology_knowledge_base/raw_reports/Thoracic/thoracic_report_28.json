@@ -1,0 +1,13 @@
+{
+    "type": "HRCT Chest",
+    "location": "left lower lobe",
+    "clinical_history": "Patient with trauma to thorax.",
+    "findings": [
+        "Fibrotic changes with honeycombing in left lower lobe.",
+        "Pulmonary embolism suspected; filling defect in segmental artery of left lower lobe.",
+        "Small pneumothorax on the left lower lobe side.",
+        "Interstitial thickening and reticular pattern in left lower lobe."
+    ],
+    "impression": "Atelectasis",
+    "recommendations": "Immediate intervention may be required depending on severity."
+}

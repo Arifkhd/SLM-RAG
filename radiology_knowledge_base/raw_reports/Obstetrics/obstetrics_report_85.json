@@ -1,0 +1,11 @@
+{
+    "type": "Doppler Ultrasound",
+    "location": "cervical region",
+    "clinical_history": "Patient reports abdominal pain and spotting.",
+    "findings": [
+        "Placental perfusion compromised.",
+        "Increased resistance noted."
+    ],
+    "impression": "Umbilical artery flow abnormality",
+    "recommendations": "Follow-up ultrasound recommended in 2 weeks."
+}

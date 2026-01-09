@@ -1,0 +1,15 @@
+{
+    "type": "PET-CT Thoracic",
+    "location": "perihilar region",
+    "clinical_history": "Routine preoperative chest evaluation.",
+    "findings": [
+        "Well-defined nodule measuring 12 mm in perihilar region.",
+        "Pleural effusion on the perihilar region side, moderate in size.",
+        "Focal consolidation in perihilar region with air bronchogram.",
+        "Emphysematous changes with hyperlucency in perihilar region.",
+        "Small pneumothorax on the perihilar region side.",
+        "Enlarged lymph nodes in perihilar region, suggestive of lymphadenopathy."
+    ],
+    "impression": "Pneumothorax",
+    "recommendations": "Immediate intervention may be required depending on severity."
+}

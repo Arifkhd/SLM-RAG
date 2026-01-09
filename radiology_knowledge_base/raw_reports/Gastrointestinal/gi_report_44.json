@@ -1,0 +1,12 @@
+{
+    "type": "Abdominal MRI",
+    "location": "Tail",
+    "clinical_history": "Patient reports abdominal discomfort and weight loss.",
+    "findings": [
+        "Mucosal enhancement noted after contrast.",
+        "No obstruction detected.",
+        "No abscess or fistula identified."
+    ],
+    "impression": "Inflammatory bowel disease",
+    "recommendations": "Repeat study may be indicated depending on clinical course."
+}

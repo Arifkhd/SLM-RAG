@@ -1,0 +1,10 @@
+{
+    "type": "CT Pelvis",
+    "location": "Bilateral",
+    "clinical_history": "Patient complains of pelvic pain and difficulty urinating.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Ovarian cyst",
+    "recommendations": "Recommend consultation with the referring physician for further management."
+}

@@ -1,0 +1,11 @@
+{
+    "type": "Colonoscopy",
+    "location": "Peripheral region",
+    "clinical_history": "Patient has chronic diarrhea and rectal bleeding.",
+    "findings": [
+        "Polypoid lesion noted in the Peripheral region colon segment.",
+        "Other colon segments unremarkable."
+    ],
+    "impression": "Colonic polyps",
+    "recommendations": "Refer to gastroenterologist for further management."
+}

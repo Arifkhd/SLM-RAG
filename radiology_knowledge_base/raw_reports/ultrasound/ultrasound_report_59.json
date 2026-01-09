@@ -1,0 +1,15 @@
+{
+    "type": "Obstetric Ultrasound",
+    "exam_region": "Upper abdomen",
+    "clinical_history": "Pelvic pain with suspected ovarian pathology.",
+    "technique": "Standard abdominal ultrasound protocol followed.",
+    "findings": [
+        "No evidence of DVT; veins compressible with normal flow.",
+        "Left ovary demonstrates hypoechoic morphology.",
+        "Prostate is enlarged; volume approximately 24.77 cc.",
+        "Testes are unremarkable with normal vascularity.",
+        "Uterus appears isoechoic; endometrial thickness measures 33.39 mm."
+    ],
+    "impression": "Likely physiological appearance.",
+    "recommendations": "Correlate clinically."
+}

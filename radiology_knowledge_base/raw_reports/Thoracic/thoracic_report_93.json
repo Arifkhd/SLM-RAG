@@ -1,0 +1,14 @@
+{
+    "type": "Chest X-ray",
+    "location": "right lower lobe",
+    "clinical_history": "Routine preoperative chest evaluation.",
+    "findings": [
+        "Interstitial thickening and reticular pattern in right lower lobe.",
+        "Collapse of right lower lobe lobe with volume loss.",
+        "Bronchiectatic changes in right lower lobe region.",
+        "Emphysematous changes with hyperlucency in right lower lobe.",
+        "Pulmonary edema with perihilar haze in right lower lobe."
+    ],
+    "impression": "Atelectasis",
+    "recommendations": "Clinical correlation advised; refer to pulmonologist."
+}

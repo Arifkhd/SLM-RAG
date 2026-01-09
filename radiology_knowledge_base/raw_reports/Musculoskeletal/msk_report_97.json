@@ -1,0 +1,12 @@
+{
+    "type": "X-ray",
+    "location": "humerus",
+    "clinical_history": "Patient reports swelling and tenderness.",
+    "findings": [
+        "Linear fracture noted in the humerus.",
+        "No displacement or angulation observed.",
+        "Surrounding bones unremarkable."
+    ],
+    "impression": "Fracture",
+    "recommendations": "Further evaluation or biopsy may be considered if indicated."
+}

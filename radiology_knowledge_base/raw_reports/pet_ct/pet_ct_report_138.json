@@ -1,0 +1,15 @@
+{
+    "type": "PET-CT for oncology",
+    "location": "femur",
+    "clinical_history": "Patient with suspected cardiac sarcoidosis.",
+    "findings": [
+        "No evidence of new metastatic lesions compared to prior scan.",
+        "Mild inflammatory uptake in femur region.",
+        "Diffuse mild increased uptake in liver, likely benign.",
+        "Focal uptake in femur consistent with post-surgical changes.",
+        "Diffuse uptake in thyroid gland, differential includes thyroiditis or nodular disease.",
+        "Multiple hypermetabolic lesions in bones, suggestive of metastases."
+    ],
+    "impression": "Physiologic uptake",
+    "recommendations": "Repeat PET-CT in 3\u20136 months to monitor treatment response."
+}

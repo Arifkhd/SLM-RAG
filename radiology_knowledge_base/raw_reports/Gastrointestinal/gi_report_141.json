@@ -1,0 +1,13 @@
+{
+    "type": "Colonoscopy",
+    "location": "Central region",
+    "clinical_history": "Patient has chronic diarrhea and rectal bleeding.",
+    "findings": [
+        "Colonic wall thickness normal.",
+        "No signs of obstruction.",
+        "Mesenteric fat unremarkable.",
+        "Multiple diverticula in the Central region colon segment."
+    ],
+    "impression": "Diverticulosis",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be considered."
+}

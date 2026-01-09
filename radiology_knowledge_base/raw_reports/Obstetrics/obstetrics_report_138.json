@@ -1,0 +1,14 @@
+{
+    "type": "Ultrasound",
+    "location": "anterior placenta",
+    "clinical_history": "Patient presents for routine prenatal check-up.",
+    "findings": [
+        "Amniotic fluid volume normal.",
+        "No signs of cord prolapse.",
+        "Head not engaged in pelvis.",
+        "Fetus in breech/ transverse/ oblique lie.",
+        "Placental location normal."
+    ],
+    "impression": "Fetal malposition",
+    "recommendations": "Immediate intervention may be required depending on clinical evolution."
+}

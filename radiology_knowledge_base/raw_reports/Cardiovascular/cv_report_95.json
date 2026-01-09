@@ -1,0 +1,12 @@
+{
+    "type": "Echocardiogram",
+    "location": "Posterior wall",
+    "clinical_history": "History of hypertension and chest discomfort.",
+    "findings": [
+        "Left atrium mildly dilated.",
+        "Global dilation of the left ventricle with reduced ejection fraction.",
+        "No thrombus detected in ventricular cavity."
+    ],
+    "impression": "Dilated cardiomyopathy",
+    "recommendations": "Findings should be integrated with clinical assessment and lab results."
+}

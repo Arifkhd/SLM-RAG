@@ -1,0 +1,12 @@
+{
+    "type": "Cardiac CT",
+    "location": "Right ventricle",
+    "clinical_history": "Patient reports dyspnea and atypical chest discomfort.",
+    "findings": [
+        "No calcifications or plaques observed.",
+        "Pericardium normal, no effusion.",
+        "Great vessels normal in caliber."
+    ],
+    "impression": "Normal cardiac CT",
+    "recommendations": "Repeat study may be considered based on symptoms."
+}

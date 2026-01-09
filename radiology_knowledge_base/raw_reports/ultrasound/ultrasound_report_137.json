@@ -1,0 +1,15 @@
+{
+    "type": "Pelvic Ultrasound",
+    "exam_region": "Thyroid gland",
+    "clinical_history": "Assessment for renal calculus or hydronephrosis.",
+    "technique": "Standard abdominal ultrasound protocol followed.",
+    "findings": [
+        "Liver appears mildly thickened with no focal lesions.",
+        "Left ovary demonstrates smooth-walled morphology.",
+        "Prostate is homogeneous; volume approximately 28.76 cc.",
+        "Right kidney demonstrates homogeneous, no hydronephrosis.",
+        "Right ovary shows isoechoic appearance."
+    ],
+    "impression": "Findings suggest mild inflammatory changes.",
+    "recommendations": "Correlate clinically."
+}

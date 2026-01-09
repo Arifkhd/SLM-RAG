@@ -1,0 +1,13 @@
+{
+    "type": "Ultrasound",
+    "location": "right adnexa",
+    "clinical_history": "Patient has reduced fetal movements.",
+    "findings": [
+        "Abdominal wall defect detected.",
+        "Cystic hygroma observed in the neck region.",
+        "Other organs appear normal on imaging.",
+        "Ventriculomegaly noted in the fetal brain."
+    ],
+    "impression": "Fetal congenital anomaly",
+    "recommendations": "Refer to obstetrician for clinical correlation and management."
+}

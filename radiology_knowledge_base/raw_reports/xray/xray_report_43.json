@@ -1,0 +1,15 @@
+{
+    "type": "Chest X-Ray",
+    "location": "Left lower lobe",
+    "clinical_history": "Patient with post-operative history and decreased breath sounds.",
+    "findings": [
+        "Adjacent lung shows compensatory hyperinflation.",
+        "Bony thorax normal.",
+        "Trachea and mediastinum shifted towards the affected side.",
+        "Heart and other mediastinal structures appear normal.",
+        "No pleural effusion.",
+        "Collapse of the affected lobe with volume loss noted."
+    ],
+    "impression": "Atelectasis",
+    "recommendations": "Clinical correlation advised. Follow-up imaging may be recommended based on the clinical scenario."
+}

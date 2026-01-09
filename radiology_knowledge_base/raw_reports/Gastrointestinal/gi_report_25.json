@@ -1,0 +1,12 @@
+{
+    "type": "Abdominal MRI",
+    "location": "Body",
+    "clinical_history": "Patient under evaluation for abdominal mass.",
+    "findings": [
+        "No solid component or calcification noted.",
+        "Other abdominal organs unremarkable.",
+        "Adjacent renal parenchyma normal."
+    ],
+    "impression": "Renal cyst",
+    "recommendations": "Refer to gastroenterologist for further management."
+}

@@ -1,0 +1,11 @@
+{
+    "type": "MRI",
+    "location": "anterior placenta",
+    "clinical_history": "Patient with high-risk pregnancy, under monitoring.",
+    "findings": [
+        "Placenta shows abnormal thickness in anterior placenta.",
+        "Umbilical cord insertion normal."
+    ],
+    "impression": "Placental abnormality",
+    "recommendations": "Immediate intervention may be required depending on clinical evolution."
+}

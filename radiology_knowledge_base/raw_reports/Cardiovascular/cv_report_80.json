@@ -1,0 +1,12 @@
+{
+    "type": "Echocardiogram",
+    "location": "Left ventricle",
+    "clinical_history": "History of hypertension and chest discomfort.",
+    "findings": [
+        "Mitral regurgitation noted due to annular dilation.",
+        "No thrombus detected in ventricular cavity.",
+        "Pericardium normal, no effusion."
+    ],
+    "impression": "Dilated cardiomyopathy",
+    "recommendations": "Repeat study may be considered based on symptoms."
+}

@@ -1,0 +1,15 @@
+{
+    "type": "PET-CT Thoracic",
+    "location": "apex",
+    "clinical_history": "Patient with suspected pulmonary embolism.",
+    "findings": [
+        "Bronchiectatic changes in apex region.",
+        "Fibrotic changes with honeycombing in apex.",
+        "Focal consolidation in apex with air bronchogram.",
+        "Mediastinal widening observed with soft tissue density.",
+        "Collapse of apex lobe with volume loss.",
+        "Thoracic aortic aneurysm measuring 10 mm in diameter."
+    ],
+    "impression": "Pneumothorax",
+    "recommendations": "Consider CT or HRCT for detailed evaluation."
+}

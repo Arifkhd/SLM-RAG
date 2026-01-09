@@ -1,0 +1,15 @@
+{
+    "type": "HRCT Chest",
+    "location": "right upper lobe",
+    "clinical_history": "Patient with unexplained weight loss and fatigue.",
+    "findings": [
+        "Enlarged lymph nodes in right upper lobe, suggestive of lymphadenopathy.",
+        "Thoracic aortic aneurysm measuring 40 mm in diameter.",
+        "Pulmonary edema with perihilar haze in right upper lobe.",
+        "Bronchiectatic changes in right upper lobe region.",
+        "Mediastinal widening observed with soft tissue density.",
+        "Patchy ground-glass opacities noted in right upper lobe."
+    ],
+    "impression": "Emphysema",
+    "recommendations": "Follow-up imaging recommended in 4\u20136 weeks."
+}

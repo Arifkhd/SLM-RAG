@@ -1,0 +1,13 @@
+{
+    "type": "MRI",
+    "location": "uterine body",
+    "clinical_history": "Patient has reduced fetal movements.",
+    "findings": [
+        "No ventriculomegaly detected.",
+        "Fetal brain and spine appear normal.",
+        "No abnormal signal in parenchyma.",
+        "Fetal body organs normal in appearance."
+    ],
+    "impression": "Normal fetal MRI",
+    "recommendations": "Monitor amniotic fluid and fetal growth closely."
+}

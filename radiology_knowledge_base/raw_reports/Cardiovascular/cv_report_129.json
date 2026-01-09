@@ -1,0 +1,13 @@
+{
+    "type": "Cardiac MRI",
+    "location": "Posterior wall",
+    "clinical_history": "Patient with suspected cardiomyopathy.",
+    "findings": [
+        "Mild regional wall motion abnormality present.",
+        "Left ventricular size slightly increased.",
+        "No pericardial effusion.",
+        "Late gadolinium enhancement noted in the Posterior wall myocardium indicating infarction."
+    ],
+    "impression": "Myocardial infarction",
+    "recommendations": "Findings should be integrated with clinical assessment and lab results."
+}

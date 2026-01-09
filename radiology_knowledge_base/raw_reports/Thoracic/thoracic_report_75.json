@@ -1,0 +1,15 @@
+{
+    "type": "Chest X-ray",
+    "location": "left lower lobe",
+    "clinical_history": "Patient with chest pain and shortness of breath.",
+    "findings": [
+        "Small pneumothorax on the left lower lobe side.",
+        "Thoracic aortic aneurysm measuring 9 mm in diameter.",
+        "Enlarged lymph nodes in left lower lobe, suggestive of lymphadenopathy.",
+        "Focal consolidation in left lower lobe with air bronchogram.",
+        "Interstitial thickening and reticular pattern in left lower lobe.",
+        "Pleural effusion on the left lower lobe side, moderate in size."
+    ],
+    "impression": "Pulmonary edema",
+    "recommendations": "Monitor progression with serial imaging."
+}

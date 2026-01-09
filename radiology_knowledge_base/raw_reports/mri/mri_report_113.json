@@ -1,0 +1,10 @@
+{
+    "type": "MRI Shoulder",
+    "location": "Left side",
+    "clinical_history": "Complaints of clicking sound during movement.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Shoulder impingement",
+    "recommendations": "Additional imaging or lab tests may be indicated based on patient symptoms."
+}

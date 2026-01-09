@@ -1,0 +1,14 @@
+{
+    "type": "CT Chest",
+    "location": "right upper lobe",
+    "clinical_history": "Follow-up imaging for known pulmonary nodule.",
+    "findings": [
+        "Enlarged lymph nodes in right upper lobe, suggestive of lymphadenopathy.",
+        "Fibrotic changes with honeycombing in right upper lobe.",
+        "Focal consolidation in right upper lobe with air bronchogram.",
+        "Thoracic aortic aneurysm measuring 29 mm in diameter.",
+        "Emphysematous changes with hyperlucency in right upper lobe."
+    ],
+    "impression": "Pulmonary nodule",
+    "recommendations": "Further evaluation with PET-CT recommended if malignancy suspected."
+}

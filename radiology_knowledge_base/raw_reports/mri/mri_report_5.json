@@ -1,0 +1,12 @@
+{
+    "type": "MRI Shoulder",
+    "location": "Left side",
+    "clinical_history": "History of trauma to the shoulder joint.",
+    "findings": [
+        "All anatomical structures appear normal in size, shape, and signal characteristics.",
+        "No evidence of hemorrhage, infarction, or mass effect.",
+        "No abnormal signal intensity or lesions observed."
+    ],
+    "impression": "Normal MRI",
+    "recommendations": "Additional imaging or lab tests may be indicated based on patient symptoms."
+}

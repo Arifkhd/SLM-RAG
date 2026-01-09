@@ -1,0 +1,15 @@
+{
+    "type": "CT Chest",
+    "location": "perihilar region",
+    "clinical_history": "Routine preoperative chest evaluation.",
+    "findings": [
+        "Pulmonary embolism suspected; filling defect in segmental artery of perihilar region.",
+        "Well-defined nodule measuring 49 mm in perihilar region.",
+        "Enlarged lymph nodes in perihilar region, suggestive of lymphadenopathy.",
+        "Thoracic aortic aneurysm measuring 5 mm in diameter.",
+        "Pleural effusion on the perihilar region side, moderate in size.",
+        "Bronchiectatic changes in perihilar region region."
+    ],
+    "impression": "Pneumothorax",
+    "recommendations": "Immediate intervention may be required depending on severity."
+}

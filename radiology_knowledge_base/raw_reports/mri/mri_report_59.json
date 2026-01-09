@@ -1,0 +1,13 @@
+{
+    "type": "MRI Spine",
+    "location": "Cervical region",
+    "clinical_history": "Patient reports back pain radiating to the lower limbs.",
+    "findings": [
+        "Disc protrusion at Cervical region causing mild compression of the thecal sac.",
+        "No spinal canal stenosis observed.",
+        "Ligaments intact.",
+        "Adjacent vertebral bodies normal in height and signal."
+    ],
+    "impression": "Herniated disc",
+    "recommendations": "Recommend monitoring and follow-up based on clinical scenario."
+}

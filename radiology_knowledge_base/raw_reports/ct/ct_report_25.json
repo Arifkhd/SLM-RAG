@@ -1,0 +1,10 @@
+{
+    "type": "CT Neck",
+    "location": "Right side",
+    "clinical_history": "History of recent infection and difficulty swallowing.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Thyroid nodule",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be considered."
+}

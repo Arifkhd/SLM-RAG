@@ -1,0 +1,14 @@
+{
+    "type": "Whole-body PET-CT",
+    "location": "left lung lower lobe",
+    "clinical_history": "Patient with suspected cardiac sarcoidosis.",
+    "findings": [
+        "Diffuse uptake in thyroid gland, differential includes thyroiditis or nodular disease.",
+        "No abnormal activity in lungs or mediastinum.",
+        "Physiologic uptake observed in brain, myocardium, and urinary tract.",
+        "Mild inflammatory uptake in left lung lower lobe region.",
+        "Diffuse mild increased uptake in liver, likely benign."
+    ],
+    "impression": "Brain hypometabolism",
+    "recommendations": "Clinical correlation recommended with prior imaging."
+}

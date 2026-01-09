@@ -1,0 +1,11 @@
+{
+    "type": "Chest X-Ray",
+    "location": "Bilateral lungs",
+    "findings": [
+        "No pleural effusion detected.",
+        "Air bronchograms present.",
+        "Heart size normal.",
+        "Consolidation observed."
+    ],
+    "impression": "Pneumonia"
+}

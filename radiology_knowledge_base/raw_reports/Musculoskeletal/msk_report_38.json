@@ -1,0 +1,12 @@
+{
+    "type": "X-ray",
+    "location": "left knee",
+    "clinical_history": "History of trauma to the left knee.",
+    "findings": [
+        "Soft tissue swelling minimal.",
+        "No fractures detected.",
+        "Subchondral sclerosis observed."
+    ],
+    "impression": "Osteoarthritis",
+    "recommendations": "Refer to orthopedic specialist for management."
+}

@@ -1,0 +1,10 @@
+{
+    "type": "MRI",
+    "location": "uterine body",
+    "clinical_history": "Patient presents for routine prenatal check-up.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Amniotic fluid abnormality",
+    "recommendations": "MRI may be advised for detailed evaluation if necessary."
+}

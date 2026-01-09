@@ -1,0 +1,12 @@
+{
+    "type": "MRI Brain",
+    "location": "cerebellum",
+    "clinical_history": "History of sudden neurological deficits.",
+    "findings": [
+        "No mass effect or midline shift.",
+        "No hemorrhagic transformation detected.",
+        "Corresponding ADC reduction noted."
+    ],
+    "impression": "Ischemic stroke",
+    "recommendations": "Immediate intervention may be required depending on findings."
+}

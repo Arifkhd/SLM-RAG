@@ -1,0 +1,14 @@
+{
+    "type": "Chest X-ray",
+    "location": "left upper lobe",
+    "clinical_history": "Patient with trauma to thorax.",
+    "findings": [
+        "Enlarged lymph nodes in left upper lobe, suggestive of lymphadenopathy.",
+        "Thoracic aortic aneurysm measuring 33 mm in diameter.",
+        "Pleural effusion on the left upper lobe side, moderate in size.",
+        "Patchy ground-glass opacities noted in left upper lobe.",
+        "Fibrotic changes with honeycombing in left upper lobe."
+    ],
+    "impression": "Pneumonia",
+    "recommendations": "Monitor progression with serial imaging."
+}

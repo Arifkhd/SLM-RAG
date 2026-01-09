@@ -1,0 +1,12 @@
+{
+    "type": "Ultrasound",
+    "location": "left adnexa",
+    "clinical_history": "Patient presents for routine prenatal check-up.",
+    "findings": [
+        "Two fetuses identified, each with separate amniotic sacs.",
+        "Placenta location noted; no cord entanglement observed.",
+        "No gross structural abnormalities detected."
+    ],
+    "impression": "Multiple gestation",
+    "recommendations": "Monitor amniotic fluid and fetal growth closely."
+}

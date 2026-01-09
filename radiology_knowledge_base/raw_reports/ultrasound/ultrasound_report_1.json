@@ -1,0 +1,17 @@
+{
+    "type": "Musculoskeletal Ultrasound",
+    "exam_region": "Pelvis",
+    "clinical_history": "Follow-up ultrasound for known liver lesion.",
+    "technique": "Color Doppler and spectral analysis performed where necessary.",
+    "findings": [
+        "Right ovary shows mildly thickened appearance.",
+        "Gallbladder shows hypoechoic, no stones or wall thickening.",
+        "Testes are mildly thickened with normal vascularity.",
+        "Common bile duct measures 18.04 mm, within normal limits.",
+        "Placenta is coarse and normally located.",
+        "Epididymis demonstrates normal features.",
+        "Thyroid gland shows well-defined echotexture; no suspicious nodules."
+    ],
+    "impression": "Suspicious lesion\u2014further evaluation recommended.",
+    "recommendations": "Consider follow-up ultrasound in 6\u20138 weeks."
+}

@@ -1,0 +1,13 @@
+{
+    "type": "PET-CT Thoracic",
+    "location": "pleural space",
+    "clinical_history": "Patient with suspected pulmonary embolism.",
+    "findings": [
+        "Bronchiectatic changes in pleural space region.",
+        "Interstitial thickening and reticular pattern in pleural space.",
+        "Well-defined nodule measuring 17 mm in pleural space.",
+        "Fibrotic changes with honeycombing in pleural space."
+    ],
+    "impression": "Pleural effusion",
+    "recommendations": "Consider CT or HRCT for detailed evaluation."
+}

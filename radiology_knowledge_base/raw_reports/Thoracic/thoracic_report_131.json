@@ -1,0 +1,15 @@
+{
+    "type": "CT Chest",
+    "location": "perihilar region",
+    "clinical_history": "Patient presents with cough and fever.",
+    "findings": [
+        "Patchy ground-glass opacities noted in perihilar region.",
+        "Pulmonary edema with perihilar haze in perihilar region.",
+        "Collapse of perihilar region lobe with volume loss.",
+        "Pleural effusion on the perihilar region side, moderate in size.",
+        "Bronchiectatic changes in perihilar region region.",
+        "Emphysematous changes with hyperlucency in perihilar region."
+    ],
+    "impression": "Thoracic aortic aneurysm",
+    "recommendations": "Clinical correlation advised; refer to pulmonologist."
+}

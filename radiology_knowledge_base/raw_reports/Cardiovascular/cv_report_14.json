@@ -1,0 +1,14 @@
+{
+    "type": "Cardiac CT",
+    "location": "Posterior wall",
+    "clinical_history": "History of previous myocardial infarction and risk factors.",
+    "findings": [
+        "Coronary arteries patent with no significant stenosis.",
+        "Cardiac chambers normal in size and morphology.",
+        "Pericardium normal, no effusion.",
+        "Great vessels normal in caliber.",
+        "No calcifications or plaques observed."
+    ],
+    "impression": "Normal cardiac CT",
+    "recommendations": "Repeat study may be considered based on symptoms."
+}

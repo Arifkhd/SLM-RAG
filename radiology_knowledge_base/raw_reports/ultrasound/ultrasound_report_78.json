@@ -1,0 +1,17 @@
+{
+    "type": "Musculoskeletal Ultrasound",
+    "exam_region": "Testes and epididymis",
+    "clinical_history": "Thyroid swelling and suspected nodular disease.",
+    "technique": "Standard abdominal ultrasound protocol followed.",
+    "findings": [
+        "Thyroid gland shows homogeneous echotexture; no suspicious nodules.",
+        "Prostate is hyperechoic; volume approximately 28.21 cc.",
+        "Breast tissue shows coarse lesion measuring 5.95 mm.",
+        "Urinary bladder is mildly thickened, no intraluminal lesions.",
+        "Fetal cardiac activity present with FHR 30.16 bpm.",
+        "Major vessels show well-defined waveform on Doppler.",
+        "Amniotic fluid index measures 15.89."
+    ],
+    "impression": "Suspicious lesion\u2014further evaluation recommended.",
+    "recommendations": "Refer to specialist for further evaluation."
+}

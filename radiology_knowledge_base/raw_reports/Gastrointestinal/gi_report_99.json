@@ -1,0 +1,13 @@
+{
+    "type": "Abdominal MRI",
+    "location": "Body",
+    "clinical_history": "History of chronic liver disease.",
+    "findings": [
+        "Signs of portal hypertension present.",
+        "Splenomegaly noted.",
+        "Liver shows nodular contour and heterogeneous signal.",
+        "Ascites minimal or absent."
+    ],
+    "impression": "Hepatic cirrhosis",
+    "recommendations": "Refer to gastroenterologist for further management."
+}

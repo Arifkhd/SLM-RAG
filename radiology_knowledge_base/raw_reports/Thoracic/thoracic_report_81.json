@@ -1,0 +1,15 @@
+{
+    "type": "CT Chest",
+    "location": "right lower lobe",
+    "clinical_history": "Follow-up imaging for known pulmonary nodule.",
+    "findings": [
+        "Fibrotic changes with honeycombing in right lower lobe.",
+        "Interstitial thickening and reticular pattern in right lower lobe.",
+        "Well-defined nodule measuring 38 mm in right lower lobe.",
+        "Pulmonary embolism suspected; filling defect in segmental artery of right lower lobe.",
+        "Small pneumothorax on the right lower lobe side.",
+        "Focal consolidation in right lower lobe with air bronchogram."
+    ],
+    "impression": "Pleural effusion",
+    "recommendations": "Clinical correlation advised; refer to pulmonologist."
+}

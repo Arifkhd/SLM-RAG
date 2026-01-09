@@ -1,0 +1,12 @@
+{
+    "type": "Colonoscopy",
+    "location": "Right lobe",
+    "clinical_history": "Patient has chronic diarrhea and rectal bleeding.",
+    "findings": [
+        "No diverticulitis or perforation observed.",
+        "Multiple diverticula in the Right lobe colon segment.",
+        "Mesenteric fat unremarkable."
+    ],
+    "impression": "Diverticulosis",
+    "recommendations": "Repeat study may be indicated depending on clinical course."
+}

@@ -1,0 +1,12 @@
+{
+    "type": "EEG",
+    "location": "cerebellum",
+    "clinical_history": "Patient with recurrent seizures.",
+    "findings": [
+        "No artifacts noted.",
+        "Background activity otherwise normal.",
+        "Theta and delta waves present in the cerebellum region."
+    ],
+    "impression": "Focal slowing",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be necessary."
+}

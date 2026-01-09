@@ -1,0 +1,12 @@
+{
+    "type": "MR Angiography",
+    "location": "brainstem",
+    "clinical_history": "Patient reports transient ischemic attacks.",
+    "findings": [
+        "No hemorrhage detected.",
+        "Adjacent parenchyma normal.",
+        "Early venous drainage observed."
+    ],
+    "impression": "Arteriovenous malformation",
+    "recommendations": "Repeat study may be indicated depending on clinical evolution."
+}

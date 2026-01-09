@@ -1,0 +1,11 @@
+{
+    "type": "Endoscopy",
+    "location": "Body",
+    "clinical_history": "Patient reports dysphagia and epigastric discomfort.",
+    "findings": [
+        "Mucosa otherwise normal.",
+        "No surrounding inflammation detected."
+    ],
+    "impression": "Polyps",
+    "recommendations": "Refer to gastroenterologist for further management."
+}

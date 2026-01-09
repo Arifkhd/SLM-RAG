@@ -1,0 +1,14 @@
+{
+    "type": "Abdominal CT",
+    "location": "Head",
+    "clinical_history": "Patient presents with abdominal pain and vomiting.",
+    "findings": [
+        "No signs of obstruction beyond the stone.",
+        "No perinephric collection observed.",
+        "Mild hydronephrosis proximal to the stone.",
+        "High-density calculus noted in the renal pelvis or ureter.",
+        "Other abdominal organs appear normal."
+    ],
+    "impression": "Kidney stone",
+    "recommendations": "Refer to gastroenterologist for further management."
+}

@@ -1,0 +1,18 @@
+{
+    "type": "Prostate Ultrasound",
+    "exam_region": "Knee joint",
+    "clinical_history": "Follow-up ultrasound for known liver lesion.",
+    "technique": "Real-time gray-scale and color Doppler imaging performed.",
+    "findings": [
+        "Fetal cardiac activity present with FHR 5.44 bpm.",
+        "Gallbladder shows homogeneous, no stones or wall thickening.",
+        "Uterus appears hyperechoic; endometrial thickness measures 21.04 mm.",
+        "Right kidney demonstrates homogeneous, no hydronephrosis.",
+        "Epididymis demonstrates homogeneous features.",
+        "Left kidney shows normal, corticomedullary differentiation preserved.",
+        "No evidence of DVT; veins compressible with normal flow.",
+        "Placenta is homogeneous and normally located."
+    ],
+    "impression": "Evidence of obstructive changes.",
+    "recommendations": "FNAC/biopsy recommended if clinically indicated."
+}

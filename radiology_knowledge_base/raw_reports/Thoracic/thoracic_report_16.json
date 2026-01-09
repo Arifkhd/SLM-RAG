@@ -1,0 +1,14 @@
+{
+    "type": "CT Chest",
+    "location": "right upper lobe",
+    "clinical_history": "History of recurrent respiratory infections.",
+    "findings": [
+        "Emphysematous changes with hyperlucency in right upper lobe.",
+        "Patchy ground-glass opacities noted in right upper lobe.",
+        "Pleural effusion on the right upper lobe side, moderate in size.",
+        "Interstitial thickening and reticular pattern in right upper lobe.",
+        "Fibrotic changes with honeycombing in right upper lobe."
+    ],
+    "impression": "Pulmonary embolism",
+    "recommendations": "Follow-up imaging recommended in 4\u20136 weeks."
+}

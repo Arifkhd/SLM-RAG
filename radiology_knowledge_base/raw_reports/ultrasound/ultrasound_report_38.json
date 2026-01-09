@@ -1,0 +1,16 @@
+{
+    "type": "Doppler Vascular Ultrasound",
+    "exam_region": "Pelvis",
+    "clinical_history": "Scrotal pain and swelling.",
+    "technique": "Color Doppler and spectral analysis performed where necessary.",
+    "findings": [
+        "Major vessels show well-defined waveform on Doppler.",
+        "Epididymis demonstrates mildly thickened features.",
+        "Right ovary shows ill-defined appearance.",
+        "Uterus appears well-defined; endometrial thickness measures 19.01 mm.",
+        "Amniotic fluid index measures 3.52.",
+        "Breast tissue shows ill-defined lesion measuring 36.99 mm."
+    ],
+    "impression": "Appearance consistent with benign etiology.",
+    "recommendations": "Refer to specialist for further evaluation."
+}

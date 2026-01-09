@@ -1,0 +1,12 @@
+{
+    "type": "X-ray",
+    "location": "femur",
+    "clinical_history": "Patient presents with joint pain and limited range of motion.",
+    "findings": [
+        "No fracture noted.",
+        "Well-defined lytic lesion in the femur.",
+        "Adjacent bones appear normal."
+    ],
+    "impression": "Bone cyst",
+    "recommendations": "Refer to orthopedic specialist for management."
+}

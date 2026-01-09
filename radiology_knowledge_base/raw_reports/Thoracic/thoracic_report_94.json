@@ -1,0 +1,15 @@
+{
+    "type": "CT Chest",
+    "location": "apex",
+    "clinical_history": "Follow-up imaging for known pulmonary nodule.",
+    "findings": [
+        "Collapse of apex lobe with volume loss.",
+        "Fibrotic changes with honeycombing in apex.",
+        "Enlarged lymph nodes in apex, suggestive of lymphadenopathy.",
+        "Small pneumothorax on the apex side.",
+        "Bronchiectatic changes in apex region.",
+        "Pulmonary embolism suspected; filling defect in segmental artery of apex."
+    ],
+    "impression": "Pulmonary nodule",
+    "recommendations": "Further evaluation with PET-CT recommended if malignancy suspected."
+}

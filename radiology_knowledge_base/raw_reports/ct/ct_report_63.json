@@ -1,0 +1,10 @@
+{
+    "type": "CT Chest",
+    "location": "Left side",
+    "clinical_history": "Complaints of persistent cough and mild dyspnea.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Interstitial lung disease",
+    "recommendations": "Recommend consultation with the referring physician for further management."
+}

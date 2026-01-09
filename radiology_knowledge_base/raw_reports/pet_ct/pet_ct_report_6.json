@@ -1,0 +1,15 @@
+{
+    "type": "PET-CT for oncology",
+    "location": "mediastinal lymph nodes",
+    "clinical_history": "Patient with suspected cardiac sarcoidosis.",
+    "findings": [
+        "Physiologic uptake observed in brain, myocardium, and urinary tract.",
+        "No abnormal FDG uptake in the remaining organs.",
+        "Focal hypermetabolic activity noted in mediastinal lymph nodes with SUVmax 6.11.",
+        "Hypermetabolic lymph nodes noted in mediastinal lymph nodes, suggestive of malignancy.",
+        "Focal uptake in mediastinal lymph nodes consistent with post-surgical changes.",
+        "No abnormal activity in lungs or mediastinum."
+    ],
+    "impression": "Splenic lesion uptake",
+    "recommendations": "Clinical correlation recommended with prior imaging."
+}

@@ -1,0 +1,10 @@
+{
+    "type": "CT",
+    "location": "elbow joint",
+    "clinical_history": "History of suspected fracture or tumor.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Calcification",
+    "recommendations": "Further evaluation or biopsy may be considered if indicated."
+}

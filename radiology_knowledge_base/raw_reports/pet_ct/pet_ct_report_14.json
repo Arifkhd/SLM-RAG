@@ -1,0 +1,14 @@
+{
+    "type": "Brain PET-CT",
+    "location": "brain frontal lobe",
+    "clinical_history": "Patient with persistent infection and fever of unknown origin.",
+    "findings": [
+        "No abnormal FDG uptake in the remaining organs.",
+        "Diffuse mild increased uptake in liver, likely benign.",
+        "Physiologic uptake observed in brain, myocardium, and urinary tract.",
+        "No abnormal activity in lungs or mediastinum.",
+        "Focal uptake in brain frontal lobe consistent with post-surgical changes."
+    ],
+    "impression": "Alzheimer's pattern",
+    "recommendations": "Correlate with MRI/CT for precise anatomical localization."
+}

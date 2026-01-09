@@ -1,0 +1,11 @@
+{
+    "type": "Ultrasound",
+    "location": "left shoulder",
+    "clinical_history": "Patient presents with localized pain and swelling.",
+    "findings": [
+        "Fluid accumulation noted in the left shoulder joint.",
+        "No fractures detected."
+    ],
+    "impression": "Joint effusion",
+    "recommendations": "Refer to orthopedic specialist for management."
+}

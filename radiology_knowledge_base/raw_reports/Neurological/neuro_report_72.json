@@ -1,0 +1,10 @@
+{
+    "type": "Ultrasound Brain",
+    "location": "occipital lobe",
+    "clinical_history": "History of prenatal complications.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Brain edema",
+    "recommendations": "Repeat study may be indicated depending on clinical evolution."
+}

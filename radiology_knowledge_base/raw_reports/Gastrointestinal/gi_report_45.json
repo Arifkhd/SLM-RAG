@@ -1,0 +1,13 @@
+{
+    "type": "Ultrasound Abdomen",
+    "location": "Body",
+    "clinical_history": "History of jaundice and altered liver function tests.",
+    "findings": [
+        "Other abdominal organs appear normal.",
+        "No signs of obstruction beyond the stone.",
+        "High-density calculus noted in the renal pelvis or ureter.",
+        "Mild hydronephrosis proximal to the stone."
+    ],
+    "impression": "Kidney stone",
+    "recommendations": "Further evaluation with lab tests or biopsy may be advised."
+}

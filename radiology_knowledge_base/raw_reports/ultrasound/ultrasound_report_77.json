@@ -1,0 +1,16 @@
+{
+    "type": "Pelvic Ultrasound",
+    "exam_region": "Lower limb veins",
+    "clinical_history": "Scrotal pain and swelling.",
+    "technique": "High-resolution linear and curvilinear probes used for detailed evaluation.",
+    "findings": [
+        "Thyroid gland shows smooth-walled echotexture; no suspicious nodules.",
+        "Liver appears enlarged with no focal lesions.",
+        "Right kidney demonstrates isoechoic, no hydronephrosis.",
+        "Breast tissue shows unremarkable lesion measuring 8.66 mm.",
+        "Left ovary demonstrates hypoechoic morphology.",
+        "Soft tissue region demonstrates isoechoic without fluid collection."
+    ],
+    "impression": "Appearance concerning for possible malignancy\u2014correlate clinically.",
+    "recommendations": "Consider follow-up ultrasound in 6\u20138 weeks."
+}

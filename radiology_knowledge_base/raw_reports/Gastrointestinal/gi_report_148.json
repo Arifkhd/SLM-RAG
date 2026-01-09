@@ -1,0 +1,10 @@
+{
+    "type": "Endoscopy",
+    "location": "Left lobe",
+    "clinical_history": "Patient complains of upper abdominal pain and heartburn.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Normal findings",
+    "recommendations": "Refer to gastroenterologist for further management."
+}

@@ -1,0 +1,12 @@
+{
+    "type": "Abdominal MRI",
+    "location": "Left lobe",
+    "clinical_history": "Patient reports abdominal discomfort and weight loss.",
+    "findings": [
+        "Well-circumscribed hyperintense lesion in the Left lobe lobe.",
+        "No additional hepatic lesions detected.",
+        "Vascular structures normal."
+    ],
+    "impression": "Liver hemangioma",
+    "recommendations": "Repeat study may be indicated depending on clinical course."
+}

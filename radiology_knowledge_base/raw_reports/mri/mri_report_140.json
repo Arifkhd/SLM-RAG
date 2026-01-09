@@ -1,0 +1,13 @@
+{
+    "type": "MRI Brain",
+    "location": "Lumbar region",
+    "clinical_history": "History of dizziness, visual disturbances, and weakness on one side.",
+    "findings": [
+        "No mass effect detected.",
+        "Adjacent parenchyma shows mild edema.",
+        "Ventricular system and sulci normal.",
+        "No hemorrhagic transformation observed."
+    ],
+    "impression": "Ischemic stroke",
+    "recommendations": "Findings should be discussed with the referring physician for further management."
+}

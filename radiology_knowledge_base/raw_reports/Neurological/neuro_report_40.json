@@ -1,0 +1,10 @@
+{
+    "type": "Ultrasound Brain",
+    "location": "ventricular system",
+    "clinical_history": "History of prenatal complications.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Normal ultrasound",
+    "recommendations": "Repeat study may be indicated depending on clinical evolution."
+}

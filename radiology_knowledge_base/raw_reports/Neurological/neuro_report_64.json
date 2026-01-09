@@ -1,0 +1,12 @@
+{
+    "type": "Ultrasound Brain",
+    "location": "brainstem",
+    "clinical_history": "Patient presents with delayed neurological milestones.",
+    "findings": [
+        "Cortical sulci appear compressed.",
+        "Cerebellum normal in size.",
+        "No hemorrhage observed."
+    ],
+    "impression": "Hydrocephalus",
+    "recommendations": "Repeat study may be indicated depending on clinical evolution."
+}

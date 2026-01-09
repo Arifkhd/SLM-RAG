@@ -1,0 +1,16 @@
+{
+    "type": "Hepatobiliary Ultrasound",
+    "exam_region": "Testes and epididymis",
+    "clinical_history": "Assessment for renal calculus or hydronephrosis.",
+    "technique": "Color Doppler and spectral analysis performed where necessary.",
+    "findings": [
+        "Uterus appears mildly thickened; endometrial thickness measures 31.16 mm.",
+        "Placenta is unremarkable and normally located.",
+        "Amniotic fluid index measures 21.51.",
+        "Right ovary shows hypoechoic appearance.",
+        "Urinary bladder is isoechoic, no intraluminal lesions.",
+        "Testes are isoechoic with normal vascularity."
+    ],
+    "impression": "No significant abnormality detected.",
+    "recommendations": "Refer to specialist for further evaluation."
+}

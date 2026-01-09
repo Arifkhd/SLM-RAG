@@ -1,0 +1,10 @@
+{
+    "type": "Endoscopy",
+    "location": "Central region",
+    "clinical_history": "Patient reports dysphagia and epigastric discomfort.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Normal findings",
+    "recommendations": "Refer to gastroenterologist for further management."
+}

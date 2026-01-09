@@ -1,0 +1,10 @@
+{
+    "type": "CT Brain",
+    "location": "Bilateral",
+    "clinical_history": "History of dizziness and weakness in one limb.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Hemorrhagic stroke",
+    "recommendations": "Recommend consultation with the referring physician for further management."
+}

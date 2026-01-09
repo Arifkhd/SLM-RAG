@@ -1,0 +1,13 @@
+{
+    "type": "Doppler Ultrasound",
+    "location": "fundal region",
+    "clinical_history": "Patient has reduced fetal movements.",
+    "findings": [
+        "Fetal heart rate normal.",
+        "No placental abruption.",
+        "Placental thickness reduced.",
+        "Amniotic fluid mildly decreased."
+    ],
+    "impression": "Placental insufficiency",
+    "recommendations": "Refer to obstetrician for clinical correlation and management."
+}

@@ -1,0 +1,12 @@
+{
+    "type": "Ultrasound",
+    "location": "tibia",
+    "clinical_history": "Patient complains of limited joint movement.",
+    "findings": [
+        "Fluid accumulation in the tibia bursa.",
+        "Bursa wall thickened.",
+        "Soft tissues normal."
+    ],
+    "impression": "Bursitis",
+    "recommendations": "Physical therapy may be advised depending on clinical findings."
+}

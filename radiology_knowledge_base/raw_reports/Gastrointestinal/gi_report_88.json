@@ -1,0 +1,11 @@
+{
+    "type": "Endoscopy",
+    "location": "Peripheral region",
+    "clinical_history": "Patient complains of upper abdominal pain and heartburn.",
+    "findings": [
+        "Lower esophageal sphincter normal.",
+        "No strictures observed."
+    ],
+    "impression": "Esophagitis",
+    "recommendations": "Further evaluation with lab tests or biopsy may be advised."
+}

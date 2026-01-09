@@ -1,0 +1,10 @@
+{
+    "type": "Echocardiogram",
+    "location": "Posterior wall",
+    "clinical_history": "History of hypertension and chest discomfort.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Pericardial effusion",
+    "recommendations": "Repeat study may be considered based on symptoms."
+}

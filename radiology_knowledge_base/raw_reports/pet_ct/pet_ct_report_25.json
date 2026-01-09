@@ -1,0 +1,13 @@
+{
+    "type": "PET-CT for oncology",
+    "location": "femur",
+    "clinical_history": "Follow-up PET-CT after chemotherapy to assess treatment response.",
+    "findings": [
+        "Hypermetabolic lymph nodes noted in femur, suggestive of malignancy.",
+        "Multiple hypermetabolic lesions in bones, suggestive of metastases.",
+        "Mild inflammatory uptake in femur region.",
+        "Physiologic brown fat uptake in supraclavicular region."
+    ],
+    "impression": "Hypermetabolic lymph nodes",
+    "recommendations": "Refer to oncology or specialist for further management."
+}

@@ -1,0 +1,15 @@
+{
+    "type": "PET-CT Thoracic",
+    "location": "right lower lobe",
+    "clinical_history": "History of recurrent respiratory infections.",
+    "findings": [
+        "Bronchiectatic changes in right lower lobe region.",
+        "Enlarged lymph nodes in right lower lobe, suggestive of lymphadenopathy.",
+        "Well-defined nodule measuring 21 mm in right lower lobe.",
+        "Patchy ground-glass opacities noted in right lower lobe.",
+        "Emphysematous changes with hyperlucency in right lower lobe.",
+        "Pulmonary edema with perihilar haze in right lower lobe."
+    ],
+    "impression": "Normal thoracic imaging",
+    "recommendations": "Monitor progression with serial imaging."
+}

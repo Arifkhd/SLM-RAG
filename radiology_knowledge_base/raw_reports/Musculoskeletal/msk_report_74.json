@@ -1,0 +1,13 @@
+{
+    "type": "X-ray",
+    "location": "humerus",
+    "clinical_history": "History of trauma to the humerus.",
+    "findings": [
+        "Adjacent joints normal.",
+        "No associated fracture identified.",
+        "humerus joint dislocated from its normal position.",
+        "No abnormal calcifications detected."
+    ],
+    "impression": "Dislocation",
+    "recommendations": "Physical therapy may be advised depending on clinical findings."
+}

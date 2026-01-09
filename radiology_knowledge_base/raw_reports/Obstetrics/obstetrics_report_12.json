@@ -1,0 +1,12 @@
+{
+    "type": "Ultrasound",
+    "location": "fundal region",
+    "clinical_history": "Patient referred for evaluation of suspected malpresentation.",
+    "findings": [
+        "Gestational sac visible within the uterus.",
+        "Amniotic fluid volume within normal limits.",
+        "Cardiac activity detected."
+    ],
+    "impression": "Normal pregnancy",
+    "recommendations": "MRI may be advised for detailed evaluation if necessary."
+}

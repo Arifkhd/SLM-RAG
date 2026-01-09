@@ -1,0 +1,12 @@
+{
+    "type": "Ultrasound",
+    "location": "left knee",
+    "clinical_history": "Patient complains of limited joint movement.",
+    "findings": [
+        "Partial tear or sprain of left knee ligament.",
+        "Mild surrounding edema.",
+        "No fractures noted."
+    ],
+    "impression": "Ligament sprain",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be needed."
+}

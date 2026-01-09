@@ -1,0 +1,13 @@
+{
+    "type": "CT Chest",
+    "location": "Right side",
+    "clinical_history": "Patient reports cough, fever, and shortness of breath for several days.",
+    "findings": [
+        "Air bronchograms visible within the affected region.",
+        "No pleural effusion identified.",
+        "Patchy consolidation seen in the Right side lung segment.",
+        "No cavitation or abscess formation observed."
+    ],
+    "impression": "Pneumonia",
+    "recommendations": "Follow-up imaging or additional diagnostic tests may be indicated."
+}

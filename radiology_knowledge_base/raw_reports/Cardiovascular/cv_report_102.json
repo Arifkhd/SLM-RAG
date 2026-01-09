@@ -1,0 +1,13 @@
+{
+    "type": "Echocardiogram",
+    "location": "Right ventricle",
+    "clinical_history": "Patient presents with shortness of breath and fatigue.",
+    "findings": [
+        "Pericardium normal, no effusion.",
+        "Mild left atrial enlargement may be present.",
+        "Left ventricular wall thickness increased, consistent with hypertrophy.",
+        "Systolic function preserved."
+    ],
+    "impression": "Left ventricular hypertrophy",
+    "recommendations": "Repeat study may be considered based on symptoms."
+}

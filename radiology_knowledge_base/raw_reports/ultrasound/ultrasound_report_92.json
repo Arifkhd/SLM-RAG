@@ -1,0 +1,15 @@
+{
+    "type": "Obstetric Ultrasound",
+    "exam_region": "Shoulder joint",
+    "clinical_history": "Routine obstetric ultrasound for fetal growth.",
+    "technique": "High-resolution linear and curvilinear probes used for detailed evaluation.",
+    "findings": [
+        "Right kidney demonstrates enlarged, no hydronephrosis.",
+        "Right ovary shows hyperechoic appearance.",
+        "No evidence of DVT; veins compressible with normal flow.",
+        "Gallbladder shows ill-defined, no stones or wall thickening.",
+        "Placenta is coarse and normally located."
+    ],
+    "impression": "Findings suggest mild inflammatory changes.",
+    "recommendations": "Routine follow-up advised."
+}

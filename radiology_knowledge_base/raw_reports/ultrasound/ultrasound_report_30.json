@@ -1,0 +1,18 @@
+{
+    "type": "Hepatobiliary Ultrasound",
+    "exam_region": "Kidneys",
+    "clinical_history": "Soft tissue swelling after trauma.",
+    "technique": "High-resolution linear and curvilinear probes used for detailed evaluation.",
+    "findings": [
+        "Breast tissue shows unremarkable lesion measuring 5.59 mm.",
+        "Testes are ill-defined with normal vascularity.",
+        "Common bile duct measures 8.25 mm, within normal limits.",
+        "Amniotic fluid index measures 27.21.",
+        "Major vessels show well-defined waveform on Doppler.",
+        "Liver appears ill-defined with no focal lesions.",
+        "Gallbladder shows coarse, no stones or wall thickening.",
+        "No evidence of DVT; veins compressible with normal flow."
+    ],
+    "impression": "Features may represent infection/inflammation.",
+    "recommendations": "Routine follow-up advised."
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Chest X-ray",
+    "location": "pleural space",
+    "clinical_history": "History of recurrent respiratory infections.",
+    "findings": [
+        "Patchy ground-glass opacities noted in pleural space.",
+        "Bronchiectatic changes in pleural space region.",
+        "Pleural effusion on the pleural space side, moderate in size.",
+        "Interstitial thickening and reticular pattern in pleural space."
+    ],
+    "impression": "Lymphadenopathy",
+    "recommendations": "Clinical correlation advised; refer to pulmonologist."
+}

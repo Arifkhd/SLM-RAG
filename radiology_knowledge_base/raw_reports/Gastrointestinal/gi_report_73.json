@@ -1,0 +1,12 @@
+{
+    "type": "Abdominal CT",
+    "location": "Head",
+    "clinical_history": "Patient reports nausea and bloating.",
+    "findings": [
+        "Mild hydronephrosis proximal to the stone.",
+        "High-density calculus noted in the renal pelvis or ureter.",
+        "No perinephric collection observed."
+    ],
+    "impression": "Kidney stone",
+    "recommendations": "Refer to gastroenterologist for further management."
+}

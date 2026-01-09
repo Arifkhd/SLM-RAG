@@ -1,0 +1,11 @@
+{
+    "type": "Chest X-Ray",
+    "location": "Right ribs",
+    "findings": [
+        "Heart size normal.",
+        "Lung fields otherwise clear.",
+        "No pneumothorax detected.",
+        "Fracture of ribs observed."
+    ],
+    "impression": "Rib fracture"
+}

@@ -1,0 +1,12 @@
+{
+    "type": "MRI",
+    "location": "tibia",
+    "clinical_history": "Patient complains of persistent joint pain.",
+    "findings": [
+        "Retraction of tendon ends noted.",
+        "Surrounding edema present.",
+        "Complete rupture of the tibia tendon."
+    ],
+    "impression": "Tendon rupture",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be needed."
+}

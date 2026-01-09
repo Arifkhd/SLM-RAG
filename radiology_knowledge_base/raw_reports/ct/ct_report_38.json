@@ -1,0 +1,12 @@
+{
+    "type": "CT Brain",
+    "location": "Central",
+    "clinical_history": "History of dizziness and weakness in one limb.",
+    "findings": [
+        "No abnormal lesions or masses noted. Structures appear normal.",
+        "No mass, consolidation, or abnormal fluid accumulation observed.",
+        "All organs demonstrate normal size, shape, and density."
+    ],
+    "impression": "Normal CT",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be considered."
+}

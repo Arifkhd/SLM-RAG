@@ -1,0 +1,13 @@
+{
+    "type": "PET-CT for oncology",
+    "location": "pelvis",
+    "clinical_history": "Follow-up PET-CT after chemotherapy to assess treatment response.",
+    "findings": [
+        "No evidence of new metastatic lesions compared to prior scan.",
+        "No abnormal FDG uptake in the remaining organs.",
+        "Focal uptake in pelvis consistent with post-surgical changes.",
+        "Diffuse uptake in thyroid gland, differential includes thyroiditis or nodular disease."
+    ],
+    "impression": "Alzheimer's pattern",
+    "recommendations": "Correlate with MRI/CT for precise anatomical localization."
+}

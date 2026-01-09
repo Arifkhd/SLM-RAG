@@ -1,0 +1,17 @@
+{
+    "type": "Doppler Vascular Ultrasound",
+    "exam_region": "Lower limb veins",
+    "clinical_history": "Patient presents with abdominal discomfort and bloating.",
+    "technique": "Longitudinal, transverse, and oblique views obtained.",
+    "findings": [
+        "Testes are normal with normal vascularity.",
+        "Major vessels show hyperechoic waveform on Doppler.",
+        "Uterus appears normal; endometrial thickness measures 21.27 mm.",
+        "No evidence of DVT; veins compressible with normal flow.",
+        "Breast tissue shows enlarged lesion measuring 16.5 mm.",
+        "Epididymis demonstrates well-defined features.",
+        "Common bile duct measures 18.47 mm, within normal limits."
+    ],
+    "impression": "Appearance consistent with benign etiology.",
+    "recommendations": "Consider follow-up ultrasound in 6\u20138 weeks."
+}

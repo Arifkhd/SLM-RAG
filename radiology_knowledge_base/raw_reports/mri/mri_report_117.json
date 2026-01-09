@@ -1,0 +1,10 @@
+{
+    "type": "MRI Shoulder",
+    "location": "Central",
+    "clinical_history": "History of trauma to the shoulder joint.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Shoulder impingement",
+    "recommendations": "Additional imaging or lab tests may be indicated based on patient symptoms."
+}

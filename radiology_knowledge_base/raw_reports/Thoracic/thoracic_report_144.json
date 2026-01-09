@@ -1,0 +1,15 @@
+{
+    "type": "HRCT Chest",
+    "location": "right middle lobe",
+    "clinical_history": "Patient with trauma to thorax.",
+    "findings": [
+        "Pulmonary edema with perihilar haze in right middle lobe.",
+        "Enlarged lymph nodes in right middle lobe, suggestive of lymphadenopathy.",
+        "Bronchiectatic changes in right middle lobe region.",
+        "Focal consolidation in right middle lobe with air bronchogram.",
+        "Collapse of right middle lobe lobe with volume loss.",
+        "Mediastinal widening observed with soft tissue density."
+    ],
+    "impression": "Pneumonia",
+    "recommendations": "Clinical correlation advised; refer to pulmonologist."
+}

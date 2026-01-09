@@ -1,0 +1,15 @@
+{
+    "type": "Chest X-ray",
+    "location": "hilum",
+    "clinical_history": "History of recurrent respiratory infections.",
+    "findings": [
+        "Patchy ground-glass opacities noted in hilum.",
+        "Fibrotic changes with honeycombing in hilum.",
+        "Well-defined nodule measuring 34 mm in hilum.",
+        "Emphysematous changes with hyperlucency in hilum.",
+        "Pleural effusion on the hilum side, moderate in size.",
+        "Pulmonary embolism suspected; filling defect in segmental artery of hilum."
+    ],
+    "impression": "Pulmonary nodule",
+    "recommendations": "Monitor progression with serial imaging."
+}

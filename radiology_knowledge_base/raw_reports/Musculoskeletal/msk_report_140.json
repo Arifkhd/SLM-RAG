@@ -1,0 +1,10 @@
+{
+    "type": "CT",
+    "location": "hip joint",
+    "clinical_history": "History of suspected fracture or tumor.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Osteomyelitis",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be needed."
+}

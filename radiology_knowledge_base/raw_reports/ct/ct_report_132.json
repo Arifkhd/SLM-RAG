@@ -1,0 +1,10 @@
+{
+    "type": "CT Pelvis",
+    "location": "Left side",
+    "clinical_history": "History of trauma to the pelvic region.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Ovarian cyst",
+    "recommendations": "Recommend consultation with the referring physician for further management."
+}

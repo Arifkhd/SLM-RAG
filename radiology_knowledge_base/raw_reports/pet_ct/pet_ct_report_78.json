@@ -1,0 +1,13 @@
+{
+    "type": "PET-CT for oncology",
+    "location": "brain frontal lobe",
+    "clinical_history": "Patient with persistent infection and fever of unknown origin.",
+    "findings": [
+        "No evidence of new metastatic lesions compared to prior scan.",
+        "Mild inflammatory uptake in brain frontal lobe region.",
+        "Physiologic uptake observed in brain, myocardium, and urinary tract.",
+        "Physiologic brown fat uptake in supraclavicular region."
+    ],
+    "impression": "Brain hypometabolism",
+    "recommendations": "Repeat PET-CT in 3\u20136 months to monitor treatment response."
+}

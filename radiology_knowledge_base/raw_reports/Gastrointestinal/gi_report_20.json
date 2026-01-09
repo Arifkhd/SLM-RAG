@@ -1,0 +1,13 @@
+{
+    "type": "Abdominal CT",
+    "location": "Body",
+    "clinical_history": "Patient presents with abdominal pain and vomiting.",
+    "findings": [
+        "Dilated bowel loops noted in the Body region.",
+        "Air-fluid levels visible on imaging.",
+        "Collapsed distal bowel segments.",
+        "No perforation observed."
+    ],
+    "impression": "Bowel obstruction",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be considered."
+}

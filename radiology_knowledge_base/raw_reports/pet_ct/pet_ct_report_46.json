@@ -1,0 +1,14 @@
+{
+    "type": "PET-CT for infection",
+    "location": "spleen",
+    "clinical_history": "Patient with suspected cardiac sarcoidosis.",
+    "findings": [
+        "Physiologic uptake observed in brain, myocardium, and urinary tract.",
+        "Physiologic brown fat uptake in supraclavicular region.",
+        "Focal hypermetabolic activity noted in spleen with SUVmax 12.3.",
+        "Multiple hypermetabolic lesions in bones, suggestive of metastases.",
+        "No abnormal FDG uptake in the remaining organs."
+    ],
+    "impression": "Physiologic uptake",
+    "recommendations": "Refer to oncology or specialist for further management."
+}

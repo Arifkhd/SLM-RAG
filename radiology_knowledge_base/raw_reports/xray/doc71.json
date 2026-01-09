@@ -1,0 +1,11 @@
+{
+    "type": "Chest X-Ray",
+    "location": "Right lower lobe",
+    "findings": [
+        "No pleural effusion.",
+        "No collapse of lung.",
+        "Heart size normal.",
+        "Solitary pulmonary nodule observed."
+    ],
+    "impression": "Lung mass"
+}

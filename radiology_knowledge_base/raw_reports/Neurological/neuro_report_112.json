@@ -1,0 +1,12 @@
+{
+    "type": "MRI Brain",
+    "location": "cerebellum",
+    "clinical_history": "Patient reports weakness and difficulty speaking.",
+    "findings": [
+        "Basal ganglia and brainstem appear normal.",
+        "Ventricular system normal in size and configuration.",
+        "Brain parenchyma appears normal with no abnormal signal intensity."
+    ],
+    "impression": "Normal MRI",
+    "recommendations": "Refer to neurologist or neurosurgeon for further management."
+}

@@ -1,0 +1,18 @@
+{
+    "type": "Scrotal Ultrasound",
+    "exam_region": "Neck soft tissues",
+    "clinical_history": "Limb swelling, rule out deep venous thrombosis.",
+    "technique": "Standard abdominal ultrasound protocol followed.",
+    "findings": [
+        "Right kidney demonstrates normal, no hydronephrosis.",
+        "Amniotic fluid index measures 8.01.",
+        "Placenta is mildly thickened and normally located.",
+        "Epididymis demonstrates hyperechoic features.",
+        "Soft tissue region demonstrates isoechoic without fluid collection.",
+        "No evidence of DVT; veins compressible with normal flow.",
+        "Uterus appears hypoechoic; endometrial thickness measures 23.82 mm.",
+        "Left ovary demonstrates well-defined morphology."
+    ],
+    "impression": "Likely physiological appearance.",
+    "recommendations": "Routine follow-up advised."
+}

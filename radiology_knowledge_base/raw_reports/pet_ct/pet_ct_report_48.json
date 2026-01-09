@@ -1,0 +1,14 @@
+{
+    "type": "PET-CT for infection",
+    "location": "bone marrow",
+    "clinical_history": "Patient with history of known malignancy referred for staging PET-CT.",
+    "findings": [
+        "Focal uptake in bone marrow consistent with post-surgical changes.",
+        "Mild inflammatory uptake in bone marrow region.",
+        "Hypermetabolic lymph nodes noted in bone marrow, suggestive of malignancy.",
+        "Diffuse mild increased uptake in liver, likely benign.",
+        "Multiple hypermetabolic lesions in bones, suggestive of metastases."
+    ],
+    "impression": "Lymphoma activity",
+    "recommendations": "Clinical correlation recommended with prior imaging."
+}

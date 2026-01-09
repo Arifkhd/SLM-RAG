@@ -1,0 +1,12 @@
+{
+    "type": "Ultrasound Brain",
+    "location": "parietal lobe",
+    "clinical_history": "Patient presents with delayed neurological milestones.",
+    "findings": [
+        "Abnormal cortical development observed in parietal lobe.",
+        "Recommend further evaluation.",
+        "No hemorrhage detected."
+    ],
+    "impression": "Congenital malformation",
+    "recommendations": "Repeat study may be indicated depending on clinical evolution."
+}

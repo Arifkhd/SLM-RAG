@@ -1,0 +1,10 @@
+{
+    "type": "CT Pelvis",
+    "location": "Bilateral",
+    "clinical_history": "Patient complains of pelvic pain and difficulty urinating.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Bladder mass",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be considered."
+}

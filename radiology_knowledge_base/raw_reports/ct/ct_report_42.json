@@ -1,0 +1,12 @@
+{
+    "type": "CT Chest",
+    "location": "Right side",
+    "clinical_history": "History of chest pain and recent upper respiratory infection.",
+    "findings": [
+        "No evidence of pulmonary infarction or consolidation.",
+        "Filling defect in the segmental pulmonary artery indicating embolism.",
+        "No pericardial or pleural effusion detected."
+    ],
+    "impression": "Pulmonary embolism",
+    "recommendations": "Recommend consultation with the referring physician for further management."
+}

@@ -1,0 +1,12 @@
+{
+    "type": "MRI",
+    "location": "elbow joint",
+    "clinical_history": "Patient has swelling and reduced mobility.",
+    "findings": [
+        "No joint effusion.",
+        "Focal cartilage defect noted in the elbow joint joint surface.",
+        "Ligaments intact."
+    ],
+    "impression": "Cartilage defect",
+    "recommendations": "Refer to orthopedic specialist for management."
+}

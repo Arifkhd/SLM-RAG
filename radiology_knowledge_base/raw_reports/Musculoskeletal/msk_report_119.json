@@ -1,0 +1,12 @@
+{
+    "type": "X-ray",
+    "location": "hip joint",
+    "clinical_history": "Patient reports swelling and tenderness.",
+    "findings": [
+        "Synovial lining appears mildly thickened.",
+        "Fluid accumulation noted in the hip joint joint.",
+        "Adjacent soft tissues normal."
+    ],
+    "impression": "Joint effusion",
+    "recommendations": "Physical therapy may be advised depending on clinical findings."
+}

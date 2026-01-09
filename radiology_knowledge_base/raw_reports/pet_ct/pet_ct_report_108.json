@@ -1,0 +1,14 @@
+{
+    "type": "PET-CT for oncology",
+    "location": "mediastinal lymph nodes",
+    "clinical_history": "Patient with history of known malignancy referred for staging PET-CT.",
+    "findings": [
+        "Focal hypermetabolic activity noted in mediastinal lymph nodes with SUVmax 6.99.",
+        "Physiologic brown fat uptake in supraclavicular region.",
+        "Hypermetabolic lymph nodes noted in mediastinal lymph nodes, suggestive of malignancy.",
+        "Mild inflammatory uptake in mediastinal lymph nodes region.",
+        "No abnormal activity in lungs or mediastinum."
+    ],
+    "impression": "Focal infection",
+    "recommendations": "Clinical correlation recommended with prior imaging."
+}

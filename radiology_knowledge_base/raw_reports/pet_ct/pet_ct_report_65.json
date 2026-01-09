@@ -1,0 +1,14 @@
+{
+    "type": "Whole-body PET-CT",
+    "location": "left lung lower lobe",
+    "clinical_history": "Patient with history of known malignancy referred for staging PET-CT.",
+    "findings": [
+        "Multiple hypermetabolic lesions in bones, suggestive of metastases.",
+        "No abnormal FDG uptake in the remaining organs.",
+        "Focal increased uptake in left lung lower lobe, recommend further correlation with CT morphology.",
+        "No abnormal activity in lungs or mediastinum.",
+        "Physiologic uptake observed in brain, myocardium, and urinary tract."
+    ],
+    "impression": "Physiologic uptake",
+    "recommendations": "Correlate with MRI/CT for precise anatomical localization."
+}

@@ -1,0 +1,12 @@
+{
+    "type": "Abdominal CT",
+    "location": "Left lobe",
+    "clinical_history": "Patient presents with abdominal pain and vomiting.",
+    "findings": [
+        "No abscess or free fluid identified.",
+        "Peri-appendiceal fat stranding present.",
+        "Adjacent bowel loops appear normal."
+    ],
+    "impression": "Appendicitis",
+    "recommendations": "Refer to gastroenterologist for further management."
+}

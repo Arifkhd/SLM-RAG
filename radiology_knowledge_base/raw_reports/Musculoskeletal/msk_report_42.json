@@ -1,0 +1,12 @@
+{
+    "type": "X-ray",
+    "location": "femur",
+    "clinical_history": "History of trauma to the femur.",
+    "findings": [
+        "Adjacent bones appear normal.",
+        "No surrounding soft tissue involvement.",
+        "Well-defined lytic lesion in the femur."
+    ],
+    "impression": "Bone cyst",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be needed."
+}

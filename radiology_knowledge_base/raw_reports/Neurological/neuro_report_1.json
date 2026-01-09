@@ -1,0 +1,10 @@
+{
+    "type": "Ultrasound Brain",
+    "location": "frontal lobe",
+    "clinical_history": "History of prenatal complications.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Brain edema",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be necessary."
+}

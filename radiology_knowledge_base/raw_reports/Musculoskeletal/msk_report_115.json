@@ -1,0 +1,12 @@
+{
+    "type": "Ultrasound",
+    "location": "elbow joint",
+    "clinical_history": "Patient complains of limited joint movement.",
+    "findings": [
+        "No calcifications observed.",
+        "Bursa wall thickened.",
+        "Soft tissues normal."
+    ],
+    "impression": "Bursitis",
+    "recommendations": "Further evaluation or biopsy may be considered if indicated."
+}

@@ -1,0 +1,14 @@
+{
+    "type": "Chest X-Ray",
+    "location": "Right ribs",
+    "clinical_history": "Complaints of localized chest pain aggravated by respiration.",
+    "findings": [
+        "No associated pneumothorax or hemothorax.",
+        "Heart and mediastinal structures normal.",
+        "Fracture of the specified ribs noted with mild displacement.",
+        "Other ribs and bony thorax intact.",
+        "Adjacent lung fields clear."
+    ],
+    "impression": "Rib fracture",
+    "recommendations": "Clinical correlation advised. Follow-up imaging may be recommended based on the clinical scenario."
+}

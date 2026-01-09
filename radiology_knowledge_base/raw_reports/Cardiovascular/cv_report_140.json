@@ -1,0 +1,12 @@
+{
+    "type": "ECG",
+    "location": "Right ventricle",
+    "clinical_history": "History of chest pain and arrhythmia.",
+    "findings": [
+        "No acute ST-T changes.",
+        "Irregularly irregular rhythm with absent P waves.",
+        "No conduction blocks."
+    ],
+    "impression": "Atrial fibrillation",
+    "recommendations": "Repeat study may be considered based on symptoms."
+}

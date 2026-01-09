@@ -1,0 +1,14 @@
+{
+    "type": "Cardiac MRI",
+    "location": "Left ventricle",
+    "clinical_history": "Patient with suspected cardiomyopathy.",
+    "findings": [
+        "Myocardial signal intensity within normal limits.",
+        "No edema, fibrosis, or infarction detected.",
+        "Valves and pericardium normal.",
+        "Normal ventricular size and function.",
+        "No intracardiac masses observed."
+    ],
+    "impression": "Normal cardiac MRI",
+    "recommendations": "Clinical correlation advised; follow-up imaging may be warranted."
+}

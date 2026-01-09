@@ -1,0 +1,14 @@
+{
+    "type": "MRI",
+    "location": "right knee",
+    "clinical_history": "Patient has swelling and reduced mobility.",
+    "findings": [
+        "No associated fractures.",
+        "Mild surrounding edema.",
+        "Complete tear of the right knee ligament observed.",
+        "Joint alignment preserved.",
+        "Adjacent ligaments normal."
+    ],
+    "impression": "Ligament tear",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be needed."
+}

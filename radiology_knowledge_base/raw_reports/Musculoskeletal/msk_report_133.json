@@ -1,0 +1,12 @@
+{
+    "type": "MRI",
+    "location": "ankle joint",
+    "clinical_history": "Patient complains of persistent joint pain.",
+    "findings": [
+        "No abnormal masses detected.",
+        "Edema noted in the bone marrow of ankle joint.",
+        "Soft tissues appear normal."
+    ],
+    "impression": "Bone marrow edema",
+    "recommendations": "Further evaluation or biopsy may be considered if indicated."
+}

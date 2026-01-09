@@ -1,0 +1,13 @@
+{
+    "type": "Ultrasound",
+    "location": "right shoulder",
+    "clinical_history": "Patient complains of limited joint movement.",
+    "findings": [
+        "Edema noted around the tear.",
+        "Adjacent joints normal.",
+        "Partial tear of right shoulder muscle.",
+        "No hematoma detected."
+    ],
+    "impression": "Muscle tear",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be needed."
+}

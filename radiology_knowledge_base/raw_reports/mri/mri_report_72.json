@@ -1,0 +1,12 @@
+{
+    "type": "MRI Brain",
+    "location": "Cervical region",
+    "clinical_history": "Patient presents with sudden onset headache and neurological deficits.",
+    "findings": [
+        "All anatomical structures appear normal in size, shape, and signal characteristics.",
+        "No abnormal signal intensity or lesions observed.",
+        "No evidence of hemorrhage, infarction, or mass effect."
+    ],
+    "impression": "Normal MRI",
+    "recommendations": "Recommend monitoring and follow-up based on clinical scenario."
+}

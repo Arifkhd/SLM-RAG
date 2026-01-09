@@ -1,0 +1,14 @@
+{
+    "type": "MRI",
+    "location": "fundal region",
+    "clinical_history": "Patient with high-risk pregnancy, under monitoring.",
+    "findings": [
+        "Uterus and placenta normal.",
+        "Cystic lesion noted in the fundal region adnexa.",
+        "No vascular flow within lesion.",
+        "No internal septations.",
+        "Fetal growth appropriate."
+    ],
+    "impression": "Adnexal mass in pregnancy",
+    "recommendations": "Follow-up ultrasound recommended in 2 weeks."
+}

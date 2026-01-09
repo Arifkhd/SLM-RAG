@@ -1,0 +1,14 @@
+{
+    "type": "Whole-body PET-CT",
+    "location": "femur",
+    "clinical_history": "Patient under evaluation for metastatic disease.",
+    "findings": [
+        "Focal uptake in femur consistent with post-surgical changes.",
+        "No abnormal FDG uptake in the remaining organs.",
+        "Hypermetabolic lymph nodes noted in femur, suggestive of malignancy.",
+        "Diffuse mild increased uptake in liver, likely benign.",
+        "Diffuse uptake in thyroid gland, differential includes thyroiditis or nodular disease."
+    ],
+    "impression": "Focal infection",
+    "recommendations": "Correlate with MRI/CT for precise anatomical localization."
+}

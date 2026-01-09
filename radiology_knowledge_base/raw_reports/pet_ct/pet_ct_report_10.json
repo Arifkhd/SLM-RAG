@@ -1,0 +1,14 @@
+{
+    "type": "PET-CT for infection",
+    "location": "axillary lymph nodes",
+    "clinical_history": "Patient with history of known malignancy referred for staging PET-CT.",
+    "findings": [
+        "Diffuse mild increased uptake in liver, likely benign.",
+        "Diffuse uptake in thyroid gland, differential includes thyroiditis or nodular disease.",
+        "Physiologic uptake observed in brain, myocardium, and urinary tract.",
+        "Mild inflammatory uptake in axillary lymph nodes region.",
+        "Hypermetabolic lymph nodes noted in axillary lymph nodes, suggestive of malignancy."
+    ],
+    "impression": "Thyroid nodule uptake",
+    "recommendations": "Consider lab tests to assess metabolic activity if indicated."
+}

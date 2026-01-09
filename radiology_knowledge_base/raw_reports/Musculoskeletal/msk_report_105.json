@@ -1,0 +1,11 @@
+{
+    "type": "MRI",
+    "location": "wrist joint",
+    "clinical_history": "History of ligament or meniscus injury.",
+    "findings": [
+        "No fracture line visible.",
+        "Joint spaces normal."
+    ],
+    "impression": "Bone marrow edema",
+    "recommendations": "Further evaluation or biopsy may be considered if indicated."
+}

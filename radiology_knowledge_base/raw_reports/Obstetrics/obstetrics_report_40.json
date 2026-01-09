@@ -1,0 +1,11 @@
+{
+    "type": "Doppler Ultrasound",
+    "location": "right adnexa",
+    "clinical_history": "Patient has reduced fetal movements.",
+    "findings": [
+        "Fetus in variable lie.",
+        "Placenta appears normal."
+    ],
+    "impression": "Polyhydramnios",
+    "recommendations": "Follow-up ultrasound recommended in 2 weeks."
+}

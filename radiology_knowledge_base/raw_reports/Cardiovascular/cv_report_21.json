@@ -1,0 +1,13 @@
+{
+    "type": "Cardiac MRI",
+    "location": "Left atrium",
+    "clinical_history": "Follow-up imaging after myocardial infarction.",
+    "findings": [
+        "No edema, fibrosis, or infarction detected.",
+        "Myocardial signal intensity within normal limits.",
+        "Valves and pericardium normal.",
+        "No intracardiac masses observed."
+    ],
+    "impression": "Normal cardiac MRI",
+    "recommendations": "Repeat study may be considered based on symptoms."
+}

@@ -1,0 +1,12 @@
+{
+    "type": "Cardiac MRI",
+    "location": "Right atrium",
+    "clinical_history": "Follow-up imaging after myocardial infarction.",
+    "findings": [
+        "Normal ventricular size and function.",
+        "No edema, fibrosis, or infarction detected.",
+        "Valves and pericardium normal."
+    ],
+    "impression": "Normal cardiac MRI",
+    "recommendations": "Repeat study may be considered based on symptoms."
+}

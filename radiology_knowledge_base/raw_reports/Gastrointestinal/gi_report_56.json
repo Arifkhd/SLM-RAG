@@ -1,0 +1,10 @@
+{
+    "type": "Colonoscopy",
+    "location": "Peripheral region",
+    "clinical_history": "History of constipation and abdominal pain.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Normal findings",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be considered."
+}

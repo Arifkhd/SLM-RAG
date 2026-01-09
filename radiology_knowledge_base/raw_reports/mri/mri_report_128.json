@@ -1,0 +1,13 @@
+{
+    "type": "MRI Spine",
+    "location": "Left side",
+    "clinical_history": "Patient reports back pain radiating to the lower limbs.",
+    "findings": [
+        "No evidence of cord edema or fracture.",
+        "Disc protrusion at Left side causing mild compression of the thecal sac.",
+        "Adjacent vertebral bodies normal in height and signal.",
+        "Ligaments intact."
+    ],
+    "impression": "Herniated disc",
+    "recommendations": "Additional imaging or lab tests may be indicated based on patient symptoms."
+}

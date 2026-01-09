@@ -1,0 +1,14 @@
+{
+    "type": "Chest X-Ray",
+    "location": "Heart",
+    "clinical_history": "Routine evaluation of known cardiac disease.",
+    "findings": [
+        "Lungs clear without focal infiltrates or masses.",
+        "Bony thorax normal.",
+        "Pulmonary vasculature appears normal, no edema.",
+        "No pleural effusion.",
+        "Cardiac silhouette significantly enlarged."
+    ],
+    "impression": "Cardiomegaly",
+    "recommendations": "Clinical correlation advised. Follow-up imaging may be recommended based on the clinical scenario."
+}

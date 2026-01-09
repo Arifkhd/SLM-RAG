@@ -1,0 +1,15 @@
+{
+    "type": "Whole-body PET-CT",
+    "location": "liver",
+    "clinical_history": "Patient with history of known malignancy referred for staging PET-CT.",
+    "findings": [
+        "No abnormal FDG uptake in the remaining organs.",
+        "No evidence of new metastatic lesions compared to prior scan.",
+        "Diffuse mild increased uptake in liver, likely benign.",
+        "Multiple hypermetabolic lesions in bones, suggestive of metastases.",
+        "Hypermetabolic lymph nodes noted in liver, suggestive of malignancy.",
+        "Mild inflammatory uptake in liver region."
+    ],
+    "impression": "Focal infection",
+    "recommendations": "Biopsy or follow-up imaging may be considered to confirm malignancy."
+}

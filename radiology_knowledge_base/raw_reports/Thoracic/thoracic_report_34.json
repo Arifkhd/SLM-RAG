@@ -1,0 +1,14 @@
+{
+    "type": "Chest X-ray",
+    "location": "left upper lobe",
+    "clinical_history": "Patient presents with cough and fever.",
+    "findings": [
+        "Patchy ground-glass opacities noted in left upper lobe.",
+        "Small pneumothorax on the left upper lobe side.",
+        "Collapse of left upper lobe lobe with volume loss.",
+        "Thoracic aortic aneurysm measuring 39 mm in diameter.",
+        "Interstitial thickening and reticular pattern in left upper lobe."
+    ],
+    "impression": "Pulmonary embolism",
+    "recommendations": "Follow-up imaging recommended in 4\u20136 weeks."
+}

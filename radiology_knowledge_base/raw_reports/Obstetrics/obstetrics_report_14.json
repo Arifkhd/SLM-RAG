@@ -1,0 +1,12 @@
+{
+    "type": "Ultrasound",
+    "location": "left adnexa",
+    "clinical_history": "Patient referred for evaluation of suspected malpresentation.",
+    "findings": [
+        "Placenta partially separated from the myometrium.",
+        "No signs of maternal hemorrhage externally visible.",
+        "Fetal heart rate normal."
+    ],
+    "impression": "Placental abruption",
+    "recommendations": "Follow-up ultrasound recommended in 2 weeks."
+}

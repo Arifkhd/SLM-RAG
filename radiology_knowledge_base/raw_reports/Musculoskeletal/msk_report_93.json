@@ -1,0 +1,12 @@
+{
+    "type": "CT",
+    "location": "elbow joint",
+    "clinical_history": "History of suspected fracture or tumor.",
+    "findings": [
+        "Heterogeneous lesion in the elbow joint.",
+        "Recommend further evaluation.",
+        "Soft tissue extension not observed."
+    ],
+    "impression": "Bone tumor",
+    "recommendations": "Physical therapy may be advised depending on clinical findings."
+}

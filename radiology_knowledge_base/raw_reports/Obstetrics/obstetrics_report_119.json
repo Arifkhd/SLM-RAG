@@ -1,0 +1,12 @@
+{
+    "type": "Doppler Ultrasound",
+    "location": "cervical region",
+    "clinical_history": "Patient with high-risk pregnancy, under monitoring.",
+    "findings": [
+        "Placenta appears normal.",
+        "Fetus in variable lie.",
+        "Fetal heart rate normal."
+    ],
+    "impression": "Polyhydramnios",
+    "recommendations": "MRI may be advised for detailed evaluation if necessary."
+}

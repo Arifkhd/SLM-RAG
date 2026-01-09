@@ -1,0 +1,15 @@
+{
+    "type": "PET-CT for oncology",
+    "location": "spleen",
+    "clinical_history": "Follow-up PET-CT after chemotherapy to assess treatment response.",
+    "findings": [
+        "Focal uptake in spleen consistent with post-surgical changes.",
+        "No abnormal activity in lungs or mediastinum.",
+        "Focal increased uptake in spleen, recommend further correlation with CT morphology.",
+        "Physiologic uptake observed in brain, myocardium, and urinary tract.",
+        "Diffuse uptake in thyroid gland, differential includes thyroiditis or nodular disease.",
+        "Focal hypermetabolic activity noted in spleen with SUVmax 3.34."
+    ],
+    "impression": "Alzheimer's pattern",
+    "recommendations": "Repeat PET-CT in 3\u20136 months to monitor treatment response."
+}

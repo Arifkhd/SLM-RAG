@@ -1,0 +1,15 @@
+{
+    "type": "Cardiac PET-CT",
+    "location": "soft tissue of thigh",
+    "clinical_history": "Patient with unexplained weight loss and fever.",
+    "findings": [
+        "Diffuse uptake in thyroid gland, differential includes thyroiditis or nodular disease.",
+        "Focal uptake in soft tissue of thigh consistent with post-surgical changes.",
+        "Mild inflammatory uptake in soft tissue of thigh region.",
+        "Diffuse mild increased uptake in liver, likely benign.",
+        "Physiologic brown fat uptake in supraclavicular region.",
+        "Multiple hypermetabolic lesions in bones, suggestive of metastases."
+    ],
+    "impression": "Liver lesion uptake",
+    "recommendations": "Consider lab tests to assess metabolic activity if indicated."
+}

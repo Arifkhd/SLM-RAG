@@ -1,0 +1,16 @@
+{
+    "type": "Prostate Ultrasound",
+    "exam_region": "Breast tissue",
+    "clinical_history": "Urinary difficulty and suspected prostate enlargement.",
+    "technique": "Color Doppler and spectral analysis performed where necessary.",
+    "findings": [
+        "Prostate is hyperechoic; volume approximately 34.15 cc.",
+        "Fetal cardiac activity present with FHR 27.74 bpm.",
+        "Amniotic fluid index measures 5.18.",
+        "Right kidney demonstrates enlarged, no hydronephrosis.",
+        "Common bile duct measures 19.68 mm, within normal limits.",
+        "Right ovary shows hypoechoic appearance."
+    ],
+    "impression": "Suspicious lesion\u2014further evaluation recommended.",
+    "recommendations": "Routine follow-up advised."
+}

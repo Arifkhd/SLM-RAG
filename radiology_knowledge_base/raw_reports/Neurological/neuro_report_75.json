@@ -1,0 +1,12 @@
+{
+    "type": "MR Angiography",
+    "location": "basal ganglia",
+    "clinical_history": "Patient with sudden severe headache.",
+    "findings": [
+        "No hemorrhage detected.",
+        "No mass effect.",
+        "Early venous drainage observed."
+    ],
+    "impression": "Arteriovenous malformation",
+    "recommendations": "Immediate intervention may be required depending on findings."
+}

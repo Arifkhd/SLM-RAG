@@ -1,0 +1,13 @@
+{
+    "type": "Cardiac CT",
+    "location": "Posterior wall",
+    "clinical_history": "Patient reports dyspnea and atypical chest discomfort.",
+    "findings": [
+        "Calcified and non-calcified plaques noted in the coronary arteries.",
+        "Cardiac chambers normal in size.",
+        "Mild stenosis in the left anterior descending artery.",
+        "No thrombus or occlusion detected."
+    ],
+    "impression": "Coronary artery disease",
+    "recommendations": "Refer to cardiologist for further management."
+}

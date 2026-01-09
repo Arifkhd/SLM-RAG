@@ -1,0 +1,13 @@
+{
+    "type": "Brain PET-CT",
+    "location": "spleen",
+    "clinical_history": "Patient with suspected cardiac sarcoidosis.",
+    "findings": [
+        "No abnormal FDG uptake in the remaining organs.",
+        "Mild inflammatory uptake in spleen region.",
+        "Physiologic brown fat uptake in supraclavicular region.",
+        "Multiple hypermetabolic lesions in bones, suggestive of metastases."
+    ],
+    "impression": "Normal PET-CT",
+    "recommendations": "Biopsy or follow-up imaging may be considered to confirm malignancy."
+}

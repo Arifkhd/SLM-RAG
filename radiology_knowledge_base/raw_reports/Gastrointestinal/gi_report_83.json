@@ -1,0 +1,12 @@
+{
+    "type": "Endoscopy",
+    "location": "Left lobe",
+    "clinical_history": "Patient reports dysphagia and epigastric discomfort.",
+    "findings": [
+        "Portal vein patent.",
+        "Dilated submucosal veins noted in the distal esophagus.",
+        "No active bleeding detected."
+    ],
+    "impression": "Esophageal varices",
+    "recommendations": "Further evaluation with lab tests or biopsy may be advised."
+}

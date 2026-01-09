@@ -1,0 +1,10 @@
+{
+    "type": "MRI Abdomen",
+    "location": "Cervical region",
+    "clinical_history": "History of jaundice and nausea.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Kidney cyst",
+    "recommendations": "Recommend monitoring and follow-up based on clinical scenario."
+}

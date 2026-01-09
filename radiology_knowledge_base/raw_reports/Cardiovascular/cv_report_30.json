@@ -1,0 +1,10 @@
+{
+    "type": "Echocardiogram",
+    "location": "Left atrium",
+    "clinical_history": "History of hypertension and chest discomfort.",
+    "findings": [
+        "Systolic function preserved."
+    ],
+    "impression": "Left ventricular hypertrophy",
+    "recommendations": "Clinical correlation advised; follow-up imaging may be warranted."
+}

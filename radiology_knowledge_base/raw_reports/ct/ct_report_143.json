@@ -1,0 +1,10 @@
+{
+    "type": "CT Neck",
+    "location": "Bilateral",
+    "clinical_history": "Patient presents with neck swelling and pain.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Vascular abnormality",
+    "recommendations": "Follow-up imaging or additional diagnostic tests may be indicated."
+}

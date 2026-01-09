@@ -1,0 +1,13 @@
+{
+    "type": "Chest X-ray",
+    "location": "right upper lobe",
+    "clinical_history": "Follow-up imaging for known pulmonary nodule.",
+    "findings": [
+        "Pleural effusion on the right upper lobe side, moderate in size.",
+        "Emphysematous changes with hyperlucency in right upper lobe.",
+        "Focal consolidation in right upper lobe with air bronchogram.",
+        "Patchy ground-glass opacities noted in right upper lobe."
+    ],
+    "impression": "Mediastinal mass",
+    "recommendations": "Consider CT or HRCT for detailed evaluation."
+}

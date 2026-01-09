@@ -1,0 +1,15 @@
+{
+    "type": "Hepatobiliary Ultrasound",
+    "exam_region": "Upper limb arteries",
+    "clinical_history": "Scrotal pain and swelling.",
+    "technique": "Real-time gray-scale and color Doppler imaging performed.",
+    "findings": [
+        "Left ovary demonstrates hypoechoic morphology.",
+        "Prostate is isoechoic; volume approximately 14.91 cc.",
+        "Testes are mildly heterogeneous with normal vascularity.",
+        "Uterus appears unremarkable; endometrial thickness measures 13.97 mm.",
+        "Major vessels show unremarkable waveform on Doppler."
+    ],
+    "impression": "Evidence of cystic lesion\u2014likely benign.",
+    "recommendations": "Routine follow-up advised."
+}

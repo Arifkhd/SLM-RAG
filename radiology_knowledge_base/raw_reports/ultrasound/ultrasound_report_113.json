@@ -1,0 +1,15 @@
+{
+    "type": "Prostate Ultrasound",
+    "exam_region": "Right upper quadrant",
+    "clinical_history": "Follow-up ultrasound for known liver lesion.",
+    "technique": "Longitudinal, transverse, and oblique views obtained.",
+    "findings": [
+        "Right kidney demonstrates ill-defined, no hydronephrosis.",
+        "Thyroid gland shows coarse echotexture; no suspicious nodules.",
+        "Left ovary demonstrates homogeneous morphology.",
+        "Liver appears mildly heterogeneous with no focal lesions.",
+        "Prostate is hypoechoic; volume approximately 15.66 cc."
+    ],
+    "impression": "Appearance consistent with benign etiology.",
+    "recommendations": "Consider follow-up ultrasound in 6\u20138 weeks."
+}

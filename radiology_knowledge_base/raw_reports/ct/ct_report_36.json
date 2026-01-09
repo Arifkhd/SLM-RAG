@@ -1,0 +1,10 @@
+{
+    "type": "CT Pelvis",
+    "location": "Central",
+    "clinical_history": "Reports swelling and tenderness in the pelvic area.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Pelvic fracture",
+    "recommendations": "Recommend consultation with the referring physician for further management."
+}

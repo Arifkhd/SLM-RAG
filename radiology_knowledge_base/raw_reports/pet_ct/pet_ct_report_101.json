@@ -1,0 +1,15 @@
+{
+    "type": "Brain PET-CT",
+    "location": "brain temporal lobe",
+    "clinical_history": "Patient with bone pain and prior cancer history.",
+    "findings": [
+        "Focal uptake in brain temporal lobe consistent with post-surgical changes.",
+        "Hypermetabolic lymph nodes noted in brain temporal lobe, suggestive of malignancy.",
+        "Diffuse mild increased uptake in liver, likely benign.",
+        "Mild inflammatory uptake in brain temporal lobe region.",
+        "No abnormal activity in lungs or mediastinum.",
+        "No abnormal FDG uptake in the remaining organs."
+    ],
+    "impression": "Hypermetabolic lymph nodes",
+    "recommendations": "Repeat PET-CT in 3\u20136 months to monitor treatment response."
+}

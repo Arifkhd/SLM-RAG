@@ -1,0 +1,12 @@
+{
+    "type": "Ultrasound Abdomen",
+    "location": "Tail",
+    "clinical_history": "Patient reports right upper quadrant pain.",
+    "findings": [
+        "Abdominal organs appear normal.",
+        "No signs of inflammation.",
+        "No masses or abnormal fluid collections detected."
+    ],
+    "impression": "Normal ultrasound",
+    "recommendations": "Further evaluation with lab tests or biopsy may be advised."
+}

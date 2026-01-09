@@ -1,0 +1,10 @@
+{
+    "type": "MRI",
+    "location": "anterior placenta",
+    "clinical_history": "Patient referred for evaluation of suspected malpresentation.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Amniotic fluid abnormality",
+    "recommendations": "Immediate intervention may be required depending on clinical evolution."
+}

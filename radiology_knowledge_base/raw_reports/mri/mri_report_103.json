@@ -1,0 +1,10 @@
+{
+    "type": "MRI Shoulder",
+    "location": "Cervical region",
+    "clinical_history": "Complaints of clicking sound during movement.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Labral tear",
+    "recommendations": "Recommend monitoring and follow-up based on clinical scenario."
+}

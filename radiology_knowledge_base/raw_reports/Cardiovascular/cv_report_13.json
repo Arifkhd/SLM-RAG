@@ -1,0 +1,11 @@
+{
+    "type": "ECG",
+    "location": "Left ventricle",
+    "clinical_history": "Routine evaluation for cardiac rhythm abnormalities.",
+    "findings": [
+        "Irregularly irregular rhythm with absent P waves.",
+        "Ventricular response varies, average rate noted."
+    ],
+    "impression": "Atrial fibrillation",
+    "recommendations": "Refer to cardiologist for further management."
+}

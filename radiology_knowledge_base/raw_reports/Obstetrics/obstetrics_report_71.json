@@ -1,0 +1,13 @@
+{
+    "type": "Ultrasound",
+    "location": "uterine body",
+    "clinical_history": "Patient referred for evaluation of suspected malpresentation.",
+    "findings": [
+        "No intrauterine pregnancy detected.",
+        "No evidence of rupture at this time.",
+        "Adnexal mass visualized.",
+        "Gestational sac noted outside the uterine cavity, likely in uterine body."
+    ],
+    "impression": "Ectopic pregnancy",
+    "recommendations": "Immediate intervention may be required depending on clinical evolution."
+}

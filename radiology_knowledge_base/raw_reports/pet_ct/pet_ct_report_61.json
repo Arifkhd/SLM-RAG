@@ -1,0 +1,13 @@
+{
+    "type": "PET-CT for infection",
+    "location": "spleen",
+    "clinical_history": "Patient with neurological deficits referred for brain PET-CT.",
+    "findings": [
+        "Diffuse mild increased uptake in liver, likely benign.",
+        "Physiologic brown fat uptake in supraclavicular region.",
+        "Hypermetabolic lymph nodes noted in spleen, suggestive of malignancy.",
+        "Focal increased uptake in spleen, recommend further correlation with CT morphology."
+    ],
+    "impression": "Physiologic uptake",
+    "recommendations": "Clinical correlation recommended with prior imaging."
+}

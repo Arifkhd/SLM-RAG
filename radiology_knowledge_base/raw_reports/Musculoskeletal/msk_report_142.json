@@ -1,0 +1,13 @@
+{
+    "type": "X-ray",
+    "location": "right knee",
+    "clinical_history": "Patient presents with joint pain and limited range of motion.",
+    "findings": [
+        "No pathological fractures.",
+        "Soft tissue extension not observed.",
+        "Borders irregular with mild periosteal reaction.",
+        "Heterogeneous lesion in the right knee."
+    ],
+    "impression": "Bone tumor",
+    "recommendations": "Further evaluation or biopsy may be considered if indicated."
+}

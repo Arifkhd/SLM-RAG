@@ -1,0 +1,13 @@
+{
+    "type": "Echocardiogram",
+    "location": "Posterior wall",
+    "clinical_history": "Patient presents with shortness of breath and fatigue.",
+    "findings": [
+        "Mild left atrial enlargement may be present.",
+        "Systolic function preserved.",
+        "Left ventricular wall thickness increased, consistent with hypertrophy.",
+        "No significant valvular abnormality."
+    ],
+    "impression": "Left ventricular hypertrophy",
+    "recommendations": "Clinical correlation advised; follow-up imaging may be warranted."
+}

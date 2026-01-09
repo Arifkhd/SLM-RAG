@@ -1,0 +1,12 @@
+{
+    "type": "CT Neck",
+    "location": "Right side",
+    "clinical_history": "Patient presents with neck swelling and pain.",
+    "findings": [
+        "No abnormal lesions or masses noted. Structures appear normal.",
+        "No evidence of hemorrhage, edema, or fluid collections.",
+        "No mass, consolidation, or abnormal fluid accumulation observed."
+    ],
+    "impression": "Normal CT",
+    "recommendations": "Recommend consultation with the referring physician for further management."
+}

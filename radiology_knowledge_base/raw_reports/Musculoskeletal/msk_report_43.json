@@ -1,0 +1,12 @@
+{
+    "type": "MRI",
+    "location": "elbow joint",
+    "clinical_history": "Patient has swelling and reduced mobility.",
+    "findings": [
+        "Muscle fibers in elbow joint show edema and partial tearing.",
+        "Tendons normal.",
+        "No bone abnormality noted."
+    ],
+    "impression": "Muscle strain",
+    "recommendations": "Physical therapy may be advised depending on clinical findings."
+}

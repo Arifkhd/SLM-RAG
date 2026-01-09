@@ -1,0 +1,12 @@
+{
+    "type": "Endoscopy",
+    "location": "Tail",
+    "clinical_history": "Patient complains of upper abdominal pain and heartburn.",
+    "findings": [
+        "Diffuse esophageal mucosal thickening noted.",
+        "No ulceration or bleeding present.",
+        "No strictures observed."
+    ],
+    "impression": "Esophagitis",
+    "recommendations": "Repeat study may be indicated depending on clinical course."
+}

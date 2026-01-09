@@ -1,0 +1,13 @@
+{
+    "type": "Whole-body PET-CT",
+    "location": "left lung lower lobe",
+    "clinical_history": "Patient with neurological deficits referred for brain PET-CT.",
+    "findings": [
+        "No abnormal activity in lungs or mediastinum.",
+        "Multiple hypermetabolic lesions in bones, suggestive of metastases.",
+        "Hypermetabolic lymph nodes noted in left lung lower lobe, suggestive of malignancy.",
+        "Physiologic brown fat uptake in supraclavicular region."
+    ],
+    "impression": "Splenic lesion uptake",
+    "recommendations": "Clinical correlation recommended with prior imaging."
+}

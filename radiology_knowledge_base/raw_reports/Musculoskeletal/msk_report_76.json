@@ -1,0 +1,12 @@
+{
+    "type": "Ultrasound",
+    "location": "left shoulder",
+    "clinical_history": "Patient complains of limited joint movement.",
+    "findings": [
+        "Joint unremarkable.",
+        "Adjacent soft tissue normal.",
+        "Thickening and hypoechogenicity of the left shoulder tendon."
+    ],
+    "impression": "Tendonitis",
+    "recommendations": "Physical therapy may be advised depending on clinical findings."
+}

@@ -1,0 +1,14 @@
+{
+    "type": "Ultrasound",
+    "location": "posterior placenta",
+    "clinical_history": "Patient has reduced fetal movements.",
+    "findings": [
+        "No intrauterine pregnancy detected.",
+        "Adnexal mass visualized.",
+        "Gestational sac noted outside the uterine cavity, likely in posterior placenta.",
+        "Mild free fluid in the pelvis.",
+        "No evidence of rupture at this time."
+    ],
+    "impression": "Ectopic pregnancy",
+    "recommendations": "Refer to obstetrician for clinical correlation and management."
+}

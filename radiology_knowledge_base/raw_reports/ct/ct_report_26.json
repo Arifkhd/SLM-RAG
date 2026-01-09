@@ -1,0 +1,10 @@
+{
+    "type": "CT Abdomen",
+    "location": "Left side",
+    "clinical_history": "Reports bloating and discomfort in the lower abdomen.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Pancreatitis",
+    "recommendations": "Follow-up imaging or additional diagnostic tests may be indicated."
+}

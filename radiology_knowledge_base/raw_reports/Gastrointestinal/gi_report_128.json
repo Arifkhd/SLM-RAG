@@ -1,0 +1,12 @@
+{
+    "type": "Abdominal CT",
+    "location": "Left lobe",
+    "clinical_history": "History of right lower quadrant tenderness and fever.",
+    "findings": [
+        "Mesenteric vessels appear normal.",
+        "No perforation observed.",
+        "Collapsed distal bowel segments."
+    ],
+    "impression": "Bowel obstruction",
+    "recommendations": "Repeat study may be indicated depending on clinical course."
+}

@@ -1,0 +1,10 @@
+{
+    "type": "EEG",
+    "location": "parietal lobe",
+    "clinical_history": "History of syncope and abnormal movements.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Seizure disorder",
+    "recommendations": "Refer to neurologist or neurosurgeon for further management."
+}

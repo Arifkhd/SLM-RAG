@@ -1,0 +1,10 @@
+{
+    "type": "EEG",
+    "location": "frontal lobe",
+    "clinical_history": "History of syncope and abnormal movements.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Seizure disorder",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be necessary."
+}

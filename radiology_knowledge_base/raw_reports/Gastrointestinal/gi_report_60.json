@@ -1,0 +1,13 @@
+{
+    "type": "Endoscopy",
+    "location": "Left lobe",
+    "clinical_history": "History of vomiting and melena.",
+    "findings": [
+        "Normal pyloric region.",
+        "Mucosal thickening of the stomach lining noted.",
+        "No ulceration or mass seen.",
+        "No bleeding detected."
+    ],
+    "impression": "Gastritis",
+    "recommendations": "Further evaluation with lab tests or biopsy may be advised."
+}

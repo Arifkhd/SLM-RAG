@@ -1,0 +1,15 @@
+{
+    "type": "Chest X-Ray",
+    "location": "Bilateral lungs",
+    "clinical_history": "History of congestive heart failure or fluid overload.",
+    "findings": [
+        "Bilateral perihilar alveolar infiltrates consistent with pulmonary edema.",
+        "Bony thorax intact.",
+        "Kerley B lines noted at the lung bases.",
+        "Mild bilateral pleural effusions present.",
+        "Cardiomegaly evident with increased cardiothoracic ratio.",
+        "No pneumothorax observed."
+    ],
+    "impression": "Pulmonary edema",
+    "recommendations": "Clinical correlation advised. Follow-up imaging may be recommended based on the clinical scenario."
+}

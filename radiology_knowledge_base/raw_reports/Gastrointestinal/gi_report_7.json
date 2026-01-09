@@ -1,0 +1,12 @@
+{
+    "type": "Ultrasound Abdomen",
+    "location": "Head",
+    "clinical_history": "Patient reports right upper quadrant pain.",
+    "findings": [
+        "No ascites observed.",
+        "No focal lesions detected.",
+        "Liver enlarged with homogeneous echotexture."
+    ],
+    "impression": "Hepatomegaly",
+    "recommendations": "Repeat study may be indicated depending on clinical course."
+}

@@ -1,0 +1,15 @@
+{
+    "type": "Scrotal Ultrasound",
+    "exam_region": "Shoulder joint",
+    "clinical_history": "Assessment for renal calculus or hydronephrosis.",
+    "technique": "Standard abdominal ultrasound protocol followed.",
+    "findings": [
+        "Uterus appears normal; endometrial thickness measures 34.89 mm.",
+        "Urinary bladder is mildly thickened, no intraluminal lesions.",
+        "Epididymis demonstrates mildly thickened features.",
+        "Major vessels show well-defined waveform on Doppler.",
+        "Prostate is ill-defined; volume approximately 11.69 cc."
+    ],
+    "impression": "Suspicious lesion\u2014further evaluation recommended.",
+    "recommendations": "Routine follow-up advised."
+}

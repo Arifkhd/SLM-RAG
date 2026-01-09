@@ -1,0 +1,17 @@
+{
+    "type": "Prostate Ultrasound",
+    "exam_region": "Prostate",
+    "clinical_history": "Scrotal pain and swelling.",
+    "technique": "Longitudinal, transverse, and oblique views obtained.",
+    "findings": [
+        "Placenta is isoechoic and normally located.",
+        "Major vessels show unremarkable waveform on Doppler.",
+        "Liver appears mildly heterogeneous with no focal lesions.",
+        "Common bile duct measures 18.85 mm, within normal limits.",
+        "Right ovary shows hyperechoic appearance.",
+        "Left kidney shows mildly heterogeneous, corticomedullary differentiation preserved.",
+        "Right kidney demonstrates homogeneous, no hydronephrosis."
+    ],
+    "impression": "Findings suggest mild inflammatory changes.",
+    "recommendations": "Consider follow-up ultrasound in 6\u20138 weeks."
+}

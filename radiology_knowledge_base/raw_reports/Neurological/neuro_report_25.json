@@ -1,0 +1,12 @@
+{
+    "type": "EEG",
+    "location": "frontal lobe",
+    "clinical_history": "History of syncope and abnormal movements.",
+    "findings": [
+        "Background activity mildly irregular.",
+        "No artifacts noted.",
+        "Sharp waves and spikes noted in the frontal lobe region."
+    ],
+    "impression": "Epileptiform activity",
+    "recommendations": "Repeat study may be indicated depending on clinical evolution."
+}

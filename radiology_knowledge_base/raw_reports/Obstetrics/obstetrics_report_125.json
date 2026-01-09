@@ -1,0 +1,13 @@
+{
+    "type": "Doppler Ultrasound",
+    "location": "right adnexa",
+    "clinical_history": "Patient referred for evaluation of suspected malpresentation.",
+    "findings": [
+        "Fetal movements present.",
+        "Amniotic fluid index measured at 9 cm, below normal range.",
+        "Amniotic fluid index measured at 17 cm, below normal range.",
+        "Placental echotexture normal."
+    ],
+    "impression": "Oligohydramnios",
+    "recommendations": "MRI may be advised for detailed evaluation if necessary."
+}

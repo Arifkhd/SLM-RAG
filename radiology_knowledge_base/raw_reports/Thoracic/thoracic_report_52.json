@@ -1,0 +1,14 @@
+{
+    "type": "PET-CT Thoracic",
+    "location": "right lower lobe",
+    "clinical_history": "Patient with chest pain and shortness of breath.",
+    "findings": [
+        "Well-defined nodule measuring 32 mm in right lower lobe.",
+        "Enlarged lymph nodes in right lower lobe, suggestive of lymphadenopathy.",
+        "Emphysematous changes with hyperlucency in right lower lobe.",
+        "Patchy ground-glass opacities noted in right lower lobe.",
+        "Fibrotic changes with honeycombing in right lower lobe."
+    ],
+    "impression": "Pulmonary fibrosis",
+    "recommendations": "Follow-up imaging recommended in 4\u20136 weeks."
+}

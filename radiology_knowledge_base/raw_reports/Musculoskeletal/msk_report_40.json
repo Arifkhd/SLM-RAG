@@ -1,0 +1,10 @@
+{
+    "type": "CT",
+    "location": "elbow joint",
+    "clinical_history": "Patient presents with severe bone pain after trauma.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Calcification",
+    "recommendations": "Physical therapy may be advised depending on clinical findings."
+}

@@ -1,0 +1,14 @@
+{
+    "type": "MRI",
+    "location": "left adnexa",
+    "clinical_history": "Patient referred for evaluation of suspected malpresentation.",
+    "findings": [
+        "Placenta appears normal.",
+        "Amniotic fluid volume normal.",
+        "Spinal defect observed in left adnexa region.",
+        "Myelomeningocele suspected.",
+        "No associated limb abnormalities."
+    ],
+    "impression": "Fetal spine anomaly",
+    "recommendations": "MRI may be advised for detailed evaluation if necessary."
+}

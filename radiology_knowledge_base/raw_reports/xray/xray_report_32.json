@@ -1,0 +1,14 @@
+{
+    "type": "Chest X-Ray",
+    "location": "Bilateral ribs",
+    "clinical_history": "Patient with history of blunt chest trauma.",
+    "findings": [
+        "Heart and mediastinal structures normal.",
+        "Other ribs and bony thorax intact.",
+        "No associated pneumothorax or hemothorax.",
+        "Adjacent lung fields clear.",
+        "Fracture of the specified ribs noted with mild displacement."
+    ],
+    "impression": "Rib fracture",
+    "recommendations": "Clinical correlation advised. Follow-up imaging may be recommended based on the clinical scenario."
+}

@@ -1,0 +1,15 @@
+{
+    "type": "PET-CT for infection",
+    "location": "adrenal gland",
+    "clinical_history": "Patient with thyroid nodule under assessment.",
+    "findings": [
+        "Focal increased uptake in adrenal gland, recommend further correlation with CT morphology.",
+        "Diffuse mild increased uptake in liver, likely benign.",
+        "Physiologic uptake observed in brain, myocardium, and urinary tract.",
+        "Focal uptake in adrenal gland consistent with post-surgical changes.",
+        "No abnormal activity in lungs or mediastinum.",
+        "Multiple hypermetabolic lesions in bones, suggestive of metastases."
+    ],
+    "impression": "Thyroid nodule uptake",
+    "recommendations": "Correlate with MRI/CT for precise anatomical localization."
+}

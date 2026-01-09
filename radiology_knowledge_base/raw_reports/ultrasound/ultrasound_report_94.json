@@ -1,0 +1,18 @@
+{
+    "type": "Musculoskeletal Ultrasound",
+    "exam_region": "Neck soft tissues",
+    "clinical_history": "Breast lump evaluation.",
+    "technique": "Real-time gray-scale and color Doppler imaging performed.",
+    "findings": [
+        "Soft tissue region demonstrates well-defined without fluid collection.",
+        "Major vessels show normal waveform on Doppler.",
+        "Uterus appears mildly thickened; endometrial thickness measures 1.68 mm.",
+        "Left kidney shows enlarged, corticomedullary differentiation preserved.",
+        "Breast tissue shows coarse lesion measuring 22.77 mm.",
+        "Prostate is hypoechoic; volume approximately 8.5 cc.",
+        "Gallbladder shows ill-defined, no stones or wall thickening.",
+        "Placenta is hypoechoic and normally located."
+    ],
+    "impression": "No significant abnormality detected.",
+    "recommendations": "Refer to specialist for further evaluation."
+}

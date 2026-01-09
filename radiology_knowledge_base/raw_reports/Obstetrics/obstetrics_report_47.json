@@ -1,0 +1,13 @@
+{
+    "type": "MRI",
+    "location": "left adnexa",
+    "clinical_history": "Patient has reduced fetal movements.",
+    "findings": [
+        "No associated limb abnormalities.",
+        "Spinal defect observed in left adnexa region.",
+        "Placenta appears normal.",
+        "Myelomeningocele suspected."
+    ],
+    "impression": "Fetal spine anomaly",
+    "recommendations": "Immediate intervention may be required depending on clinical evolution."
+}

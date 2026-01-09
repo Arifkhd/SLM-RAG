@@ -1,0 +1,15 @@
+{
+    "type": "Whole-body PET-CT",
+    "location": "spleen",
+    "clinical_history": "Patient with history of known malignancy referred for staging PET-CT.",
+    "findings": [
+        "Diffuse mild increased uptake in liver, likely benign.",
+        "No abnormal FDG uptake in the remaining organs.",
+        "Multiple hypermetabolic lesions in bones, suggestive of metastases.",
+        "Mild inflammatory uptake in spleen region.",
+        "Hypermetabolic lymph nodes noted in spleen, suggestive of malignancy.",
+        "Focal hypermetabolic activity noted in spleen with SUVmax 6.06."
+    ],
+    "impression": "Thyroid nodule uptake",
+    "recommendations": "Consider lab tests to assess metabolic activity if indicated."
+}

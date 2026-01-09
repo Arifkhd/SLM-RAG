@@ -1,0 +1,15 @@
+{
+    "type": "Scrotal Ultrasound",
+    "exam_region": "Shoulder joint",
+    "clinical_history": "Routine obstetric ultrasound for fetal growth.",
+    "technique": "Standard abdominal ultrasound protocol followed.",
+    "findings": [
+        "Left kidney shows normal, corticomedullary differentiation preserved.",
+        "Uterus appears well-defined; endometrial thickness measures 31.78 mm.",
+        "Breast tissue shows normal lesion measuring 38.42 mm.",
+        "Epididymis demonstrates smooth-walled features.",
+        "Left ovary demonstrates hypoechoic morphology."
+    ],
+    "impression": "Features may represent infection/inflammation.",
+    "recommendations": "FNAC/biopsy recommended if clinically indicated."
+}

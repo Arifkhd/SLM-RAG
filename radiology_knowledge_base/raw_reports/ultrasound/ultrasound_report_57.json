@@ -1,0 +1,16 @@
+{
+    "type": "Pelvic Ultrasound",
+    "exam_region": "Kidneys",
+    "clinical_history": "Limb swelling, rule out deep venous thrombosis.",
+    "technique": "Longitudinal, transverse, and oblique views obtained.",
+    "findings": [
+        "Gallbladder shows ill-defined, no stones or wall thickening.",
+        "Urinary bladder is smooth-walled, no intraluminal lesions.",
+        "Fetal cardiac activity present with FHR 12.77 bpm.",
+        "Epididymis demonstrates coarse features.",
+        "Left ovary demonstrates coarse morphology.",
+        "Breast tissue shows ill-defined lesion measuring 5.51 mm."
+    ],
+    "impression": "Findings suggest mild inflammatory changes.",
+    "recommendations": "FNAC/biopsy recommended if clinically indicated."
+}

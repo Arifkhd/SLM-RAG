@@ -1,0 +1,12 @@
+{
+    "type": "Colonoscopy",
+    "location": "Tail",
+    "clinical_history": "Routine screening for colon cancer.",
+    "findings": [
+        "Surrounding rectal mucosa normal.",
+        "Engorged hemorrhoidal vessels noted.",
+        "No signs of inflammation."
+    ],
+    "impression": "Hemorrhoids",
+    "recommendations": "Further evaluation with lab tests or biopsy may be advised."
+}

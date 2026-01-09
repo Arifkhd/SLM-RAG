@@ -1,0 +1,13 @@
+{
+    "type": "Echocardiogram",
+    "location": "Right atrium",
+    "clinical_history": "Patient reports palpitations and decreased exercise tolerance.",
+    "findings": [
+        "Left atrium mildly dilated.",
+        "Mitral regurgitation noted due to annular dilation.",
+        "No thrombus detected in ventricular cavity.",
+        "Pericardium normal, no effusion."
+    ],
+    "impression": "Dilated cardiomyopathy",
+    "recommendations": "Clinical correlation advised; follow-up imaging may be warranted."
+}

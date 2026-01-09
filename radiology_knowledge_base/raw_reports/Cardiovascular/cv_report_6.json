@@ -1,0 +1,10 @@
+{
+    "type": "Cardiac MRI",
+    "location": "Septal region",
+    "clinical_history": "Follow-up imaging after myocardial infarction.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Myocarditis",
+    "recommendations": "Refer to cardiologist for further management."
+}

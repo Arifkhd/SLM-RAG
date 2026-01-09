@@ -1,0 +1,15 @@
+{
+    "type": "PET-CT Thoracic",
+    "location": "left lower lobe",
+    "clinical_history": "Patient presents with cough and fever.",
+    "findings": [
+        "Small pneumothorax on the left lower lobe side.",
+        "Enlarged lymph nodes in left lower lobe, suggestive of lymphadenopathy.",
+        "Thoracic aortic aneurysm measuring 11 mm in diameter.",
+        "Fibrotic changes with honeycombing in left lower lobe.",
+        "Interstitial thickening and reticular pattern in left lower lobe.",
+        "Patchy ground-glass opacities noted in left lower lobe."
+    ],
+    "impression": "Pulmonary embolism",
+    "recommendations": "Consider CT or HRCT for detailed evaluation."
+}

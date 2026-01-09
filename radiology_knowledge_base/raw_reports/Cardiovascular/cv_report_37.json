@@ -1,0 +1,13 @@
+{
+    "type": "Cardiac CT",
+    "location": "Right ventricle",
+    "clinical_history": "Patient reports dyspnea and atypical chest discomfort.",
+    "findings": [
+        "Coronary arteries patent with no significant stenosis.",
+        "No calcifications or plaques observed.",
+        "Pericardium normal, no effusion.",
+        "Cardiac chambers normal in size and morphology."
+    ],
+    "impression": "Normal cardiac CT",
+    "recommendations": "Clinical correlation advised; follow-up imaging may be warranted."
+}

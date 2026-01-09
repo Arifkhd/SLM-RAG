@@ -1,0 +1,15 @@
+{
+    "type": "Breast Ultrasound",
+    "exam_region": "Liver and gallbladder",
+    "clinical_history": "Follow-up ultrasound for known liver lesion.",
+    "technique": "Standard abdominal ultrasound protocol followed.",
+    "findings": [
+        "Testes are normal with normal vascularity.",
+        "Thyroid gland shows coarse echotexture; no suspicious nodules.",
+        "Right ovary shows isoechoic appearance.",
+        "Liver appears hypoechoic with no focal lesions.",
+        "No evidence of DVT; veins compressible with normal flow."
+    ],
+    "impression": "Findings suggest mild inflammatory changes.",
+    "recommendations": "Consider follow-up ultrasound in 6\u20138 weeks."
+}

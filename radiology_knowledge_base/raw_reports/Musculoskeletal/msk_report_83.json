@@ -1,0 +1,12 @@
+{
+    "type": "MRI",
+    "location": "elbow joint",
+    "clinical_history": "History of ligament or meniscus injury.",
+    "findings": [
+        "Mild surrounding edema.",
+        "Adjacent ligaments normal.",
+        "Joint alignment preserved."
+    ],
+    "impression": "Ligament tear",
+    "recommendations": "Physical therapy may be advised depending on clinical findings."
+}

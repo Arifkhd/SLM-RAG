@@ -1,0 +1,14 @@
+{
+    "type": "CT Chest",
+    "location": "diaphragmatic region",
+    "clinical_history": "Patient with suspected pulmonary embolism.",
+    "findings": [
+        "Mediastinal widening observed with soft tissue density.",
+        "Enlarged lymph nodes in diaphragmatic region, suggestive of lymphadenopathy.",
+        "Patchy ground-glass opacities noted in diaphragmatic region.",
+        "Pulmonary embolism suspected; filling defect in segmental artery of diaphragmatic region.",
+        "Pleural effusion on the diaphragmatic region side, moderate in size."
+    ],
+    "impression": "Pneumonia",
+    "recommendations": "Clinical correlation advised; refer to pulmonologist."
+}

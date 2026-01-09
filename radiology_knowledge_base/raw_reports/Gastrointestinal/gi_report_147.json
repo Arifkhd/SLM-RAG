@@ -1,0 +1,12 @@
+{
+    "type": "Colonoscopy",
+    "location": "Tail",
+    "clinical_history": "History of constipation and abdominal pain.",
+    "findings": [
+        "Mesenteric fat unremarkable.",
+        "Multiple diverticula in the Tail colon segment.",
+        "No signs of obstruction."
+    ],
+    "impression": "Diverticulosis",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be considered."
+}

@@ -1,0 +1,18 @@
+{
+    "type": "Hepatobiliary Ultrasound",
+    "exam_region": "Thyroid gland",
+    "clinical_history": "Breast lump evaluation.",
+    "technique": "High-resolution linear and curvilinear probes used for detailed evaluation.",
+    "findings": [
+        "Amniotic fluid index measures 38.35.",
+        "Right kidney demonstrates mildly heterogeneous, no hydronephrosis.",
+        "Prostate is mildly thickened; volume approximately 39.19 cc.",
+        "No evidence of DVT; veins compressible with normal flow.",
+        "Testes are mildly heterogeneous with normal vascularity.",
+        "Major vessels show isoechoic waveform on Doppler.",
+        "Breast tissue shows hyperechoic lesion measuring 37.24 mm.",
+        "Placenta is well-defined and normally located."
+    ],
+    "impression": "Findings suggest mild inflammatory changes.",
+    "recommendations": "Refer to specialist for further evaluation."
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Endoscopy",
+    "location": "Right lobe",
+    "clinical_history": "Patient complains of upper abdominal pain and heartburn.",
+    "findings": [
+        "No perforation detected.",
+        "Normal gastric emptying.",
+        "Focal ulceration in the Right lobe part of stomach.",
+        "No abnormal masses noted."
+    ],
+    "impression": "Gastric ulcer",
+    "recommendations": "Repeat study may be indicated depending on clinical course."
+}

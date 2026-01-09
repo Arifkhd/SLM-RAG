@@ -1,0 +1,13 @@
+{
+    "type": "Ultrasound",
+    "location": "left adnexa",
+    "clinical_history": "Patient reports abdominal pain and spotting.",
+    "findings": [
+        "Fetal growth appropriate for gestational age.",
+        "Placenta located over the internal cervical os.",
+        "No placental abruption noted.",
+        "Cervical length adequate."
+    ],
+    "impression": "Placenta previa",
+    "recommendations": "MRI may be advised for detailed evaluation if necessary."
+}

@@ -1,0 +1,13 @@
+{
+    "type": "CT Chest",
+    "location": "Right side",
+    "clinical_history": "History of chest pain and recent upper respiratory infection.",
+    "findings": [
+        "Filling defect in the segmental pulmonary artery indicating embolism.",
+        "Pulmonary vasculature otherwise unremarkable.",
+        "Cardiac chambers normal in size and shape.",
+        "No pericardial or pleural effusion detected."
+    ],
+    "impression": "Pulmonary embolism",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be considered."
+}

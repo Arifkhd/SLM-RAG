@@ -1,0 +1,15 @@
+{
+    "type": "Chest X-Ray",
+    "location": "Bilateral lungs",
+    "clinical_history": "History of long-term smoking.",
+    "findings": [
+        "Bony thorax normal.",
+        "Increased retrosternal air space and hyperlucency noted.",
+        "Heart size normal.",
+        "Mild vascular markings, no pulmonary edema.",
+        "Hyperinflated lungs with flattened diaphragms.",
+        "No focal consolidation or mass observed."
+    ],
+    "impression": "Chronic obstructive pulmonary disease (COPD)",
+    "recommendations": "Clinical correlation advised. Follow-up imaging may be recommended based on the clinical scenario."
+}

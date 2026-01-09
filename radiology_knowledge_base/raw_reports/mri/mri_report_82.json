@@ -1,0 +1,12 @@
+{
+    "type": "MRI Shoulder",
+    "location": "Lower lobe",
+    "clinical_history": "Patient presents with shoulder pain and decreased mobility.",
+    "findings": [
+        "No evidence of hemorrhage, infarction, or mass effect.",
+        "No abnormal signal intensity or lesions observed.",
+        "Adjacent soft tissues and bony structures are unremarkable."
+    ],
+    "impression": "Normal MRI",
+    "recommendations": "Clinical correlation advised; follow-up MRI may be considered."
+}

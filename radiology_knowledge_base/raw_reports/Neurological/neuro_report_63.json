@@ -1,0 +1,13 @@
+{
+    "type": "MR Angiography",
+    "location": "temporal lobe",
+    "clinical_history": "Patient reports transient ischemic attacks.",
+    "findings": [
+        "No mass effect.",
+        "Adjacent parenchyma normal.",
+        "No hemorrhage detected.",
+        "Early venous drainage observed."
+    ],
+    "impression": "Arteriovenous malformation",
+    "recommendations": "Repeat study may be indicated depending on clinical evolution."
+}

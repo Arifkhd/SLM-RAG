@@ -1,0 +1,12 @@
+{
+    "type": "MRI",
+    "location": "left shoulder",
+    "clinical_history": "Patient complains of persistent joint pain.",
+    "findings": [
+        "Surrounding edema present.",
+        "No fractures observed.",
+        "Joint function likely compromised."
+    ],
+    "impression": "Tendon rupture",
+    "recommendations": "Physical therapy may be advised depending on clinical findings."
+}

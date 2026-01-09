@@ -1,0 +1,13 @@
+{
+    "type": "MRI Brain",
+    "location": "ventricular system",
+    "clinical_history": "Patient presents with persistent headache and dizziness.",
+    "findings": [
+        "Perilesional edema noted.",
+        "No skull fracture visualized.",
+        "No midline shift detected.",
+        "Contusions observed in the ventricular system region."
+    ],
+    "impression": "Traumatic brain injury",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be necessary."
+}

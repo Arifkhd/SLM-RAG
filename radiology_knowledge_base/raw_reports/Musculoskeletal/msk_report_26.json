@@ -1,0 +1,14 @@
+{
+    "type": "X-ray",
+    "location": "wrist joint",
+    "clinical_history": "History of trauma to the wrist joint.",
+    "findings": [
+        "No signs of infection.",
+        "Adjacent soft tissues normal.",
+        "Fluid accumulation noted in the wrist joint joint.",
+        "No fractures detected.",
+        "Synovial lining appears mildly thickened."
+    ],
+    "impression": "Joint effusion",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be needed."
+}

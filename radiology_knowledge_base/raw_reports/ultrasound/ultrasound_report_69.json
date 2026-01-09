@@ -1,0 +1,15 @@
+{
+    "type": "Thyroid Ultrasound",
+    "exam_region": "Upper abdomen",
+    "clinical_history": "Pelvic pain with suspected ovarian pathology.",
+    "technique": "High-resolution linear and curvilinear probes used for detailed evaluation.",
+    "findings": [
+        "Common bile duct measures 8.72 mm, within normal limits.",
+        "Breast tissue shows mildly thickened lesion measuring 8.32 mm.",
+        "Epididymis demonstrates unremarkable features.",
+        "Major vessels show mildly heterogeneous waveform on Doppler.",
+        "Uterus appears enlarged; endometrial thickness measures 13.93 mm."
+    ],
+    "impression": "Suspicious lesion\u2014further evaluation recommended.",
+    "recommendations": "Routine follow-up advised."
+}

@@ -1,0 +1,10 @@
+{
+    "type": "CT",
+    "location": "ankle joint",
+    "clinical_history": "Patient reports swelling and deformity.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Osteomyelitis",
+    "recommendations": "Physical therapy may be advised depending on clinical findings."
+}

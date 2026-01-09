@@ -1,0 +1,14 @@
+{
+    "type": "Whole-body PET-CT",
+    "location": "femur",
+    "clinical_history": "Patient with thyroid nodule under assessment.",
+    "findings": [
+        "Diffuse uptake in thyroid gland, differential includes thyroiditis or nodular disease.",
+        "Focal uptake in femur consistent with post-surgical changes.",
+        "Physiologic brown fat uptake in supraclavicular region.",
+        "Hypermetabolic lymph nodes noted in femur, suggestive of malignancy.",
+        "Focal hypermetabolic activity noted in femur with SUVmax 4.15."
+    ],
+    "impression": "Hypermetabolic lymph nodes",
+    "recommendations": "Consider lab tests to assess metabolic activity if indicated."
+}

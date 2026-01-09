@@ -1,0 +1,18 @@
+{
+    "type": "Renal Ultrasound",
+    "exam_region": "Prostate",
+    "clinical_history": "Thyroid swelling and suspected nodular disease.",
+    "technique": "Standard abdominal ultrasound protocol followed.",
+    "findings": [
+        "Fetal cardiac activity present with FHR 16.22 bpm.",
+        "No evidence of DVT; veins compressible with normal flow.",
+        "Left kidney shows well-defined, corticomedullary differentiation preserved.",
+        "Soft tissue region demonstrates mildly thickened without fluid collection.",
+        "Common bile duct measures 27.95 mm, within normal limits.",
+        "Uterus appears smooth-walled; endometrial thickness measures 34.76 mm.",
+        "Gallbladder shows mildly heterogeneous, no stones or wall thickening.",
+        "Epididymis demonstrates mildly heterogeneous features."
+    ],
+    "impression": "Features may represent infection/inflammation.",
+    "recommendations": "MRI or CT correlation may be helpful."
+}

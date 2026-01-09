@@ -1,0 +1,12 @@
+{
+    "type": "MR Angiography",
+    "location": "basal ganglia",
+    "clinical_history": "History of suspected aneurysm or vascular malformation.",
+    "findings": [
+        "Vessel caliber normal throughout.",
+        "No evidence of thrombus or malformation.",
+        "No abnormal flow patterns."
+    ],
+    "impression": "Normal vessels",
+    "recommendations": "Immediate intervention may be required depending on findings."
+}

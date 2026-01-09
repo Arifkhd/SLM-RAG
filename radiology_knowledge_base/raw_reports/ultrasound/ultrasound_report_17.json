@@ -1,0 +1,15 @@
+{
+    "type": "Renal Ultrasound",
+    "exam_region": "Right upper quadrant",
+    "clinical_history": "Evaluation for suspected gallbladder disease.",
+    "technique": "Standard abdominal ultrasound protocol followed.",
+    "findings": [
+        "No evidence of DVT; veins compressible with normal flow.",
+        "Thyroid gland shows isoechoic echotexture; no suspicious nodules.",
+        "Breast tissue shows well-defined lesion measuring 13.21 mm.",
+        "Soft tissue region demonstrates homogeneous without fluid collection.",
+        "Left ovary demonstrates homogeneous morphology."
+    ],
+    "impression": "Appearance consistent with benign etiology.",
+    "recommendations": "Consider follow-up ultrasound in 6\u20138 weeks."
+}

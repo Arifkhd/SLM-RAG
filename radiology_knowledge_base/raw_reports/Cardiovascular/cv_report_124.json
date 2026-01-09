@@ -1,0 +1,10 @@
+{
+    "type": "Echocardiogram",
+    "location": "Right ventricle",
+    "clinical_history": "History of hypertension and chest discomfort.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Aortic stenosis",
+    "recommendations": "Clinical correlation advised; follow-up imaging may be warranted."
+}

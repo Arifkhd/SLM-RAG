@@ -1,0 +1,15 @@
+{
+    "type": "PET-CT for oncology",
+    "location": "brain frontal lobe",
+    "clinical_history": "Follow-up PET-CT after chemotherapy to assess treatment response.",
+    "findings": [
+        "Diffuse mild increased uptake in liver, likely benign.",
+        "Focal hypermetabolic activity noted in brain frontal lobe with SUVmax 9.2.",
+        "Multiple hypermetabolic lesions in bones, suggestive of metastases.",
+        "Focal uptake in brain frontal lobe consistent with post-surgical changes.",
+        "Hypermetabolic lymph nodes noted in brain frontal lobe, suggestive of malignancy.",
+        "No abnormal FDG uptake in the remaining organs."
+    ],
+    "impression": "Brain hypometabolism",
+    "recommendations": "Refer to oncology or specialist for further management."
+}

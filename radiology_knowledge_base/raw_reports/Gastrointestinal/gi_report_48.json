@@ -1,0 +1,12 @@
+{
+    "type": "Endoscopy",
+    "location": "Body",
+    "clinical_history": "Patient reports dysphagia and epigastric discomfort.",
+    "findings": [
+        "Surrounding mucosa mildly inflamed.",
+        "Normal gastric emptying.",
+        "No abnormal masses noted."
+    ],
+    "impression": "Gastric ulcer",
+    "recommendations": "Repeat study may be indicated depending on clinical course."
+}

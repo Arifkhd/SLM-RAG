@@ -1,0 +1,14 @@
+{
+    "type": "MR Angiography",
+    "location": "ventricular system",
+    "clinical_history": "History of suspected aneurysm or vascular malformation.",
+    "findings": [
+        "No flow distal to the occlusion.",
+        "Complete occlusion of the ventricular system artery observed.",
+        "Recommend urgent clinical management.",
+        "Collateral circulation minimal.",
+        "Adjacent vessels unremarkable."
+    ],
+    "impression": "Vessel occlusion",
+    "recommendations": "Immediate intervention may be required depending on findings."
+}

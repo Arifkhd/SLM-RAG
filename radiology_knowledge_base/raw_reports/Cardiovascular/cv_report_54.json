@@ -1,0 +1,11 @@
+{
+    "type": "Echocardiogram",
+    "location": "Right atrium",
+    "clinical_history": "History of hypertension and chest discomfort.",
+    "findings": [
+        "Global dilation of the left ventricle with reduced ejection fraction.",
+        "No thrombus detected in ventricular cavity."
+    ],
+    "impression": "Dilated cardiomyopathy",
+    "recommendations": "Findings should be integrated with clinical assessment and lab results."
+}

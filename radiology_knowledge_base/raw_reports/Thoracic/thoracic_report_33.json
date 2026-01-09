@@ -1,0 +1,15 @@
+{
+    "type": "HRCT Chest",
+    "location": "left upper lobe",
+    "clinical_history": "Patient with chronic dyspnea and smoking history.",
+    "findings": [
+        "Focal consolidation in left upper lobe with air bronchogram.",
+        "Well-defined nodule measuring 20 mm in left upper lobe.",
+        "Pulmonary embolism suspected; filling defect in segmental artery of left upper lobe.",
+        "Bronchiectatic changes in left upper lobe region.",
+        "Interstitial thickening and reticular pattern in left upper lobe.",
+        "Mediastinal widening observed with soft tissue density."
+    ],
+    "impression": "Pulmonary embolism",
+    "recommendations": "Immediate intervention may be required depending on severity."
+}

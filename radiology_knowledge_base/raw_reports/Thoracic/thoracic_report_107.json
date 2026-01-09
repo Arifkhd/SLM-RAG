@@ -1,0 +1,14 @@
+{
+    "type": "PET-CT Thoracic",
+    "location": "pleural space",
+    "clinical_history": "Patient with trauma to thorax.",
+    "findings": [
+        "Pleural effusion on the pleural space side, moderate in size.",
+        "Fibrotic changes with honeycombing in pleural space.",
+        "Enlarged lymph nodes in pleural space, suggestive of lymphadenopathy.",
+        "Emphysematous changes with hyperlucency in pleural space.",
+        "Patchy ground-glass opacities noted in pleural space."
+    ],
+    "impression": "Atelectasis",
+    "recommendations": "Follow-up imaging recommended in 4\u20136 weeks."
+}

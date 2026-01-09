@@ -1,0 +1,10 @@
+{
+    "type": "CT Brain",
+    "location": "temporal lobe",
+    "clinical_history": "Patient with acute head trauma.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Normal CT",
+    "recommendations": "Immediate intervention may be required depending on findings."
+}

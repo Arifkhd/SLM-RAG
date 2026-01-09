@@ -1,0 +1,12 @@
+{
+    "type": "Abdominal CT",
+    "location": "Head",
+    "clinical_history": "History of right lower quadrant tenderness and fever.",
+    "findings": [
+        "Mild hydronephrosis proximal to the stone.",
+        "Other abdominal organs appear normal.",
+        "No perinephric collection observed."
+    ],
+    "impression": "Kidney stone",
+    "recommendations": "Refer to gastroenterologist for further management."
+}

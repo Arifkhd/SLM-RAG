@@ -1,0 +1,10 @@
+{
+    "type": "Echocardiogram",
+    "location": "Left ventricle",
+    "clinical_history": "Patient reports palpitations and decreased exercise tolerance.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Mitral regurgitation",
+    "recommendations": "Clinical correlation advised; follow-up imaging may be warranted."
+}

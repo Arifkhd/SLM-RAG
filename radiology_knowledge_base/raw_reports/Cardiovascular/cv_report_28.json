@@ -1,0 +1,10 @@
+{
+    "type": "Cardiac CT",
+    "location": "Left atrium",
+    "clinical_history": "Patient reports dyspnea and atypical chest discomfort.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Pericardial effusion",
+    "recommendations": "Refer to cardiologist for further management."
+}

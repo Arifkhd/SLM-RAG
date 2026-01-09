@@ -1,0 +1,13 @@
+{
+    "type": "X-ray",
+    "location": "femur",
+    "clinical_history": "Patient presents with joint pain and limited range of motion.",
+    "findings": [
+        "No abnormal calcifications detected.",
+        "Adjacent joints normal.",
+        "Surrounding soft tissues appear normal.",
+        "No associated fracture identified."
+    ],
+    "impression": "Dislocation",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be needed."
+}

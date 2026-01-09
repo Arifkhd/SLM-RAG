@@ -1,0 +1,18 @@
+{
+    "type": "Thyroid Ultrasound",
+    "exam_region": "Testes and epididymis",
+    "clinical_history": "Routine obstetric ultrasound for fetal growth.",
+    "technique": "Real-time gray-scale and color Doppler imaging performed.",
+    "findings": [
+        "Placenta is mildly heterogeneous and normally located.",
+        "Soft tissue region demonstrates hypoechoic without fluid collection.",
+        "Right ovary shows coarse appearance.",
+        "Amniotic fluid index measures 38.81.",
+        "Gallbladder shows hyperechoic, no stones or wall thickening.",
+        "Uterus appears normal; endometrial thickness measures 22.31 mm.",
+        "Fetal cardiac activity present with FHR 17.79 bpm.",
+        "Thyroid gland shows hyperechoic echotexture; no suspicious nodules."
+    ],
+    "impression": "Findings suggest mild inflammatory changes.",
+    "recommendations": "Correlate clinically."
+}

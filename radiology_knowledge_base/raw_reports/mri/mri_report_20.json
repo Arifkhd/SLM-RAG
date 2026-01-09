@@ -1,0 +1,10 @@
+{
+    "type": "MRI Knee",
+    "location": "Upper lobe",
+    "clinical_history": "Complaints of swelling and restricted range of motion.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Bone contusion",
+    "recommendations": "Findings should be discussed with the referring physician for further management."
+}

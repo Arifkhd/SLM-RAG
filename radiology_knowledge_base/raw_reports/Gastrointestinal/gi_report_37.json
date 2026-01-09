@@ -1,0 +1,12 @@
+{
+    "type": "Abdominal MRI",
+    "location": "Central region",
+    "clinical_history": "History of chronic liver disease.",
+    "findings": [
+        "No ascites observed.",
+        "No biliary obstruction detected.",
+        "Adjacent liver parenchyma appears normal."
+    ],
+    "impression": "Hepatic metastasis",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be considered."
+}

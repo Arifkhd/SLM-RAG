@@ -1,0 +1,12 @@
+{
+    "type": "Colonoscopy",
+    "location": "Head",
+    "clinical_history": "Routine screening for colon cancer.",
+    "findings": [
+        "Mucosal enhancement noted.",
+        "No obstructive lesions.",
+        "Adjacent bowel loops unremarkable."
+    ],
+    "impression": "Colitis",
+    "recommendations": "Refer to gastroenterologist for further management."
+}

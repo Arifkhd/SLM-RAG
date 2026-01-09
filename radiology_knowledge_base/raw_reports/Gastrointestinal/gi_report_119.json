@@ -1,0 +1,13 @@
+{
+    "type": "Abdominal CT",
+    "location": "Body",
+    "clinical_history": "Patient presents with abdominal pain and vomiting.",
+    "findings": [
+        "Hypodense lesion observed in the Body lobe of liver.",
+        "No additional focal liver lesions seen.",
+        "Gallbladder normal.",
+        "Portal and hepatic veins appear normal."
+    ],
+    "impression": "Liver lesion",
+    "recommendations": "Refer to gastroenterologist for further management."
+}

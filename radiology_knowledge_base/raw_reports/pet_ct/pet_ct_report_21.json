@@ -1,0 +1,14 @@
+{
+    "type": "Brain PET-CT",
+    "location": "pancreas",
+    "clinical_history": "Patient with persistent infection and fever of unknown origin.",
+    "findings": [
+        "Focal hypermetabolic activity noted in pancreas with SUVmax 4.88.",
+        "No abnormal activity in lungs or mediastinum.",
+        "No evidence of new metastatic lesions compared to prior scan.",
+        "Focal uptake in pancreas consistent with post-surgical changes.",
+        "Mild inflammatory uptake in pancreas region."
+    ],
+    "impression": "Hypermetabolic lesion in lung",
+    "recommendations": "Repeat PET-CT in 3\u20136 months to monitor treatment response."
+}

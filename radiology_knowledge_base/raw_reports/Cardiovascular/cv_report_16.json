@@ -1,0 +1,10 @@
+{
+    "type": "Cardiac MRI",
+    "location": "Right atrium",
+    "clinical_history": "History of chest pain and shortness of breath.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Valvular disease",
+    "recommendations": "Findings should be integrated with clinical assessment and lab results."
+}

@@ -1,0 +1,15 @@
+{
+    "type": "Chest X-ray",
+    "location": "right upper lobe",
+    "clinical_history": "History of recurrent respiratory infections.",
+    "findings": [
+        "Pulmonary embolism suspected; filling defect in segmental artery of right upper lobe.",
+        "Interstitial thickening and reticular pattern in right upper lobe.",
+        "Small pneumothorax on the right upper lobe side.",
+        "Collapse of right upper lobe lobe with volume loss.",
+        "Patchy ground-glass opacities noted in right upper lobe.",
+        "Bronchiectatic changes in right upper lobe region."
+    ],
+    "impression": "Emphysema",
+    "recommendations": "Consider CT or HRCT for detailed evaluation."
+}

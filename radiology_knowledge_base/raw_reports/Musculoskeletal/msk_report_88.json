@@ -1,0 +1,13 @@
+{
+    "type": "MRI",
+    "location": "hip joint",
+    "clinical_history": "Patient complains of persistent joint pain.",
+    "findings": [
+        "Muscle fibers in hip joint show edema and partial tearing.",
+        "No bone abnormality noted.",
+        "Adjacent joints unremarkable.",
+        "No hematoma detected."
+    ],
+    "impression": "Muscle strain",
+    "recommendations": "Refer to orthopedic specialist for management."
+}

@@ -1,0 +1,12 @@
+{
+    "type": "CT Brain",
+    "location": "Right side",
+    "clinical_history": "Patient has sudden onset headache and confusion.",
+    "findings": [
+        "All organs demonstrate normal size, shape, and density.",
+        "No abnormal lesions or masses noted. Structures appear normal.",
+        "No mass, consolidation, or abnormal fluid accumulation observed."
+    ],
+    "impression": "Normal CT",
+    "recommendations": "Recommend consultation with the referring physician for further management."
+}

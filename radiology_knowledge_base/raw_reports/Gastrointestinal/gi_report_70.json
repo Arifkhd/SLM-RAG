@@ -1,0 +1,12 @@
+{
+    "type": "Abdominal MRI",
+    "location": "Right lobe",
+    "clinical_history": "History of chronic liver disease.",
+    "findings": [
+        "No additional hepatic lesions detected.",
+        "No signs of mass effect.",
+        "Well-circumscribed hyperintense lesion in the Right lobe lobe."
+    ],
+    "impression": "Liver hemangioma",
+    "recommendations": "Repeat study may be indicated depending on clinical course."
+}

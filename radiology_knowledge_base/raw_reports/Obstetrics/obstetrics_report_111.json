@@ -1,0 +1,12 @@
+{
+    "type": "Ultrasound",
+    "location": "uterine body",
+    "clinical_history": "Patient reports abdominal pain and spotting.",
+    "findings": [
+        "Cervical length adequate.",
+        "Placenta located over the internal cervical os.",
+        "Fetal growth appropriate for gestational age."
+    ],
+    "impression": "Placenta previa",
+    "recommendations": "Monitor amniotic fluid and fetal growth closely."
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Ultrasound",
+    "location": "wrist joint",
+    "clinical_history": "History of tendon or muscle injury.",
+    "findings": [
+        "No signs of infection.",
+        "Adjacent soft tissues normal.",
+        "Synovial lining appears mildly thickened.",
+        "Fluid accumulation noted in the wrist joint joint."
+    ],
+    "impression": "Joint effusion",
+    "recommendations": "Physical therapy may be advised depending on clinical findings."
+}

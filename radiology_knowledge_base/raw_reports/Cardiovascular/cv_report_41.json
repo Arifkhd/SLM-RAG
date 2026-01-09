@@ -1,0 +1,12 @@
+{
+    "type": "Echocardiogram",
+    "location": "Right atrium",
+    "clinical_history": "Patient reports palpitations and decreased exercise tolerance.",
+    "findings": [
+        "Global dilation of the left ventricle with reduced ejection fraction.",
+        "Mitral regurgitation noted due to annular dilation.",
+        "No thrombus detected in ventricular cavity."
+    ],
+    "impression": "Dilated cardiomyopathy",
+    "recommendations": "Repeat study may be considered based on symptoms."
+}

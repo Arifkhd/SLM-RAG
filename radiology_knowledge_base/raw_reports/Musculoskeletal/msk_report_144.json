@@ -1,0 +1,14 @@
+{
+    "type": "CT",
+    "location": "right knee",
+    "clinical_history": "Patient presents with severe bone pain after trauma.",
+    "findings": [
+        "No pathological fractures.",
+        "Soft tissue extension not observed.",
+        "Heterogeneous lesion in the right knee.",
+        "Recommend further evaluation.",
+        "Borders irregular with mild periosteal reaction."
+    ],
+    "impression": "Bone tumor",
+    "recommendations": "Physical therapy may be advised depending on clinical findings."
+}

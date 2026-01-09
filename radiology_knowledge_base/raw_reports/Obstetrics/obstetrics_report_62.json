@@ -1,0 +1,12 @@
+{
+    "type": "MRI",
+    "location": "uterine body",
+    "clinical_history": "Patient referred for evaluation of suspected malpresentation.",
+    "findings": [
+        "Ventriculomegaly observed in lateral ventricles.",
+        "Corpus callosum partially absent.",
+        "Cortical development abnormal in uterine body."
+    ],
+    "impression": "Fetal brain anomaly",
+    "recommendations": "Immediate intervention may be required depending on clinical evolution."
+}

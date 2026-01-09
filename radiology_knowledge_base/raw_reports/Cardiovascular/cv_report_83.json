@@ -1,0 +1,13 @@
+{
+    "type": "Cardiac MRI",
+    "location": "Right ventricle",
+    "clinical_history": "Follow-up imaging after myocardial infarction.",
+    "findings": [
+        "Valves and pericardium normal.",
+        "No edema, fibrosis, or infarction detected.",
+        "Normal ventricular size and function.",
+        "Myocardial signal intensity within normal limits."
+    ],
+    "impression": "Normal cardiac MRI",
+    "recommendations": "Clinical correlation advised; follow-up imaging may be warranted."
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Abdominal CT",
+    "location": "Peripheral region",
+    "clinical_history": "Patient presents with abdominal pain and vomiting.",
+    "findings": [
+        "Biliary ducts normal.",
+        "No pseudocyst or fluid collection present.",
+        "Peripancreatic fat stranding noted.",
+        "Adjacent organs unremarkable."
+    ],
+    "impression": "Pancreatitis",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be considered."
+}

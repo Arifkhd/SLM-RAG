@@ -1,0 +1,14 @@
+{
+    "type": "PET-CT for oncology",
+    "location": "cervical lymph nodes",
+    "clinical_history": "Patient with persistent infection and fever of unknown origin.",
+    "findings": [
+        "Focal hypermetabolic activity noted in cervical lymph nodes with SUVmax 2.12.",
+        "Focal increased uptake in cervical lymph nodes, recommend further correlation with CT morphology.",
+        "No abnormal activity in lungs or mediastinum.",
+        "Hypermetabolic lymph nodes noted in cervical lymph nodes, suggestive of malignancy.",
+        "Diffuse mild increased uptake in liver, likely benign."
+    ],
+    "impression": "Liver lesion uptake",
+    "recommendations": "Consider lab tests to assess metabolic activity if indicated."
+}

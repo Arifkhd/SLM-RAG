@@ -1,0 +1,18 @@
+{
+    "type": "Scrotal Ultrasound",
+    "exam_region": "Left upper quadrant",
+    "clinical_history": "Routine obstetric ultrasound for fetal growth.",
+    "technique": "Standard abdominal ultrasound protocol followed.",
+    "findings": [
+        "Breast tissue shows unremarkable lesion measuring 5.53 mm.",
+        "Uterus appears well-defined; endometrial thickness measures 14.32 mm.",
+        "Prostate is isoechoic; volume approximately 29.41 cc.",
+        "Left ovary demonstrates normal morphology.",
+        "Right ovary shows ill-defined appearance.",
+        "Left kidney shows well-defined, corticomedullary differentiation preserved.",
+        "Soft tissue region demonstrates isoechoic without fluid collection.",
+        "Urinary bladder is unremarkable, no intraluminal lesions."
+    ],
+    "impression": "Features may represent infection/inflammation.",
+    "recommendations": "MRI or CT correlation may be helpful."
+}

@@ -1,0 +1,12 @@
+{
+    "type": "MRI Brain",
+    "location": "basal ganglia",
+    "clinical_history": "Patient presents with persistent headache and dizziness.",
+    "findings": [
+        "No mass or edema observed.",
+        "Ventricular system normal in size and configuration.",
+        "Brain parenchyma appears normal with no abnormal signal intensity."
+    ],
+    "impression": "Normal MRI",
+    "recommendations": "Repeat study may be indicated depending on clinical evolution."
+}

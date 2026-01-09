@@ -1,0 +1,14 @@
+{
+    "type": "Endoscopy",
+    "location": "Peripheral region",
+    "clinical_history": "Patient complains of upper abdominal pain and heartburn.",
+    "findings": [
+        "Other regions of stomach/colon normal.",
+        "Small polypoid lesion in the Peripheral region region.",
+        "Mucosa otherwise normal.",
+        "No surrounding inflammation detected.",
+        "No evidence of malignancy."
+    ],
+    "impression": "Polyps",
+    "recommendations": "Further evaluation with lab tests or biopsy may be advised."
+}

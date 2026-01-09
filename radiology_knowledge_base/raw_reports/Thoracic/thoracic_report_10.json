@@ -1,0 +1,13 @@
+{
+    "type": "HRCT Chest",
+    "location": "mediastinum",
+    "clinical_history": "History of recurrent respiratory infections.",
+    "findings": [
+        "Mediastinal widening observed with soft tissue density.",
+        "Thoracic aortic aneurysm measuring 15 mm in diameter.",
+        "Focal consolidation in mediastinum with air bronchogram.",
+        "Emphysematous changes with hyperlucency in mediastinum."
+    ],
+    "impression": "Atelectasis",
+    "recommendations": "Further evaluation with PET-CT recommended if malignancy suspected."
+}

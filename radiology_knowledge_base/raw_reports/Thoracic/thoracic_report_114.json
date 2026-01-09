@@ -1,0 +1,14 @@
+{
+    "type": "Chest X-ray",
+    "location": "hilum",
+    "clinical_history": "Patient with chest pain and shortness of breath.",
+    "findings": [
+        "Thoracic aortic aneurysm measuring 20 mm in diameter.",
+        "Mediastinal widening observed with soft tissue density.",
+        "Emphysematous changes with hyperlucency in hilum.",
+        "Small pneumothorax on the hilum side.",
+        "Fibrotic changes with honeycombing in hilum."
+    ],
+    "impression": "Normal thoracic imaging",
+    "recommendations": "Clinical correlation advised; refer to pulmonologist."
+}

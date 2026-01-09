@@ -1,0 +1,12 @@
+{
+    "type": "CT Brain",
+    "location": "temporal lobe",
+    "clinical_history": "Patient presents with confusion and vomiting.",
+    "findings": [
+        "No signs of intracranial mass effect.",
+        "No displacement of bone fragments.",
+        "Linear fracture noted in the temporal lobe region of the skull."
+    ],
+    "impression": "Skull fracture",
+    "recommendations": "Repeat study may be indicated depending on clinical evolution."
+}

@@ -1,0 +1,13 @@
+{
+    "type": "CT Brain",
+    "location": "parietal lobe",
+    "clinical_history": "Patient with acute head trauma.",
+    "findings": [
+        "Mild midline shift observed.",
+        "Surrounding edema present.",
+        "No additional hemorrhages detected.",
+        "Hyperdense area observed in the parietal lobe lobe on CT."
+    ],
+    "impression": "Intracranial hemorrhage",
+    "recommendations": "Immediate intervention may be required depending on findings."
+}

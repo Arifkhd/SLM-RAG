@@ -1,0 +1,13 @@
+{
+    "type": "MRI Brain",
+    "location": "Right side",
+    "clinical_history": "Patient presents with sudden onset headache and neurological deficits.",
+    "findings": [
+        "Ventricular system and sulci normal.",
+        "No hemorrhagic transformation observed.",
+        "Adjacent parenchyma shows mild edema.",
+        "Restricted diffusion noted in the Right side region consistent with acute infarct."
+    ],
+    "impression": "Ischemic stroke",
+    "recommendations": "Clinical correlation advised; follow-up MRI may be considered."
+}

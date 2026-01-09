@@ -1,0 +1,10 @@
+{
+    "type": "CT Neck",
+    "location": "Central",
+    "clinical_history": "Patient presents with neck swelling and pain.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Neck abscess",
+    "recommendations": "Recommend consultation with the referring physician for further management."
+}

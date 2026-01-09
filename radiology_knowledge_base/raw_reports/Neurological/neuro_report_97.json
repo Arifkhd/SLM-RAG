@@ -1,0 +1,10 @@
+{
+    "type": "Ultrasound Brain",
+    "location": "ventricular system",
+    "clinical_history": "Infant with macrocephaly.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Brain edema",
+    "recommendations": "Refer to neurologist or neurosurgeon for further management."
+}

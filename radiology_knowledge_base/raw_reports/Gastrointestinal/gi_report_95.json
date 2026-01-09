@@ -1,0 +1,12 @@
+{
+    "type": "Abdominal CT",
+    "location": "Central region",
+    "clinical_history": "History of right lower quadrant tenderness and fever.",
+    "findings": [
+        "No evidence of mass or inflammation.",
+        "Gallbladder wall normal, no pericholecystic fluid.",
+        "Liver and pancreas unremarkable."
+    ],
+    "impression": "Gallstones",
+    "recommendations": "Refer to gastroenterologist for further management."
+}

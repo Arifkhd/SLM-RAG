@@ -1,0 +1,12 @@
+{
+    "type": "MRI",
+    "location": "left adnexa",
+    "clinical_history": "History of previous cesarean section, presenting for scan.",
+    "findings": [
+        "Cortical development abnormal in left adnexa.",
+        "Corpus callosum partially absent.",
+        "No hemorrhage noted."
+    ],
+    "impression": "Fetal brain anomaly",
+    "recommendations": "Refer to obstetrician for clinical correlation and management."
+}

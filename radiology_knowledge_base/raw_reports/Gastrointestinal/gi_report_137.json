@@ -1,0 +1,12 @@
+{
+    "type": "Abdominal MRI",
+    "location": "Peripheral region",
+    "clinical_history": "Patient reports abdominal discomfort and weight loss.",
+    "findings": [
+        "No focal liver lesions detected.",
+        "Liver shows nodular contour and heterogeneous signal.",
+        "Signs of portal hypertension present."
+    ],
+    "impression": "Hepatic cirrhosis",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be considered."
+}

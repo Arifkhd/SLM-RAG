@@ -1,0 +1,15 @@
+{
+    "type": "Renal Ultrasound",
+    "exam_region": "Testes and epididymis",
+    "clinical_history": "Thyroid swelling and suspected nodular disease.",
+    "technique": "Color Doppler and spectral analysis performed where necessary.",
+    "findings": [
+        "Placenta is unremarkable and normally located.",
+        "Breast tissue shows unremarkable lesion measuring 33.41 mm.",
+        "Uterus appears isoechoic; endometrial thickness measures 35.48 mm.",
+        "Right kidney demonstrates mildly thickened, no hydronephrosis.",
+        "Left kidney shows normal, corticomedullary differentiation preserved."
+    ],
+    "impression": "Evidence of obstructive changes.",
+    "recommendations": "Correlate clinically."
+}

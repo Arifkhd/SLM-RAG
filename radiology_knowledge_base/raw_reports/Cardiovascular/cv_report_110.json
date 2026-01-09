@@ -1,0 +1,11 @@
+{
+    "type": "Echocardiogram",
+    "location": "Left atrium",
+    "clinical_history": "Patient reports palpitations and decreased exercise tolerance.",
+    "findings": [
+        "Normal chamber sizes and wall thickness.",
+        "Pericardium is normal with no effusion."
+    ],
+    "impression": "Normal echocardiogram",
+    "recommendations": "Clinical correlation advised; follow-up imaging may be warranted."
+}

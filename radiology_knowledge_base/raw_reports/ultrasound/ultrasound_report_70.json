@@ -1,0 +1,15 @@
+{
+    "type": "Hepatobiliary Ultrasound",
+    "exam_region": "Right upper quadrant",
+    "clinical_history": "Pelvic pain with suspected ovarian pathology.",
+    "technique": "High-resolution linear and curvilinear probes used for detailed evaluation.",
+    "findings": [
+        "Urinary bladder is well-defined, no intraluminal lesions.",
+        "Major vessels show coarse waveform on Doppler.",
+        "Breast tissue shows ill-defined lesion measuring 30.99 mm.",
+        "Thyroid gland shows mildly heterogeneous echotexture; no suspicious nodules.",
+        "Epididymis demonstrates normal features."
+    ],
+    "impression": "Appearance concerning for possible malignancy\u2014correlate clinically.",
+    "recommendations": "Correlate clinically."
+}

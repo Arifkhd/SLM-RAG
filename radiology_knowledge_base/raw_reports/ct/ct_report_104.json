@@ -1,0 +1,12 @@
+{
+    "type": "CT Brain",
+    "location": "Left side",
+    "clinical_history": "Patient has sudden onset headache and confusion.",
+    "findings": [
+        "No mass, consolidation, or abnormal fluid accumulation observed.",
+        "Vascular and bony structures are unremarkable.",
+        "No abnormal lesions or masses noted. Structures appear normal."
+    ],
+    "impression": "Normal CT",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be considered."
+}

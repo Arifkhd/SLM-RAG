@@ -1,0 +1,13 @@
+{
+    "type": "Ultrasound",
+    "location": "right shoulder",
+    "clinical_history": "Patient presents with localized pain and swelling.",
+    "findings": [
+        "Soft tissues normal.",
+        "Fluid accumulation in the right shoulder bursa.",
+        "No adjacent tendon rupture.",
+        "No calcifications observed."
+    ],
+    "impression": "Bursitis",
+    "recommendations": "Refer to orthopedic specialist for management."
+}

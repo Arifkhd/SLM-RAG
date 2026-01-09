@@ -1,0 +1,12 @@
+{
+    "type": "CT Chest",
+    "location": "Right side",
+    "clinical_history": "Complaints of persistent cough and mild dyspnea.",
+    "findings": [
+        "Remaining lung parenchyma appears normal.",
+        "No lymphadenopathy or pleural effusion.",
+        "Vascular structures unaffected."
+    ],
+    "impression": "Lung mass",
+    "recommendations": "Findings should be correlated with patient symptoms and lab results."
+}

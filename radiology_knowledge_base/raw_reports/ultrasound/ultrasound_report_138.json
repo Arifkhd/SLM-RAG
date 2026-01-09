@@ -1,0 +1,16 @@
+{
+    "type": "Obstetric Ultrasound",
+    "exam_region": "Pelvis",
+    "clinical_history": "Scrotal pain and swelling.",
+    "technique": "Real-time gray-scale and color Doppler imaging performed.",
+    "findings": [
+        "Urinary bladder is well-defined, no intraluminal lesions.",
+        "Left ovary demonstrates well-defined morphology.",
+        "Prostate is isoechoic; volume approximately 33.07 cc.",
+        "Left kidney shows mildly thickened, corticomedullary differentiation preserved.",
+        "Thyroid gland shows hypoechoic echotexture; no suspicious nodules.",
+        "Common bile duct measures 3.35 mm, within normal limits."
+    ],
+    "impression": "Suspicious lesion\u2014further evaluation recommended.",
+    "recommendations": "Correlate clinically."
+}

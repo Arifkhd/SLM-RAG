@@ -1,0 +1,12 @@
+{
+    "type": "ECG",
+    "location": "Left ventricle",
+    "clinical_history": "Patient presents with palpitations and dizziness.",
+    "findings": [
+        "Patient may require anticoagulation therapy.",
+        "Irregularly irregular rhythm with absent P waves.",
+        "No acute ST-T changes."
+    ],
+    "impression": "Atrial fibrillation",
+    "recommendations": "Findings should be integrated with clinical assessment and lab results."
+}

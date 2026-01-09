@@ -1,0 +1,13 @@
+{
+    "type": "Whole-body PET-CT",
+    "location": "axillary lymph nodes",
+    "clinical_history": "Patient with thyroid nodule under assessment.",
+    "findings": [
+        "No abnormal FDG uptake in the remaining organs.",
+        "Hypermetabolic lymph nodes noted in axillary lymph nodes, suggestive of malignancy.",
+        "Physiologic brown fat uptake in supraclavicular region.",
+        "Multiple hypermetabolic lesions in bones, suggestive of metastases."
+    ],
+    "impression": "Primary malignancy detected",
+    "recommendations": "Correlate with MRI/CT for precise anatomical localization."
+}

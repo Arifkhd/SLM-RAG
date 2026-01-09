@@ -1,0 +1,13 @@
+{
+    "type": "Abdominal CT",
+    "location": "Tail",
+    "clinical_history": "Patient reports nausea and bloating.",
+    "findings": [
+        "No abnormal lesions observed in the abdominal organs.",
+        "No signs of inflammation or obstruction.",
+        "Liver, spleen, pancreas, kidneys, and bowel appear normal.",
+        "No evidence of free fluid or abnormal masses."
+    ],
+    "impression": "Normal CT",
+    "recommendations": "Further evaluation with lab tests or biopsy may be advised."
+}

@@ -1,0 +1,12 @@
+{
+    "type": "Doppler Ultrasound",
+    "location": "anterior placenta",
+    "clinical_history": "Patient with high-risk pregnancy, under monitoring.",
+    "findings": [
+        "Abdominal circumference and femur length reduced.",
+        "Fetal weight below expected percentile.",
+        "Placenta thin but echotexture normal."
+    ],
+    "impression": "Fetal growth restriction",
+    "recommendations": "Refer to obstetrician for clinical correlation and management."
+}

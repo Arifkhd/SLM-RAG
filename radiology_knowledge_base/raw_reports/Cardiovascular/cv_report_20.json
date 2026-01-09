@@ -1,0 +1,13 @@
+{
+    "type": "Cardiac MRI",
+    "location": "Left ventricle",
+    "clinical_history": "Follow-up imaging after myocardial infarction.",
+    "findings": [
+        "No thrombus detected.",
+        "Late gadolinium enhancement noted in the Left ventricle myocardium indicating infarction.",
+        "Left ventricular size slightly increased.",
+        "Mild regional wall motion abnormality present."
+    ],
+    "impression": "Myocardial infarction",
+    "recommendations": "Repeat study may be considered based on symptoms."
+}

@@ -1,0 +1,11 @@
+{
+    "type": "Chest X-Ray",
+    "location": "Bilateral lungs",
+    "findings": [
+        "Heart size normal.",
+        "Hyperinflated lungs with flattened diaphragms.",
+        "No consolidation or effusion.",
+        "Increased retrosternal air space."
+    ],
+    "impression": "Chronic obstructive pulmonary disease (COPD)"
+}

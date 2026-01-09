@@ -1,0 +1,13 @@
+{
+    "type": "Brain PET-CT",
+    "location": "thyroid",
+    "clinical_history": "Patient under evaluation for metastatic disease.",
+    "findings": [
+        "Mild inflammatory uptake in thyroid region.",
+        "Diffuse uptake in thyroid gland, differential includes thyroiditis or nodular disease.",
+        "Diffuse mild increased uptake in liver, likely benign.",
+        "No abnormal FDG uptake in the remaining organs."
+    ],
+    "impression": "Lymphoma activity",
+    "recommendations": "Biopsy or follow-up imaging may be considered to confirm malignancy."
+}

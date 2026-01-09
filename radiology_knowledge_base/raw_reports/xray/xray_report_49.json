@@ -1,0 +1,15 @@
+{
+    "type": "Chest X-Ray",
+    "location": "Bilateral lungs",
+    "clinical_history": "Patient presents with acute shortness of breath and orthopnea.",
+    "findings": [
+        "No pneumothorax observed.",
+        "Kerley B lines noted at the lung bases.",
+        "Bony thorax intact.",
+        "Mild bilateral pleural effusions present.",
+        "Cardiomegaly evident with increased cardiothoracic ratio.",
+        "Bilateral perihilar alveolar infiltrates consistent with pulmonary edema."
+    ],
+    "impression": "Pulmonary edema",
+    "recommendations": "Clinical correlation advised. Follow-up imaging may be recommended based on the clinical scenario."
+}

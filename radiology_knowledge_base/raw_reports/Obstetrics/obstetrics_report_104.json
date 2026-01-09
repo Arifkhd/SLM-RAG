@@ -1,0 +1,12 @@
+{
+    "type": "Doppler Ultrasound",
+    "location": "fundal region",
+    "clinical_history": "Patient referred for evaluation of suspected malpresentation.",
+    "findings": [
+        "Bilateral uterine artery notching noted.",
+        "No evidence of fetal growth restriction yet.",
+        "Increased resistance detected."
+    ],
+    "impression": "Uterine artery notching",
+    "recommendations": "Follow-up ultrasound recommended in 2 weeks."
+}

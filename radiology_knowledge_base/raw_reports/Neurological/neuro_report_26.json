@@ -1,0 +1,11 @@
+{
+    "type": "MRI Brain",
+    "location": "temporal lobe",
+    "clinical_history": "Patient reports weakness and difficulty speaking.",
+    "findings": [
+        "Brain parenchyma appears normal with no abnormal signal intensity.",
+        "Cerebral sulci and gyri are normal."
+    ],
+    "impression": "Normal MRI",
+    "recommendations": "Repeat study may be indicated depending on clinical evolution."
+}

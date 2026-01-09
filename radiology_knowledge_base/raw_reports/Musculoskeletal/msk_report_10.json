@@ -1,0 +1,10 @@
+{
+    "type": "CT",
+    "location": "ankle joint",
+    "clinical_history": "Patient presents with severe bone pain after trauma.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Osteomyelitis",
+    "recommendations": "Physical therapy may be advised depending on clinical findings."
+}

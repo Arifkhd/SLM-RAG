@@ -1,0 +1,10 @@
+{
+    "type": "CT",
+    "location": "right shoulder",
+    "clinical_history": "Patient reports swelling and deformity.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Calcification",
+    "recommendations": "Physical therapy may be advised depending on clinical findings."
+}

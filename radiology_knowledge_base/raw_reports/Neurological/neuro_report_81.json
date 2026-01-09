@@ -1,0 +1,13 @@
+{
+    "type": "MR Angiography",
+    "location": "parietal lobe",
+    "clinical_history": "Patient with sudden severe headache.",
+    "findings": [
+        "No flow distal to the occlusion.",
+        "Collateral circulation minimal.",
+        "Recommend urgent clinical management.",
+        "Complete occlusion of the parietal lobe artery observed."
+    ],
+    "impression": "Vessel occlusion",
+    "recommendations": "Refer to neurologist or neurosurgeon for further management."
+}

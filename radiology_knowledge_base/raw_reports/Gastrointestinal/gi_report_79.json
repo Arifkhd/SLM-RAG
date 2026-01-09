@@ -1,0 +1,13 @@
+{
+    "type": "Colonoscopy",
+    "location": "Left lobe",
+    "clinical_history": "Patient has chronic diarrhea and rectal bleeding.",
+    "findings": [
+        "Colonic wall thickness normal.",
+        "Mesenteric fat unremarkable.",
+        "Multiple diverticula in the Left lobe colon segment.",
+        "No diverticulitis or perforation observed."
+    ],
+    "impression": "Diverticulosis",
+    "recommendations": "Repeat study may be indicated depending on clinical course."
+}

@@ -1,0 +1,12 @@
+{
+    "type": "Doppler Ultrasound",
+    "location": "fundal region",
+    "clinical_history": "History of previous cesarean section, presenting for scan.",
+    "findings": [
+        "Amniotic fluid mildly decreased.",
+        "Increased resistance in umbilical artery.",
+        "Fetal heart rate normal."
+    ],
+    "impression": "Placental insufficiency",
+    "recommendations": "Immediate intervention may be required depending on clinical evolution."
+}

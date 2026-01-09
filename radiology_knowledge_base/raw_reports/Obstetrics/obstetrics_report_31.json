@@ -1,0 +1,13 @@
+{
+    "type": "Ultrasound",
+    "location": "posterior placenta",
+    "clinical_history": "Patient reports abdominal pain and spotting.",
+    "findings": [
+        "No subchorionic hemorrhage.",
+        "Normal uterine morphology.",
+        "Small gestational sac noted in the uterus.",
+        "Crown-rump length consistent with gestational age."
+    ],
+    "impression": "Early pregnancy",
+    "recommendations": "Monitor amniotic fluid and fetal growth closely."
+}

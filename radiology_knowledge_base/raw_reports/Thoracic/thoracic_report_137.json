@@ -1,0 +1,15 @@
+{
+    "type": "PET-CT Thoracic",
+    "location": "left upper lobe",
+    "clinical_history": "Patient with chronic dyspnea and smoking history.",
+    "findings": [
+        "Thoracic aortic aneurysm measuring 14 mm in diameter.",
+        "Emphysematous changes with hyperlucency in left upper lobe.",
+        "Well-defined nodule measuring 11 mm in left upper lobe.",
+        "Mediastinal widening observed with soft tissue density.",
+        "Collapse of left upper lobe lobe with volume loss.",
+        "Bronchiectatic changes in left upper lobe region."
+    ],
+    "impression": "Pneumothorax",
+    "recommendations": "Clinical correlation advised; refer to pulmonologist."
+}

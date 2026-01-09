@@ -1,0 +1,12 @@
+{
+    "type": "MRI Brain",
+    "location": "occipital lobe",
+    "clinical_history": "History of sudden neurological deficits.",
+    "findings": [
+        "Perilesional edema noted.",
+        "No intracranial hemorrhage outside contusion.",
+        "No midline shift detected."
+    ],
+    "impression": "Traumatic brain injury",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be necessary."
+}

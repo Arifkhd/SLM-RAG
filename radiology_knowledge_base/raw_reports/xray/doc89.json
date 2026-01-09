@@ -1,0 +1,11 @@
+{
+    "type": "Chest X-Ray",
+    "location": "Heart",
+    "findings": [
+        "Heart size significantly enlarged.",
+        "No pleural effusion detected.",
+        "Bony thorax normal.",
+        "Lungs clear without infiltrates."
+    ],
+    "impression": "Cardiomegaly"
+}

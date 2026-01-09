@@ -1,0 +1,15 @@
+{
+    "type": "Renal Ultrasound",
+    "exam_region": "Breast tissue",
+    "clinical_history": "Limb swelling, rule out deep venous thrombosis.",
+    "technique": "Color Doppler and spectral analysis performed where necessary.",
+    "findings": [
+        "No evidence of DVT; veins compressible with normal flow.",
+        "Left ovary demonstrates coarse morphology.",
+        "Fetal cardiac activity present with FHR 24.14 bpm.",
+        "Prostate is mildly heterogeneous; volume approximately 34.87 cc.",
+        "Liver appears hyperechoic with no focal lesions."
+    ],
+    "impression": "Evidence of cystic lesion\u2014likely benign.",
+    "recommendations": "Refer to specialist for further evaluation."
+}

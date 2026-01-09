@@ -1,0 +1,10 @@
+{
+    "type": "CT",
+    "location": "hip joint",
+    "clinical_history": "Patient reports swelling and deformity.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Normal CT",
+    "recommendations": "Physical therapy may be advised depending on clinical findings."
+}

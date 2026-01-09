@@ -1,0 +1,12 @@
+{
+    "type": "EEG",
+    "location": "brainstem",
+    "clinical_history": "Patient reports sudden episodes of loss of consciousness.",
+    "findings": [
+        "No artifacts noted.",
+        "Focal slowing observed.",
+        "Background activity mildly irregular."
+    ],
+    "impression": "Epileptiform activity",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be necessary."
+}

@@ -1,0 +1,12 @@
+{
+    "type": "Ultrasound",
+    "location": "hip joint",
+    "clinical_history": "Patient presents with localized pain and swelling.",
+    "findings": [
+        "Soft tissues normal.",
+        "Bursa wall thickened.",
+        "No adjacent tendon rupture."
+    ],
+    "impression": "Bursitis",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be needed."
+}

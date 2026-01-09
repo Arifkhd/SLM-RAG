@@ -1,0 +1,18 @@
+{
+    "type": "Abdominal Ultrasound",
+    "exam_region": "Knee joint",
+    "clinical_history": "Limb swelling, rule out deep venous thrombosis.",
+    "technique": "Color Doppler and spectral analysis performed where necessary.",
+    "findings": [
+        "Thyroid gland shows mildly heterogeneous echotexture; no suspicious nodules.",
+        "Urinary bladder is unremarkable, no intraluminal lesions.",
+        "Uterus appears well-defined; endometrial thickness measures 5.03 mm.",
+        "Epididymis demonstrates coarse features.",
+        "Placenta is isoechoic and normally located.",
+        "Gallbladder shows well-defined, no stones or wall thickening.",
+        "Testes are enlarged with normal vascularity.",
+        "Prostate is enlarged; volume approximately 26.9 cc."
+    ],
+    "impression": "Suspicious lesion\u2014further evaluation recommended.",
+    "recommendations": "FNAC/biopsy recommended if clinically indicated."
+}

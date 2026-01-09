@@ -1,0 +1,14 @@
+{
+    "type": "Colonoscopy",
+    "location": "Tail",
+    "clinical_history": "Routine screening for colon cancer.",
+    "findings": [
+        "Adjacent lymph nodes may be enlarged.",
+        "Mass lesion noted in the Tail region.",
+        "Irregular borders and heterogeneous enhancement.",
+        "No perforation observed.",
+        "Further biopsy recommended."
+    ],
+    "impression": "Malignancy",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be considered."
+}

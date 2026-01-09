@@ -1,0 +1,12 @@
+{
+    "type": "Ultrasound Abdomen",
+    "location": "Tail",
+    "clinical_history": "Patient presents with abdominal swelling and discomfort.",
+    "findings": [
+        "Mass lesion observed in the Tail region.",
+        "Vascularity within mass noted.",
+        "Further evaluation recommended."
+    ],
+    "impression": "Abdominal mass",
+    "recommendations": "Further evaluation with lab tests or biopsy may be advised."
+}

@@ -1,0 +1,10 @@
+{
+    "type": "MRI",
+    "location": "right shoulder",
+    "clinical_history": "Patient complains of persistent joint pain.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Normal MRI",
+    "recommendations": "Physical therapy may be advised depending on clinical findings."
+}

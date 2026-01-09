@@ -1,0 +1,12 @@
+{
+    "type": "Abdominal CT",
+    "location": "Tail",
+    "clinical_history": "History of right lower quadrant tenderness and fever.",
+    "findings": [
+        "Bile ducts appear normal.",
+        "Liver and pancreas unremarkable.",
+        "Gallbladder wall normal, no pericholecystic fluid."
+    ],
+    "impression": "Gallstones",
+    "recommendations": "Repeat study may be indicated depending on clinical course."
+}

@@ -1,0 +1,10 @@
+{
+    "type": "MRI Abdomen",
+    "location": "Lower lobe",
+    "clinical_history": "Patient reports abdominal mass and weight loss.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Adrenal mass",
+    "recommendations": "Additional imaging or lab tests may be indicated based on patient symptoms."
+}

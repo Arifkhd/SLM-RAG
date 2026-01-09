@@ -1,0 +1,15 @@
+{
+    "type": "Chest X-Ray",
+    "location": "Right lower lobe",
+    "clinical_history": "Patient presents with fever, productive cough, and shortness of breath for 5 days.",
+    "findings": [
+        "Air bronchograms are present within the consolidated region.",
+        "Cardiac silhouette within normal limits.",
+        "Bony thorax unremarkable, no fractures or deformities.",
+        "Adjacent lung fields are otherwise clear with no evidence of collapse.",
+        "Mild pleural reaction noted, no significant effusion.",
+        "Patchy consolidation noted in the affected lobe."
+    ],
+    "impression": "Pneumonia",
+    "recommendations": "Clinical correlation advised. Follow-up imaging may be recommended based on the clinical scenario."
+}

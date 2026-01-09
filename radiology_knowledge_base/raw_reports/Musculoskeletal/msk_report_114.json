@@ -1,0 +1,10 @@
+{
+    "type": "CT",
+    "location": "left shoulder",
+    "clinical_history": "History of suspected fracture or tumor.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Osteomyelitis",
+    "recommendations": "Refer to orthopedic specialist for management."
+}

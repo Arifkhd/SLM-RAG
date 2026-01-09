@@ -1,0 +1,15 @@
+{
+    "type": "Brain PET-CT",
+    "location": "mediastinal lymph nodes",
+    "clinical_history": "Patient with unexplained weight loss and fever.",
+    "findings": [
+        "Focal increased uptake in mediastinal lymph nodes, recommend further correlation with CT morphology.",
+        "Physiologic uptake observed in brain, myocardium, and urinary tract.",
+        "Hypermetabolic lymph nodes noted in mediastinal lymph nodes, suggestive of malignancy.",
+        "Physiologic brown fat uptake in supraclavicular region.",
+        "No abnormal FDG uptake in the remaining organs.",
+        "Multiple hypermetabolic lesions in bones, suggestive of metastases."
+    ],
+    "impression": "Brain hypometabolism",
+    "recommendations": "Refer to oncology or specialist for further management."
+}

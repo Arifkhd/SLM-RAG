@@ -1,0 +1,15 @@
+{
+    "type": "Chest X-ray",
+    "location": "right lower lobe",
+    "clinical_history": "Follow-up imaging for known pulmonary nodule.",
+    "findings": [
+        "Pleural effusion on the right lower lobe side, moderate in size.",
+        "Enlarged lymph nodes in right lower lobe, suggestive of lymphadenopathy.",
+        "Interstitial thickening and reticular pattern in right lower lobe.",
+        "Fibrotic changes with honeycombing in right lower lobe.",
+        "Collapse of right lower lobe lobe with volume loss.",
+        "Pulmonary embolism suspected; filling defect in segmental artery of right lower lobe."
+    ],
+    "impression": "Interstitial lung disease",
+    "recommendations": "Further evaluation with PET-CT recommended if malignancy suspected."
+}

@@ -1,0 +1,13 @@
+{
+    "type": "X-ray",
+    "location": "elbow joint",
+    "clinical_history": "History of trauma to the elbow joint.",
+    "findings": [
+        "Adjacent joints normal.",
+        "Surrounding soft tissues appear normal.",
+        "elbow joint joint dislocated from its normal position.",
+        "No associated fracture identified."
+    ],
+    "impression": "Dislocation",
+    "recommendations": "Refer to orthopedic specialist for management."
+}

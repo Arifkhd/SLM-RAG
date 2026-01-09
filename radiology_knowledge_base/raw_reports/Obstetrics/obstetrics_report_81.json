@@ -1,0 +1,13 @@
+{
+    "type": "MRI",
+    "location": "fundal region",
+    "clinical_history": "Patient reports abdominal pain and spotting.",
+    "findings": [
+        "Cystic lesion noted in the fundal region adnexa.",
+        "Uterus and placenta normal.",
+        "No internal septations.",
+        "Fetal growth appropriate."
+    ],
+    "impression": "Adnexal mass in pregnancy",
+    "recommendations": "Refer to obstetrician for clinical correlation and management."
+}

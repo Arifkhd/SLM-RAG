@@ -1,0 +1,11 @@
+{
+    "type": "EEG",
+    "location": "frontal lobe",
+    "clinical_history": "Patient with recurrent seizures.",
+    "findings": [
+        "Continuous spike-and-wave activity observed.",
+        "No interictal periods detected."
+    ],
+    "impression": "Status epilepticus",
+    "recommendations": "Immediate intervention may be required depending on findings."
+}

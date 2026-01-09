@@ -1,0 +1,16 @@
+{
+    "type": "Obstetric Ultrasound",
+    "exam_region": "Liver and gallbladder",
+    "clinical_history": "Breast lump evaluation.",
+    "technique": "Standard abdominal ultrasound protocol followed.",
+    "findings": [
+        "Epididymis demonstrates smooth-walled features.",
+        "Amniotic fluid index measures 11.45.",
+        "Left kidney shows coarse, corticomedullary differentiation preserved.",
+        "Thyroid gland shows well-defined echotexture; no suspicious nodules.",
+        "Left ovary demonstrates isoechoic morphology.",
+        "Right kidney demonstrates ill-defined, no hydronephrosis."
+    ],
+    "impression": "Findings suggest mild inflammatory changes.",
+    "recommendations": "Refer to specialist for further evaluation."
+}

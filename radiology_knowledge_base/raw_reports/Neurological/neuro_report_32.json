@@ -1,0 +1,12 @@
+{
+    "type": "Ultrasound Brain",
+    "location": "occipital lobe",
+    "clinical_history": "History of prenatal complications.",
+    "findings": [
+        "No hemorrhage detected.",
+        "Ventricular configuration abnormal.",
+        "Abnormal cortical development observed in occipital lobe."
+    ],
+    "impression": "Congenital malformation",
+    "recommendations": "Refer to neurologist or neurosurgeon for further management."
+}

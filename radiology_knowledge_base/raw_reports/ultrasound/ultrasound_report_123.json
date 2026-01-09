@@ -1,0 +1,18 @@
+{
+    "type": "Renal Ultrasound",
+    "exam_region": "Kidneys",
+    "clinical_history": "Limb swelling, rule out deep venous thrombosis.",
+    "technique": "Color Doppler and spectral analysis performed where necessary.",
+    "findings": [
+        "Right ovary shows homogeneous appearance.",
+        "Fetal cardiac activity present with FHR 25.56 bpm.",
+        "Prostate is hyperechoic; volume approximately 28.06 cc.",
+        "Uterus appears mildly heterogeneous; endometrial thickness measures 38.38 mm.",
+        "Soft tissue region demonstrates well-defined without fluid collection.",
+        "Right kidney demonstrates normal, no hydronephrosis.",
+        "Epididymis demonstrates hyperechoic features.",
+        "Breast tissue shows well-defined lesion measuring 9.84 mm."
+    ],
+    "impression": "Findings compatible with early pregnancy.",
+    "recommendations": "FNAC/biopsy recommended if clinically indicated."
+}

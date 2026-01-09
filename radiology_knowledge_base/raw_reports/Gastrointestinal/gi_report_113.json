@@ -1,0 +1,13 @@
+{
+    "type": "Colonoscopy",
+    "location": "Tail",
+    "clinical_history": "Routine screening for colon cancer.",
+    "findings": [
+        "Colonic wall thickness normal.",
+        "No signs of obstruction.",
+        "Mesenteric fat unremarkable.",
+        "Multiple diverticula in the Tail colon segment."
+    ],
+    "impression": "Diverticulosis",
+    "recommendations": "Repeat study may be indicated depending on clinical course."
+}

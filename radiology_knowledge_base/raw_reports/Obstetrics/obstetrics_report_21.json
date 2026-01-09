@@ -1,0 +1,10 @@
+{
+    "type": "MRI",
+    "location": "cervical region",
+    "clinical_history": "Patient with high-risk pregnancy, under monitoring.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Amniotic fluid abnormality",
+    "recommendations": "Follow-up ultrasound recommended in 2 weeks."
+}

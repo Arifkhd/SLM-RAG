@@ -1,0 +1,17 @@
+{
+    "type": "Doppler Vascular Ultrasound",
+    "exam_region": "Urinary bladder",
+    "clinical_history": "Follow-up ultrasound for known liver lesion.",
+    "technique": "Color Doppler and spectral analysis performed where necessary.",
+    "findings": [
+        "Gallbladder shows hyperechoic, no stones or wall thickening.",
+        "Uterus appears hyperechoic; endometrial thickness measures 27.25 mm.",
+        "Left ovary demonstrates coarse morphology.",
+        "Prostate is mildly thickened; volume approximately 29.8 cc.",
+        "Liver appears hypoechoic with no focal lesions.",
+        "Right kidney demonstrates unremarkable, no hydronephrosis.",
+        "Placenta is smooth-walled and normally located."
+    ],
+    "impression": "Evidence of cystic lesion\u2014likely benign.",
+    "recommendations": "Correlate clinically."
+}

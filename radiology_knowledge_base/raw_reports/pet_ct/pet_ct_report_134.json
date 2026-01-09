@@ -1,0 +1,15 @@
+{
+    "type": "Cardiac PET-CT",
+    "location": "right lung upper lobe",
+    "clinical_history": "Patient with neurological deficits referred for brain PET-CT.",
+    "findings": [
+        "Physiologic uptake observed in brain, myocardium, and urinary tract.",
+        "Focal increased uptake in right lung upper lobe, recommend further correlation with CT morphology.",
+        "Diffuse mild increased uptake in liver, likely benign.",
+        "No abnormal activity in lungs or mediastinum.",
+        "Focal hypermetabolic activity noted in right lung upper lobe with SUVmax 4.45.",
+        "Physiologic brown fat uptake in supraclavicular region."
+    ],
+    "impression": "Physiologic uptake",
+    "recommendations": "Correlate with MRI/CT for precise anatomical localization."
+}

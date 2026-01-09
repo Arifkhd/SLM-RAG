@@ -1,0 +1,10 @@
+{
+    "type": "CT Abdomen",
+    "location": "Central",
+    "clinical_history": "Reports bloating and discomfort in the lower abdomen.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Pancreatitis",
+    "recommendations": "Recommend consultation with the referring physician for further management."
+}

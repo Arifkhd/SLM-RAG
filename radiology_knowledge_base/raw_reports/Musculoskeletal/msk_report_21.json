@@ -1,0 +1,12 @@
+{
+    "type": "CT",
+    "location": "right knee",
+    "clinical_history": "History of suspected fracture or tumor.",
+    "findings": [
+        "No pathological fractures.",
+        "Soft tissue extension not observed.",
+        "Recommend further evaluation."
+    ],
+    "impression": "Bone tumor",
+    "recommendations": "Further evaluation or biopsy may be considered if indicated."
+}

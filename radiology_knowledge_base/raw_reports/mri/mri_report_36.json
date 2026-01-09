@@ -1,0 +1,10 @@
+{
+    "type": "MRI Shoulder",
+    "location": "Cervical region",
+    "clinical_history": "Complaints of clicking sound during movement.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Rotator cuff tear",
+    "recommendations": "Findings should be discussed with the referring physician for further management."
+}

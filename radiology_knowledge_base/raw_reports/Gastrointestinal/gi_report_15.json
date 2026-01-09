@@ -1,0 +1,13 @@
+{
+    "type": "Abdominal MRI",
+    "location": "Left lobe",
+    "clinical_history": "History of chronic liver disease.",
+    "findings": [
+        "Vascular structures normal.",
+        "No additional hepatic lesions detected.",
+        "No biliary obstruction.",
+        "Well-circumscribed hyperintense lesion in the Left lobe lobe."
+    ],
+    "impression": "Liver hemangioma",
+    "recommendations": "Refer to gastroenterologist for further management."
+}

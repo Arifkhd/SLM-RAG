@@ -1,0 +1,12 @@
+{
+    "type": "CT Brain",
+    "location": "brainstem",
+    "clinical_history": "Patient presents with confusion and vomiting.",
+    "findings": [
+        "Underlying brain parenchyma normal.",
+        "Ventricles slightly compressed.",
+        "Crescent-shaped hyperdense collection along the brainstem hemisphere."
+    ],
+    "impression": "Subdural hematoma",
+    "recommendations": "Refer to neurologist or neurosurgeon for further management."
+}

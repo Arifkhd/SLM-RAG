@@ -1,0 +1,10 @@
+{
+    "type": "Cardiac CT",
+    "location": "Right ventricle",
+    "clinical_history": "Patient with chest pain and suspected coronary artery disease.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Pulmonary embolism",
+    "recommendations": "Refer to cardiologist for further management."
+}

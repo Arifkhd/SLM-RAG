@@ -1,0 +1,13 @@
+{
+    "type": "MRI",
+    "location": "right adnexa",
+    "clinical_history": "Patient with high-risk pregnancy, under monitoring.",
+    "findings": [
+        "Myelomeningocele suspected.",
+        "Spinal defect observed in right adnexa region.",
+        "No associated limb abnormalities.",
+        "Placenta appears normal."
+    ],
+    "impression": "Fetal spine anomaly",
+    "recommendations": "MRI may be advised for detailed evaluation if necessary."
+}

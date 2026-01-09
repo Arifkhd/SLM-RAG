@@ -1,0 +1,13 @@
+{
+    "type": "CT Chest",
+    "location": "left lower lobe",
+    "clinical_history": "Patient with suspected pulmonary embolism.",
+    "findings": [
+        "Emphysematous changes with hyperlucency in left lower lobe.",
+        "Mediastinal widening observed with soft tissue density.",
+        "Collapse of left lower lobe lobe with volume loss.",
+        "Patchy ground-glass opacities noted in left lower lobe."
+    ],
+    "impression": "Mediastinal mass",
+    "recommendations": "Monitor progression with serial imaging."
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Whole-body PET-CT",
+    "location": "bone marrow",
+    "clinical_history": "Patient with history of known malignancy referred for staging PET-CT.",
+    "findings": [
+        "Diffuse uptake in thyroid gland, differential includes thyroiditis or nodular disease.",
+        "Hypermetabolic lymph nodes noted in bone marrow, suggestive of malignancy.",
+        "No abnormal activity in lungs or mediastinum.",
+        "Diffuse mild increased uptake in liver, likely benign."
+    ],
+    "impression": "Splenic lesion uptake",
+    "recommendations": "Correlate with MRI/CT for precise anatomical localization."
+}

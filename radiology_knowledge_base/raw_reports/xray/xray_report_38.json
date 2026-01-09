@@ -1,0 +1,14 @@
+{
+    "type": "Chest X-Ray",
+    "location": "Left lung",
+    "clinical_history": "History of trauma or spontaneous onset.",
+    "findings": [
+        "Cardiac silhouette normal.",
+        "Air is present in the pleural space of the affected lung.",
+        "No fluid detected.",
+        "Partial collapse of the lung observed with visible lung margin.",
+        "Bony thorax intact with no fractures."
+    ],
+    "impression": "Pneumothorax",
+    "recommendations": "Clinical correlation advised. Follow-up imaging may be recommended based on the clinical scenario."
+}

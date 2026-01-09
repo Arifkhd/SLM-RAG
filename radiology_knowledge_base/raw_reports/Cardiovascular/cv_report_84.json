@@ -1,0 +1,12 @@
+{
+    "type": "Cardiac MRI",
+    "location": "Septal region",
+    "clinical_history": "History of chest pain and shortness of breath.",
+    "findings": [
+        "Left ventricular size slightly increased.",
+        "No thrombus detected.",
+        "Late gadolinium enhancement noted in the Septal region myocardium indicating infarction."
+    ],
+    "impression": "Myocardial infarction",
+    "recommendations": "Findings should be integrated with clinical assessment and lab results."
+}

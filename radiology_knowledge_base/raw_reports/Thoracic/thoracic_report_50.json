@@ -1,0 +1,13 @@
+{
+    "type": "PET-CT Thoracic",
+    "location": "left lower lobe",
+    "clinical_history": "Patient with unexplained weight loss and fatigue.",
+    "findings": [
+        "Mediastinal widening observed with soft tissue density.",
+        "Well-defined nodule measuring 35 mm in left lower lobe.",
+        "Interstitial thickening and reticular pattern in left lower lobe.",
+        "Emphysematous changes with hyperlucency in left lower lobe."
+    ],
+    "impression": "Emphysema",
+    "recommendations": "Immediate intervention may be required depending on severity."
+}

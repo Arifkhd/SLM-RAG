@@ -1,0 +1,10 @@
+{
+    "type": "MRI Shoulder",
+    "location": "Left side",
+    "clinical_history": "Complaints of clicking sound during movement.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Ligament injury",
+    "recommendations": "Findings should be discussed with the referring physician for further management."
+}

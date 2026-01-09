@@ -1,0 +1,13 @@
+{
+    "type": "Chest X-ray",
+    "location": "mediastinum",
+    "clinical_history": "Patient with trauma to thorax.",
+    "findings": [
+        "Pulmonary embolism suspected; filling defect in segmental artery of mediastinum.",
+        "Mediastinal widening observed with soft tissue density.",
+        "Well-defined nodule measuring 20 mm in mediastinum.",
+        "Fibrotic changes with honeycombing in mediastinum."
+    ],
+    "impression": "Emphysema",
+    "recommendations": "Monitor progression with serial imaging."
+}

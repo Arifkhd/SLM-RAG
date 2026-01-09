@@ -1,0 +1,10 @@
+{
+    "type": "MRI Brain",
+    "location": "Bilateral",
+    "clinical_history": "Patient presents with sudden onset headache and neurological deficits.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Meningioma",
+    "recommendations": "Clinical correlation advised; follow-up MRI may be considered."
+}

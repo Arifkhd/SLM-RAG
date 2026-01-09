@@ -1,0 +1,10 @@
+{
+    "type": "Ultrasound Brain",
+    "location": "brainstem",
+    "clinical_history": "History of prenatal complications.",
+    "findings": [
+        "No abnormality detected."
+    ],
+    "impression": "Normal ultrasound",
+    "recommendations": "Refer to neurologist or neurosurgeon for further management."
+}

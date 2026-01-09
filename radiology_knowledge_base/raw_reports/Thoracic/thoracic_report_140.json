@@ -1,0 +1,13 @@
+{
+    "type": "PET-CT Thoracic",
+    "location": "apex",
+    "clinical_history": "History of recurrent respiratory infections.",
+    "findings": [
+        "Fibrotic changes with honeycombing in apex.",
+        "Pulmonary edema with perihilar haze in apex.",
+        "Pulmonary embolism suspected; filling defect in segmental artery of apex.",
+        "Enlarged lymph nodes in apex, suggestive of lymphadenopathy."
+    ],
+    "impression": "Pulmonary fibrosis",
+    "recommendations": "Consider CT or HRCT for detailed evaluation."
+}

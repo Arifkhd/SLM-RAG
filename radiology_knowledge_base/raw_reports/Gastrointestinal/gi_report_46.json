@@ -1,0 +1,13 @@
+{
+    "type": "Ultrasound Abdomen",
+    "location": "Head",
+    "clinical_history": "History of jaundice and altered liver function tests.",
+    "findings": [
+        "Minimal/moderate in amount.",
+        "No loculations observed.",
+        "No signs of infection or mass.",
+        "Organs appear normal."
+    ],
+    "impression": "Ascites",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be considered."
+}

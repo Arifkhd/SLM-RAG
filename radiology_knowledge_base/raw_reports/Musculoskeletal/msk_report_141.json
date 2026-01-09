@@ -1,0 +1,12 @@
+{
+    "type": "Ultrasound",
+    "location": "left shoulder",
+    "clinical_history": "History of tendon or muscle injury.",
+    "findings": [
+        "Fluid accumulation in the left shoulder bursa.",
+        "Bursa wall thickened.",
+        "No adjacent tendon rupture."
+    ],
+    "impression": "Bursitis",
+    "recommendations": "Further evaluation or biopsy may be considered if indicated."
+}

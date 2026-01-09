@@ -1,0 +1,11 @@
+{
+    "type": "MRI Abdomen",
+    "location": "Cervical region",
+    "clinical_history": "Patient reports abdominal mass and weight loss.",
+    "findings": [
+        "No evidence of hemorrhage, infarction, or mass effect.",
+        "Adjacent soft tissues and bony structures are unremarkable."
+    ],
+    "impression": "Normal MRI",
+    "recommendations": "Additional imaging or lab tests may be indicated based on patient symptoms."
+}

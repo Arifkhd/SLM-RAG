@@ -1,0 +1,15 @@
+{
+    "type": "Cardiac PET-CT",
+    "location": "left lung lower lobe",
+    "clinical_history": "Patient with persistent infection and fever of unknown origin.",
+    "findings": [
+        "Focal hypermetabolic activity noted in left lung lower lobe with SUVmax 12.56.",
+        "Diffuse uptake in thyroid gland, differential includes thyroiditis or nodular disease.",
+        "Focal increased uptake in left lung lower lobe, recommend further correlation with CT morphology.",
+        "No abnormal FDG uptake in the remaining organs.",
+        "Focal uptake in left lung lower lobe consistent with post-surgical changes.",
+        "No abnormal activity in lungs or mediastinum."
+    ],
+    "impression": "Liver lesion uptake",
+    "recommendations": "Consider lab tests to assess metabolic activity if indicated."
+}

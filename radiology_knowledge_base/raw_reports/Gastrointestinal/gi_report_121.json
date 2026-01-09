@@ -1,0 +1,12 @@
+{
+    "type": "Abdominal MRI",
+    "location": "Central region",
+    "clinical_history": "History of chronic liver disease.",
+    "findings": [
+        "No obstruction detected.",
+        "Mucosal enhancement noted after contrast.",
+        "No abscess or fistula identified."
+    ],
+    "impression": "Inflammatory bowel disease",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be considered."
+}

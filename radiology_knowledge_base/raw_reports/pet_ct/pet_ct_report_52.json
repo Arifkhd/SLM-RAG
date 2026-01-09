@@ -1,0 +1,14 @@
+{
+    "type": "PET-CT for oncology",
+    "location": "thyroid",
+    "clinical_history": "Patient with suspected cardiac sarcoidosis.",
+    "findings": [
+        "Diffuse uptake in thyroid gland, differential includes thyroiditis or nodular disease.",
+        "Diffuse mild increased uptake in liver, likely benign.",
+        "No abnormal FDG uptake in the remaining organs.",
+        "Focal uptake in thyroid consistent with post-surgical changes.",
+        "Physiologic uptake observed in brain, myocardium, and urinary tract."
+    ],
+    "impression": "Post-surgical changes",
+    "recommendations": "Consider lab tests to assess metabolic activity if indicated."
+}

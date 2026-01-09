@@ -1,0 +1,13 @@
+{
+    "type": "Abdominal MRI",
+    "location": "Peripheral region",
+    "clinical_history": "Patient under evaluation for abdominal mass.",
+    "findings": [
+        "No focal liver lesions detected.",
+        "Ascites minimal or absent.",
+        "Signs of portal hypertension present.",
+        "Splenomegaly noted."
+    ],
+    "impression": "Hepatic cirrhosis",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be considered."
+}

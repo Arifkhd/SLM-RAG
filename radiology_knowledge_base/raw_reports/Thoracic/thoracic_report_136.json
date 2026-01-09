@@ -1,0 +1,13 @@
+{
+    "type": "Chest X-ray",
+    "location": "pleural space",
+    "clinical_history": "Patient with suspected pulmonary embolism.",
+    "findings": [
+        "Collapse of pleural space lobe with volume loss.",
+        "Focal consolidation in pleural space with air bronchogram.",
+        "Interstitial thickening and reticular pattern in pleural space.",
+        "Pleural effusion on the pleural space side, moderate in size."
+    ],
+    "impression": "Atelectasis",
+    "recommendations": "Immediate intervention may be required depending on severity."
+}

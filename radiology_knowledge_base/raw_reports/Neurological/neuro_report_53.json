@@ -1,0 +1,13 @@
+{
+    "type": "MRI Brain",
+    "location": "brainstem",
+    "clinical_history": "Patient reports weakness and difficulty speaking.",
+    "findings": [
+        "Ventricles slightly compressed.",
+        "Acute hemorrhage noted in the brainstem lobe.",
+        "No additional lesions detected.",
+        "Surrounding edema present."
+    ],
+    "impression": "Hemorrhagic stroke",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be necessary."
+}

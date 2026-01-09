@@ -1,0 +1,14 @@
+{
+    "type": "CT Chest",
+    "location": "pleural space",
+    "clinical_history": "Patient with chronic dyspnea and smoking history.",
+    "findings": [
+        "Emphysematous changes with hyperlucency in pleural space.",
+        "Fibrotic changes with honeycombing in pleural space.",
+        "Enlarged lymph nodes in pleural space, suggestive of lymphadenopathy.",
+        "Pulmonary embolism suspected; filling defect in segmental artery of pleural space.",
+        "Small pneumothorax on the pleural space side."
+    ],
+    "impression": "Normal thoracic imaging",
+    "recommendations": "Follow-up imaging recommended in 4\u20136 weeks."
+}

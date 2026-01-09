@@ -1,0 +1,14 @@
+{
+    "type": "PET-CT for infection",
+    "location": "pelvis",
+    "clinical_history": "Follow-up PET-CT after chemotherapy to assess treatment response.",
+    "findings": [
+        "Focal increased uptake in pelvis, recommend further correlation with CT morphology.",
+        "Hypermetabolic lymph nodes noted in pelvis, suggestive of malignancy.",
+        "Multiple hypermetabolic lesions in bones, suggestive of metastases.",
+        "Physiologic brown fat uptake in supraclavicular region.",
+        "Physiologic uptake observed in brain, myocardium, and urinary tract."
+    ],
+    "impression": "Post-surgical changes",
+    "recommendations": "Correlate with MRI/CT for precise anatomical localization."
+}

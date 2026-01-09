@@ -1,0 +1,13 @@
+{
+    "type": "PET-CT for oncology",
+    "location": "bone marrow",
+    "clinical_history": "Patient with neurological deficits referred for brain PET-CT.",
+    "findings": [
+        "Diffuse mild increased uptake in liver, likely benign.",
+        "Multiple hypermetabolic lesions in bones, suggestive of metastases.",
+        "Hypermetabolic lymph nodes noted in bone marrow, suggestive of malignancy.",
+        "Physiologic brown fat uptake in supraclavicular region."
+    ],
+    "impression": "Cardiac sarcoidosis",
+    "recommendations": "Consider lab tests to assess metabolic activity if indicated."
+}

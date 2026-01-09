@@ -1,0 +1,13 @@
+{
+    "type": "Brain PET-CT",
+    "location": "bone marrow",
+    "clinical_history": "Patient with suspected cardiac sarcoidosis.",
+    "findings": [
+        "Multiple hypermetabolic lesions in bones, suggestive of metastases.",
+        "No abnormal FDG uptake in the remaining organs.",
+        "Physiologic brown fat uptake in supraclavicular region.",
+        "Diffuse mild increased uptake in liver, likely benign."
+    ],
+    "impression": "Post-surgical changes",
+    "recommendations": "Consider lab tests to assess metabolic activity if indicated."
+}

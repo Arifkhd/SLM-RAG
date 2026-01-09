@@ -1,0 +1,13 @@
+{
+    "type": "MR Angiography",
+    "location": "basal ganglia",
+    "clinical_history": "History of suspected aneurysm or vascular malformation.",
+    "findings": [
+        "Collateral circulation minimal.",
+        "Recommend urgent clinical management.",
+        "Adjacent vessels unremarkable.",
+        "No flow distal to the occlusion."
+    ],
+    "impression": "Vessel occlusion",
+    "recommendations": "Repeat study may be indicated depending on clinical evolution."
+}

@@ -1,0 +1,16 @@
+{
+    "type": "Scrotal Ultrasound",
+    "exam_region": "Left upper quadrant",
+    "clinical_history": "Urinary difficulty and suspected prostate enlargement.",
+    "technique": "Standard abdominal ultrasound protocol followed.",
+    "findings": [
+        "Amniotic fluid index measures 11.28.",
+        "Thyroid gland shows smooth-walled echotexture; no suspicious nodules.",
+        "Major vessels show mildly thickened waveform on Doppler.",
+        "Fetal cardiac activity present with FHR 26.08 bpm.",
+        "Common bile duct measures 17.51 mm, within normal limits.",
+        "Gallbladder shows isoechoic, no stones or wall thickening."
+    ],
+    "impression": "Suspicious lesion\u2014further evaluation recommended.",
+    "recommendations": "Routine follow-up advised."
+}

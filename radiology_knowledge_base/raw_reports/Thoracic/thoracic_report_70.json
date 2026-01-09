@@ -1,0 +1,13 @@
+{
+    "type": "HRCT Chest",
+    "location": "left lower lobe",
+    "clinical_history": "Patient with chronic dyspnea and smoking history.",
+    "findings": [
+        "Focal consolidation in left lower lobe with air bronchogram.",
+        "Emphysematous changes with hyperlucency in left lower lobe.",
+        "Mediastinal widening observed with soft tissue density.",
+        "Thoracic aortic aneurysm measuring 14 mm in diameter."
+    ],
+    "impression": "Emphysema",
+    "recommendations": "Clinical correlation advised; refer to pulmonologist."
+}

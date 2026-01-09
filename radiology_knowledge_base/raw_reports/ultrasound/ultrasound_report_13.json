@@ -1,0 +1,18 @@
+{
+    "type": "Doppler Vascular Ultrasound",
+    "exam_region": "Left upper quadrant",
+    "clinical_history": "Follow-up ultrasound for known liver lesion.",
+    "technique": "Real-time gray-scale and color Doppler imaging performed.",
+    "findings": [
+        "Gallbladder shows hyperechoic, no stones or wall thickening.",
+        "Major vessels show hypoechoic waveform on Doppler.",
+        "Breast tissue shows enlarged lesion measuring 39.09 mm.",
+        "Left kidney shows mildly thickened, corticomedullary differentiation preserved.",
+        "Uterus appears mildly thickened; endometrial thickness measures 7.92 mm.",
+        "Soft tissue region demonstrates coarse without fluid collection.",
+        "Right ovary shows ill-defined appearance.",
+        "Thyroid gland shows normal echotexture; no suspicious nodules."
+    ],
+    "impression": "Appearance consistent with benign etiology.",
+    "recommendations": "Routine follow-up advised."
+}

@@ -1,0 +1,12 @@
+{
+    "type": "Abdominal MRI",
+    "location": "Left lobe",
+    "clinical_history": "Patient under evaluation for abdominal mass.",
+    "findings": [
+        "Ascites minimal or absent.",
+        "Liver shows nodular contour and heterogeneous signal.",
+        "Splenomegaly noted."
+    ],
+    "impression": "Hepatic cirrhosis",
+    "recommendations": "Repeat study may be indicated depending on clinical course."
+}

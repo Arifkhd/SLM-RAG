@@ -1,0 +1,15 @@
+{
+    "type": "Chest X-ray",
+    "location": "mediastinum",
+    "clinical_history": "Patient with trauma to thorax.",
+    "findings": [
+        "Collapse of mediastinum lobe with volume loss.",
+        "Bronchiectatic changes in mediastinum region.",
+        "Interstitial thickening and reticular pattern in mediastinum.",
+        "Thoracic aortic aneurysm measuring 40 mm in diameter.",
+        "Pulmonary embolism suspected; filling defect in segmental artery of mediastinum.",
+        "Emphysematous changes with hyperlucency in mediastinum."
+    ],
+    "impression": "Lymphadenopathy",
+    "recommendations": "Monitor progression with serial imaging."
+}

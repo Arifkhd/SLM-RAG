@@ -1,0 +1,16 @@
+{
+    "type": "Renal Ultrasound",
+    "exam_region": "Knee joint",
+    "clinical_history": "Soft tissue swelling after trauma.",
+    "technique": "Color Doppler and spectral analysis performed where necessary.",
+    "findings": [
+        "No evidence of DVT; veins compressible with normal flow.",
+        "Amniotic fluid index measures 12.25.",
+        "Uterus appears coarse; endometrial thickness measures 25.54 mm.",
+        "Liver appears well-defined with no focal lesions.",
+        "Soft tissue region demonstrates unremarkable without fluid collection.",
+        "Breast tissue shows smooth-walled lesion measuring 28.98 mm."
+    ],
+    "impression": "Appearance concerning for possible malignancy\u2014correlate clinically.",
+    "recommendations": "Consider follow-up ultrasound in 6\u20138 weeks."
+}

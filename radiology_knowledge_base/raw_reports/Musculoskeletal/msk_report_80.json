@@ -1,0 +1,12 @@
+{
+    "type": "X-ray",
+    "location": "tibia",
+    "clinical_history": "History of trauma to the tibia.",
+    "findings": [
+        "No abnormal calcifications detected.",
+        "Adjacent joints normal.",
+        "tibia joint dislocated from its normal position."
+    ],
+    "impression": "Dislocation",
+    "recommendations": "Clinical correlation recommended; follow-up imaging may be needed."
+}

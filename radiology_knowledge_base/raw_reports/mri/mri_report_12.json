@@ -1,0 +1,10 @@
+{
+    "type": "MRI Abdomen",
+    "location": "Cervical region",
+    "clinical_history": "Patient has abdominal pain and bloating.",
+    "findings": [
+        "No significant abnormality detected."
+    ],
+    "impression": "Abdominal abscess",
+    "recommendations": "Recommend monitoring and follow-up based on clinical scenario."
+}
