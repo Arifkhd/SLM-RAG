@@ -1,0 +1,103 @@
+/* --- Reset & base --- */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f5f7fa;
+    color: #333;
+}
+
+/* --- Header --- */
+header {
+    background-color: #1f2937; /* Dark gray */
+    color: white;
+    padding: 40px 0;
+    text-align: center;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.2rem;
+    color: #cbd5e1;
+}
+
+/* --- Main --- */
+main {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 0 20px;
+}
+
+/* --- Card --- */
+.card {
+    background-color: #fff;
+    padding: 25px 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    margin-bottom: 30px;
+}
+
+.card h2 {
+    margin-bottom: 20px;
+    color: #111827;
+}
+
+/* --- Upload Section --- */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+input[type="file"] {
+    padding: 10px;
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+}
+
+button {
+    padding: 12px;
+    background-color: #3b82f6; /* Blue */
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+button:hover {
+    background-color: #2563eb; /* Darker blue */
+}
+
+/* --- Output Box --- */
+.output-box {
+    background-color: #f9fafb;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #e5e7eb;
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.output-box pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+/* --- Footer --- */
+footer {
+    text-align: center;
+    padding: 20px 0;
+    color: #6b7280;
+    font-size: 0.9rem;
+}

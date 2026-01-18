@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Radiology AI Assistant</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <h1>🧠 Radiology AI Assistant</h1>
+            <p>Summarize your radiology reports quickly and efficiently</p>
+        </div>
+    </header>
+
+    <main>
+        <section class="upload-section">
+            <div class="card">
+                <h2>Upload Report</h2>
+                <form method="POST" enctype="multipart/form-data">
+                    <input type="file" name="file" accept=".pdf, .png, .jpg, .jpeg" required>
+                    <button type="submit">Upload & Summarize</button>
+                </form>
+            </div>
+        </section>
+
+        {% if extracted_text %}
+        <section class="output-section">
+            <div class="card">
+                <h2>📄 Extracted Text</h2>
+                <div class="output-box">
+                    <p>{{ extracted_text }}</p>
+                </div>
+            </div>
+        </section>
+        {% endif %}
+
+        {% if summary %}
+        <section class="output-section">
+            <div class="card">
+                <h2>📝 Point-wise Summary</h2>
+                <div class="output-box">
+                    <pre>{{ summary }}</pre>
+                </div>
+            </div>
+        </section>
+        {% endif %}
+    </main>
+
+    <footer>
+        <p>⚠️ This system is for decision support only. Not a medical diagnosis.</p>
+    </footer>
+</body>
+</html>
