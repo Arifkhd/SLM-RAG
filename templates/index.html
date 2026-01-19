@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MediBrief AI</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="header">
+    <div class="container header-flex">
+        <div class="logo">🩺 MediBrief AI</div>
+        <nav class="nav">
+            <a href="#">Home</a>
+            <a href="#">Summarizer</a>
+            <a href="#">About</a>
+        </nav>
+    </div>
+</header>
+
+<!-- MAIN -->
+<main class="main">
+    <div class="chat-container">
+
+        <!-- AI INTRO MESSAGE -->
+        <div class="chat-message ai">
+            <p>
+                Hello 👋<br>
+                Upload your medical report (PDF or Image) and I’ll generate a clear, structured summary.
+            </p>
+        </div>
+
+        {% if summary %}
+            <!-- USER MESSAGE -->
+            <div class="chat-message user">
+                <p>Summarize my medical report</p>
+            </div>
+
+            <!-- AI SUMMARY -->
+            <div class="chat-message ai">
+    <strong>Summary:</strong>
+    <ul class="summary-list">
+        {% for line in summary.split('\n') %}
+            {% if line.strip() %}
+                <li>{{ line }}</li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</div>
+
+        {% endif %}
+
+        <!-- UPLOAD FORM -->
+        <form class="input-area" method="POST" enctype="multipart/form-data">
+            <label class="upload-box">
+                📄 Upload Report
+                <input type="file" name="file" accept=".pdf,.png,.jpg,.jpeg" required hidden>
+            </label>
+
+            <button type="submit" class="send-btn">Summarize</button>
+        </form>
+
+    </div>
+</main>
+
+<!-- FOOTER -->
+<footer class="footer">
+    <div class="container footer-flex">
+        <p>© 2026 MediBrief AI</p>
+        <p>AI-powered Medical Report Summarization</p>
+    </div>
+</footer>
+
+</body>
+</html>
