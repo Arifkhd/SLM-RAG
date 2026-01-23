@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Report Summarizer - MediQ</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-gray-50 font-sans">
+
+  <header class="flex justify-between items-center p-6 bg-white shadow-md">
+    <a href="/" class="text-gray-600 hover:text-blue-600">&larr; Back to Home</a>
+    <div class="text-xl font-bold text-blue-600">Report Summarizer</div>
+    <div></div>
+  </header>
+
+  <section class="max-w-5xl mx-auto mt-10 p-6 bg-white rounded-xl shadow-md">
+    <h2 class="text-3xl font-extrabold text-gray-900 mb-6 flex items-center gap-3">
+      <span class="text-blue-600">⬆</span> Upload Medical Report
+    </h2>
+
+    <form method="POST" action="/report-summarizer" enctype="multipart/form-data" class="w-full">
+      <div class="flex flex-col items-center justify-center border-2 border-dashed border-gray-300 rounded-xl w-full p-12 hover:border-blue-500 transition">
+        <input id="report_file" type="file" name="report_file" accept=".pdf,.jpg,.jpeg,.png"
+               class="mb-6 block w-full max-w-xs text-sm text-gray-700
+                      file:mr-4 file:py-2 file:px-4 file:rounded-lg
+                      file:border-0 file:text-sm file:font-semibold
+                      file:bg-blue-600 file:text-white hover:file:bg-blue-700"/>
+
+        <div class="flex gap-4">
+          <button type="submit"
+                  class="px-10 py-3 bg-blue-500 text-white rounded-xl hover:bg-blue-600 transition font-semibold">
+            ✨ Analyze Report
+          </button>
+          <button type="submit" name="reset" value="1"
+                  class="px-10 py-3 bg-gray-200 text-gray-800 rounded-xl hover:bg-gray-300 transition font-semibold">
+            🔄 Reset
+          </button>
+        </div>
+      </div>
+    </form>
+  </section>
+
+  {% if extracted_text %}
+  <section class="max-w-6xl mx-auto mt-10 grid md:grid-cols-2 gap-6 pb-12">
+
+    <div class="bg-white p-6 rounded-xl shadow-md">
+      <h3 class="text-2xl font-bold text-gray-900 mb-4">📄 Extracted Text</h3>
+      <div class="h-[520px] overflow-y-auto border rounded-lg p-4 bg-gray-50">
+        <pre class="whitespace-pre-wrap text-gray-800 text-sm">{{ extracted_text }}</pre>
+      </div>
+    </div>
+
+    <div class="bg-white p-6 rounded-xl shadow-md">
+      <h3 class="text-2xl font-bold text-gray-900 mb-4">✨ AI Summary</h3>
+      <div class="h-[520px] overflow-y-auto border rounded-lg p-4 bg-blue-50">
+        <ul class="list-disc list-inside text-gray-900">
+          {% for point in summary %}
+            <li class="mb-3">{{ point }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+  </section>
+  {% endif %}
+
+</body>
+</html>

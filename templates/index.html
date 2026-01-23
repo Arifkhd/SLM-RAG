@@ -1,77 +1,243 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>MediBrief AI</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MediQ</title>
+  <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body>
+<body class="bg-gradient-to-b from-blue-50 to-white font-sans">
 
-<!-- HEADER -->
-<header class="header">
-    <div class="container header-flex">
-        <div class="logo">🩺 MediBrief AI</div>
-        <nav class="nav">
-            <a href="#">Home</a>
-            <a href="#">Summarizer</a>
-            <a href="#">About</a>
-        </nav>
+  <!-- Header -->
+<header class="flex justify-between items-center p-6 bg-white shadow-md">
+
+    <!-- Left: Logo + Text -->
+    <div class="flex items-center gap-3">
+      
+      <!-- Logo -->
+      <div class="w-11 h-11 rounded-xl bg-gradient-to-br from-blue-500 to-blue-700 
+                  flex items-center justify-center shadow">
+        <!-- Stethoscope SVG Icon -->
+        <svg xmlns="http://www.w3.org/2000/svg"
+            class="w-6 h-6 text-white"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+            stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round"
+                d="M4 5v3a4 4 0 004 4h1m6-7v3a4 4 0 01-4 4h-1m6 0a4 4 0 11-8 0m8 0v1a3 3 0 01-3 3h-2a3 3 0 01-3-3v-1" />
+        </svg>
+      </div>
+
+      <!-- Text -->
+      <div>
+        <h1 class="text-xl font-extrabold text-blue-600 leading-tight">
+          MediQ
+        </h1>
+        <p class="text-sm text-gray-500 leading-none">
+          Medical Intelligence System
+        </p>
+      </div>
     </div>
-</header>
 
-<!-- MAIN -->
-<main class="main">
-    <div class="chat-container">
+    <!-- Right: Auth / User -->
+    <div class="flex items-center gap-3">
 
-        <!-- AI INTRO MESSAGE -->
-        <div class="chat-message ai">
-            <p>
-                Hello 👋<br>
-                Upload your medical report (PDF or Image) and I’ll generate a clear, structured summary.
-            </p>
-        </div>
-
-        {% if summary %}
-            <!-- USER MESSAGE -->
-            <div class="chat-message user">
-                <p>Summarize my medical report</p>
+      {% if user %}
+        <!-- User Dropdown -->
+        <div class="relative group">
+          <button class="flex items-center gap-2 px-4 py-2 bg-gray-100 rounded-full hover:bg-gray-200 transition">
+            
+            <!-- User Icon -->
+            <div class="w-8 h-8 rounded-full bg-blue-600 flex items-center justify-center text-white font-bold">
+              {{ user.name[0]|upper }}
             </div>
 
-            <!-- AI SUMMARY -->
-            <div class="chat-message ai">
-    <strong>Summary:</strong>
-    <ul class="summary-list">
-        {% for line in summary.split('\n') %}
-            {% if line.strip() %}
-                <li>{{ line }}</li>
-            {% endif %}
-        {% endfor %}
-    </ul>
-</div>
+            <!-- User Name -->
+            <span class="font-semibold text-gray-700">
+              {{ user.name }}
+            </span>
 
-        {% endif %}
+            <!-- Chevron -->
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 text-gray-500"
+                fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                    d="M19 9l-7 7-7-7" />
+            </svg>
+          </button>
 
-        <!-- UPLOAD FORM -->
-        <form class="input-area" method="POST" enctype="multipart/form-data">
-            <label class="upload-box">
-                📄 Upload Report
-                <input type="file" name="file" accept=".pdf,.png,.jpg,.jpeg" required hidden>
-            </label>
+          <!-- Dropdown Menu -->
+          <div class="absolute right-0 mt-2 w-44 bg-white rounded-xl shadow-lg border
+                      opacity-0 invisible group-hover:opacity-100 group-hover:visible transition">
+            <a href="/logout"
+              class="block px-4 py-3 text-sm text-red-600 hover:bg-red-50 rounded-xl">
+              🚪 Logout
+            </a>
+          </div>
+        </div>
 
-            <button type="submit" class="send-btn">Summarize</button>
-        </form>
+      {% else %}
+        <!-- Sign Up + Sign In -->
+        <a href="/signup"
+          class="px-5 py-2 bg-white border rounded-lg hover:bg-gray-50 transition font-semibold text-gray-700">
+          Sign Up
+        </a>
+
+        <a href="/signin"
+          class="px-5 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition font-semibold">
+          Sign In
+        </a>
+      {% endif %}
 
     </div>
-</main>
 
-<!-- FOOTER -->
-<footer class="footer">
-    <div class="container footer-flex">
-        <p>© 2026 MediBrief AI</p>
-        <p>AI-powered Medical Report Summarization</p>
+  </header>
+
+
+  <!-- Hero Section -->
+  <section class="text-center py-20 px-6">
+    <div class="max-w-3xl mx-auto">
+      <span class="text-sm text-blue-400 bg-blue-100 px-3 py-1 rounded-full inline-block mb-4">
+        🧠 AI-Powered Medical Document Analysis
+      </span>
+      <h1 class="text-4xl md:text-5xl font-extrabold text-gray-900 mb-6">
+        Transform Medical Reports <br> <span class="text-blue-600">Into Clear Insights</span>
+      </h1>
+      <p class="text-gray-600 text-lg mb-8">
+        Upload medical documents and get instant AI-powered summaries. Ask questions and receive intelligent answers powered by advanced medical knowledge.
+      </p>
     </div>
-</footer>
+  </section>
+
+  <!-- Feature Cards Section -->
+  <!-- Feature Cards Section -->
+<section class="py-20 px-6 bg-white">
+  <div class="max-w-6xl mx-auto grid md:grid-cols-2 gap-10">
+
+    <!-- Report Summarizer Card -->
+    <a href="/report-summarizer"
+       class="group relative bg-white rounded-2xl p-10 shadow-md border border-transparent
+              hover:border-blue-400 hover:shadow-2xl transition-all duration-300
+              hover:-translate-y-1">
+
+      <!-- Icon -->
+      <div class="w-16 h-16 rounded-xl bg-gradient-to-br from-blue-500 to-blue-700
+                  flex items-center justify-center shadow-lg mb-6">
+        <!-- Message / Document Icon -->
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8 text-white" fill="none"
+             viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round"
+                d="M7 8h10M7 12h6m-6 4h8M5 3h14a2 2 0 012 2v14l-4-4H5a2 2 0 01-2-2V5a2 2 0 012-2z"/>
+        </svg>
+      </div>
+
+      <h2 class="text-2xl font-bold text-gray-900 mb-3">
+        Report Summarizer
+      </h2>
+
+      <p class="text-gray-600 text-lg mb-8">
+        Upload medical reports in PDF or image format. Our AI extracts, analyzes,
+        and generates comprehensive point-wise summaries instantly using advanced
+        medical knowledge.
+      </p>
+
+      <span class="inline-flex items-center text-blue-600 font-semibold text-lg
+                   group-hover:gap-2 transition-all">
+        Start Analyzing
+        <svg xmlns="http://www.w3.org/2000/svg"
+             class="w-5 h-5 ml-1 transition-transform group-hover:translate-x-1"
+             fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
+        </svg>
+      </span>
+
+      <!-- Decorative corner -->
+      <div class="absolute top-0 right-0 w-24 h-24 bg-blue-50 rounded-bl-full"></div>
+    </a>
+
+    <!-- Medical Q&A Card -->
+    <a href="/medical-qa"
+       class="group relative bg-white rounded-2xl p-10 shadow-md border border-transparent
+              hover:border-purple-400 hover:shadow-2xl transition-all duration-300
+              hover:-translate-y-1">
+
+      <!-- Icon -->
+      <div class="w-16 h-16 rounded-xl bg-gradient-to-br from-purple-500 to-purple-700
+                  flex items-center justify-center shadow-lg mb-6">
+        <!-- Message Icon -->
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8 text-white" fill="none"
+             viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round"
+                d="M8 10h8m-8 4h6m6 6l-4-4H6a2 2 0 01-2-2V6a2 2 0 012-2h12a2 2 0 012 2v12a2 2 0 01-2 2z"/>
+        </svg>
+      </div>
+
+      <h2 class="text-2xl font-bold text-gray-900 mb-3">
+        Medical Q&amp;A
+      </h2>
+
+      <p class="text-gray-600 text-lg mb-8">
+        Ask medical questions and get AI-powered answers grounded in medical
+        literature. Perfect for understanding complex terminology and
+        clinical findings.
+      </p>
+
+      <span class="inline-flex items-center text-purple-600 font-semibold text-lg
+                   group-hover:gap-2 transition-all">
+        Ask Questions
+        <svg xmlns="http://www.w3.org/2000/svg"
+             class="w-5 h-5 ml-1 transition-transform group-hover:translate-x-1"
+             fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
+        </svg>
+      </span>
+
+      <!-- Decorative corner -->
+      <div class="absolute top-0 right-0 w-24 h-24 bg-purple-50 rounded-bl-full"></div>
+    </a>
+
+  </div>
+</section>
+
+
+  <!-- Benefits Section -->
+  <section class="py-20 px-6 bg-blue-50">
+    <div class="max-w-6xl mx-auto grid md:grid-cols-3 gap-12 text-center">
+      <div class="p-6">
+        <div class="bg-green-100 rounded-full w-16 h-16 mx-auto flex items-center justify-center mb-4">
+          <span class="text-green-600 text-2xl">✔️</span>
+        </div>
+        <h3 class="font-bold text-lg mb-2">Medical Accuracy</h3>
+        <p class="text-gray-600">
+          AI trained on extensive medical corpus for precise document analysis
+        </p>
+      </div>
+      <div class="p-6">
+        <div class="bg-purple-100 rounded-full w-16 h-16 mx-auto flex items-center justify-center mb-4">
+          <span class="text-purple-600 text-2xl">🛡️</span>
+        </div>
+        <h3 class="font-bold text-lg mb-2">Secure & Private</h3>
+        <p class="text-gray-600">
+          Your medical data is encrypted and handled with utmost security
+        </p>
+      </div>
+      <div class="p-6">
+        <div class="bg-yellow-100 rounded-full w-16 h-16 mx-auto flex items-center justify-center mb-4">
+          <span class="text-yellow-600 text-2xl">⚡</span>
+        </div>
+        <h3 class="font-bold text-lg mb-2">Instant Analysis</h3>
+        <p class="text-gray-600">
+          Get comprehensive summaries and answers within seconds
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-blue-50 py-10 mt-20 text-center text-gray-600">
+    &copy; 2026 MediQ. All rights reserved. <br>
+    Powered by Advanced AI Medical Intelligence
+  </footer>
 
 </body>
 </html>
